@@ -1,0 +1,17 @@
+[package]
+name = "xsens-packet-send"
+version = "0.0.1"
+authors = ["Brandon Thomas"]
+publish = false
+edition = "2018"
+
+[[bin]]
+name = "xsens-packet-send"
+src = "src/main.rs"
+
+[dependencies]
+anyhow = "1.0.58"
+clap = "2.34.0"
+log = "0.4.17"
+pcap-parser = "0.14.0"
+tokio = { version = "1", features = ["full"] }

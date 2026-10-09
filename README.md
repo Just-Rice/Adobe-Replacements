@@ -13,3 +13,9 @@ Open-source, clean-room Rust reimplementations of Adobe tools, imported from [gi
 | `designcraft/` | InDesign (see its README) |
 
 Source repos: `storytold/<name>`.
+
+## Other storytold repos (`other/`)
+
+Snapshots of the account's remaining repos: `wordcraft`, `gridcraft`, `deckcraft`, `cadcraft`, `soundcraft`, `artcraft`, `artcraftx`, `artcraft-services`, `placeholder-artcraft`, `craft-fonts`, `photocraft-corpus`, `github-media`, `cloud-worker`, `storyteller-ml`, `realtime-voice-conversion`, `vits-finetuning`, `FineTrainers-Conditioning`, `storyteller-bevy`, `bevy-mocap`, `xsens-packet-send`, `k4a-sys-temp`, `point-generator`, `EventCenterPlugin`, `ActorSpawningPlugin`, `html_test`.
+
+Git LFS content was not fetched. In `other/storyteller-ml`, the LFS attributes are disabled (`gitattributes.lfs-disabled`) and two `.pth` pointer stubs are saved as `*.lfs-pointer.txt`.

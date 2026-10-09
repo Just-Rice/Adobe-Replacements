@@ -1,0 +1,196 @@
+wavs/1.wav|lʊk æt ðæt, huː ɑːɹ ðə bɑːksɚz? bʊkɚ. bʊkɚ! oʊkeɪ, dʒʌst wʌn moːɹ? bʊkɚ, ðæt wʌz ɐmeɪzɪŋ.|1151
+wavs/2.wav|ɔf ɐbaʊt leɪdi kəmstɑːk. tɹaɪ ðə ʃɑːk dʒɑːki. wiː wɜːkt hɑːɹd ɪnʌf tə ɡɛt ɪt. nʌn ʌvðə pɹɑːfɪts mædʒɪk ɪz ɹʌbɪŋ ɔf ɔn juː.|1151
+wavs/3.wav|ðæt wʌz ɑːd. deɪzi kæn meɪk ɐ tʃeɪndʒ, kænt ʃiː? θɪŋz bɛɾɚ fɚðə piːpəl hɪɹ. aɪm wʌɹid ɐbaʊt juː. wʌt dɪd juː duː ðɛɹ?|1151
+wavs/4.wav|tɹeɪn ʌp ɐ tʃaɪld ɪnðə weɪ hiː ʃʊd ɡoʊ. iːvən wɛn hiː ɪz oʊld, hiː wɪl nɑːt dᵻpɑːɹt fɹʌm ɪt. heɪ, bʊkɚ, aɪ θɪŋk ðɛɹz ɐ lɑːk pɪk oʊvɚ ðɛɹ.|1151
+wavs/5.wav|ɪf juː pʊt ɐ pɜːsən ɪn ɐ keɪdʒ, ðeɪ dɪvɛləp ɐn ɪntɹɛst ɪn sʌtʃ θɪŋz. wiː ɑːɹ ɡənə hæv vɪzɪɾɚz, bʊkɚ! ɹoʊzɐlɪnd luːɾɛs ɪz nɑːt maɪ mʌðɚ, ænd niːðɚɹ ɑːɹ juː.|1151
+wavs/6.wav|ʃiːz iːðɚɹ ɐ ɡɹeɪt hiəɹoʊ ɔːɹ ðə wɜːst ʌv skaʊndɹəlz, dᵻpɛndɪŋ ɔn huːz duːɪŋ ðə tɛlɪŋ. oʊvɚ hɪɹ! huː ɑːɹ wiː ɹiəli hɛlpɪŋ baɪ ɡɛɾɪŋ ɡʌnz fɚðə vɑːks pɑːpjʊlaɪ?|1151
+wavs/7.wav|aɪ ɹᵻmɛmbɚ meɪkɪŋ ðɛm. bʊkɚ, ɡɹæb ðæt lɑːk pɪk. bʊkɚ, ðɛɹz ɐ lɑːk pɪk oʊvɚ ðɛɹ. haʊ mɛni hæv juː hæd? aɪl kiːp ɐn aɪ ɔn juː fɔːɹ nɛkst taɪm. bʊkɚ!|1151
+wavs/8.wav|juː kʊd tɹaɪ foːɹsɪŋ ɪɾ oʊpən. dʌzənt siːm tə wɜːk vɛɹi wɛl. kəmstɑːk ɪz tuː dɛks ʌp ɪnðə pɹɑːfɪts kæbɪn. ɪts ðə luːɾɛs læb. æz aɪ sɛd, ɪts ɐ fɔːɹm ʌv wɪʃ fʊlfɪlmənt.|1151
+wavs/9.wav|heɪ, bʊkɚ. sleɪt hɐz ðə ʃɑːk dʒɑːki, wiː niːd tə faɪnd hɪm. ðɪs tɪɹ. aɪm nɑːt soʊ ʃʊɹ ɪt wʌzɐ ɡʊd aɪdiə. kæn ɔːlweɪz juːs moːɹ ʌv ðɛm.|1151
+wavs/10.wav|lʊk æt ðɪs, maɪ taʊɚ. ɪts oʊnli fɛɹ ðeɪ ɡɪv miː ɐ kʌt ʌvðə pɹɑːfɪts, doʊnt juː θɪŋk? niːd moːɹ mʌni? huː? juː miːn.|1151
+wavs/11.wav|hɪɹz sʌm kæʃ. wʌt fɔːɹ? aɪ ɡɛt tə wɛɹ ðɪs staɪlɪʃ θɪmbəl tə kʌvɚɹ ʌp maɪ hɪdiəs dᵻfoːɹmᵻɾi. aɪ hɪɹ ðeɪɚɹ ɔːl ðə ɹeɪdʒ ɪn pæɹɪs. ðə siːd ʌvðə pɹɑːfɪt.|1151
+wavs/12.wav|ʃæl sɛt ðə θɹoʊn. hiː wʌz ɡɹuːmɪŋ miː, wʌzn̩t hiː? waɪ? wiː ʃʊd lʊk fɔːɹ moːɹ fʊt pɹɪnts. kiːp ɐ lʊk aʊt. aɪ kæn oʊpən ðæt. aɪ kæn.|1151
+wavs/13.wav|lʊk æt ðiːz, ðeɪɚɹ ɐmeɪzɪŋ! wɪtʃ wʌn duː juː laɪk moːɹ, ðɪswʌn, ɔːɹ ðɪs? aɪ kæn siː ðɛm θɹuː ðə doːɹz. juː, miː, kəlʌmbiə sɔŋ bɜːd?|1151
+wavs/14.wav|bʌt sʌmtaɪmz, sʌmθɪŋz dɪfɹənt, jɛt ðə seɪm. duː juː hɪɹ ðæt? ɪts mjuːzɪk! lʊks iːzi ɪnʌf.|1151
+wavs/15.wav|kætʃ, bʊkɚ! ɪɾ ɔːlmoʊst lʊks laɪk ɐ ɹiːəl oʊʃən. ɪts dʒʌst ɐ sɛt ʌv ᵻlæbɚɹeɪt pʌmps ænd ɹeɪn kætʃɚz. bʊkɚ, ðɛɹz ɐ doːɹ oʊvɚ hɪɹ. lʊk, ɐ tɪɹ. huː sɛnt juː?|1151
+wavs/16.wav|ɹɛdi. juː noʊ haʊ aɪ sɛd aɪ hæd plɛnti ʌv taɪm tə ɹiːd? wɛl, aɪ tɹaɪd tə fɪɡjɚɹ ɪɾ aʊt. aɪ ɹiːd lɪɾɚɹᵻtʃɚɹ ɔn fɪzɪks ænd ʌðɚ sʌtʃ θɪŋz. wɛn jʊɹ ʌŋkɑːnʃəs ɔnðə biːtʃ, juː.|1151
+wavs/17.wav|kɛpt ɹᵻpiːɾɪŋ ɐ wʊmənz neɪm, ænə. ðɪs kʊd kʌm ɪn hændi. juː ɹiəli ʃʊd pɪk ðæt ʌp. bʊkɚ, kʌm hɪɹ. ðeɪ hɑːɹdli leɪd ɐ fɪŋɡɚɹ ɔn ʌs.|1151
+wavs/18.wav|ɪts hɜː. faʊnd ðɪs laɪɪŋ ɚɹaʊnd. hɜː tɹeɪl mʌst biː sʌmwɛɹ. aɪɐm nɑːt ɡoʊɪŋ bæk tə ðæt taʊɚ noʊ mæɾɚ wʌt hæpənz.|1151
+wavs/19.wav|sɔŋ bɜːd ɪz ɹɛdi, bʊkɚ. ðɪs lʊks ɪmpoːɹtənt, bʊkɚ. fɚɡɛt. haʊ duː juː wɑːʃ ɐweɪ ðə θɪŋz ðæt juːv dʌn?|1151
+wavs/20.wav|heɪ, doʊnt pɔɪnt ðæt æt miː. ɡʊd. sleɪt mʌstəv teɪkən ðɛm. lʊk. hɜːɹi, bʊkɚ, hɜːɹi! bʊkɚ, ðə poʊstɚ. juː tʃoʊz tə wɔːk ɐweɪ.|1151
+wavs/21.wav|ɪts ɐbaʊt sɛvən θɜːɾi. ðɛɹɑːɹ ɐ mɪliən, mɪliən wɜːldz. ɔːl dɪfɹənt ænd ɔːl sɪmɪlɚ. kɑːnstənts ænd vɛɹɪəbəlz.|1151
+wavs/22.wav|ɔn jʊɹ ɹaɪt, aɪ siː ɐ tɪɹ. fɪŋk ɪndʌstɹiz. siːmz laɪk ðeɪɚ ðə wʌnz ɹᵻspɑːnsᵻbəl fɔːɹ ðɪs ʃɑːk dʒɑːki pɹɑːdʌkt. ðeɪ ʃʊd biː ɐʃeɪmd ʌv ðɛmsɛlvz.|1151
+wavs/23.wav|wiː kæn pɪk ʌp sʌm səplaɪz fɹʌm ðæt məʃiːn. ɪf ɪt hæd ɐ mᵻkænɪkəl lɑːk, meɪbiː. ɪts wʌn ʌv ðoʊz ʃɑːk dʒɑːki doːɹz. jʊɹ wuːndᵻd! hɪɹ!|1151
+wavs/24.wav|noʊ. hiː wʌz hɪɹ. ðɪs weɪ. lʊk oʊvɚ hɪɹ. waɪ doʊnt juː ɹɪŋ ðə bɛl? ɪf hiː wɜː tə teɪk miː bæk. ðæts dɛθ, mɪstɚ də wɪt.|1151
+wavs/25.wav|ɔːɹ sʌmθɪŋ soʊ laɪk ɪɾ aɪ kænɑːt tɛl ðə dɪfɹəns. aɪm aʊt! ʃɑːk dʒɑːki. huː niːdz ðə paʊɚ kʌmpəni?|1151
+wavs/26.wav|mʌst biː bɪkʌz ʌv wʌts ɡoʊɪŋ ɔn wɪð ðæt mænz sleɪ. ðə keɪdʒ ʃʌt ʌp taɪt. naʊ haʊ ɑːɹ wiː ɡənə ɡɛt tə ðɪ ɛɹ ʃɪp? lʊk æt ðɪs! mɪstɚ də wɪt?|1151
+wavs/27.wav|aɪ doʊnt ʌndɚstænd. waɪ wʊd ðə twɪnz sɛnd ʌs tə faɪnd θɹiː tɹuːθs? wɜː ðə tɪɹz sʌmhaʊ ɹᵻleɪɾᵻd θɹuː ɐ kaɪnd ʌv kwɔntəm fiːld, ɔːɹ wɜː ðeɪ?|1151
+wavs/28.wav|taɪm ɹɑːts ɛvɹɪθɪŋ, bʊkɚ. iːvən hoʊp. hɪɹ, lɛt miː. lʊk.|1151
+wavs/29.wav|ðə bɑːks ʌv boʊlts dɹɑːpt hɪz wɛpən, juː ʃʊd juːz ɪt. ðeɪɚ dʒʌst teɪkɪŋ bæk wʌts oʊd tə ðɛm. ɪts dʒʌstɪs. wʌt ðə hɛl wʌz ðæt? heɪ bʊkɚ?|1151
+wavs/30.wav|aɪ siː ɐ tɪɹ. hʌ. ɡoʊ ɔn wɪðaʊt miː! bʌt ɪn ɔːl ʌv aʊɚz. ɑːɹ juː ɔːlɹaɪt? ðæt dɪdnɑːt lʊk iːzi.|1151
+wavs/31.wav|bᵻjɔnd ðæt ɡeɪt laɪz kəmstɑːk haʊs. dᵻstɹɔɪ ðə saɪfən? ɪf ðeɪ pleɪ ðə hoʊl sɔŋ, hiːl kʌm bæk. pʊt ðæt ɐweɪ. ðiːz siːm təbi ðə kəntɹoʊlz ðæt sʌmən hɜː.|1151
+wavs/32.wav|aɪv ɡɑːt sɔlts! sɑːɹi, bʊkɚ. hiː wʌz ɔːl aɪ hæd. bɹɔːt miː bʊks. ænd ðæt wɪl teɪk ʌs tə pæɹɪs.|1151
+wavs/33.wav|kʌm ɔn. duː juː niːd æmoʊ? dʌn. teɪk ðɪs fɚðə bliːdɪŋ! oʊkeɪ, kætʃ. kəmstɑːk? hʌ.|1151
+wavs/34.wav|soʊ ðə fɜːst leɪdi ɪz hɪz ʃɪp. juː hoʊld ɔn tə ðɪs. aɪ doʊnt noʊ! ɡɪv ɪt tə miː! bʊkɚ, sɔlts! bʊkɚ, noʊ.|1151
+wavs/35.wav|weɪt, wʌt ɪz ðæt? fɔːɹɾi nɔːɹθ baɪ sɛvənti foːɹ wɛst. ðæts nɑːt pæɹɪs, ðæts nuː jɔːɹk. ðæt tɪɹ wɪl ɡɛt ʌs æksɛs tə haɪɚ ɡɹaʊnd. oʊvɚ hɪɹ, bʊkɚ.|1151
+wavs/36.wav|wʌn θɪŋ aɪ hæd ɪn ðæt taʊɚ wʌz taɪm, mɪstɚ duːɪt. taɪm tə stʌdi θɪŋz laɪk dʒɪɑːɡɹəfi. aɪl tɹaɪ tə kiːp juː stɑːkt wɪð boʊθ bændɪdʒᵻz ænd æmoʊ, bʌt.|1151
+wavs/37.wav|ðə ɹaɪt mətɪɹiəlz ɑːɹnt ɔːlweɪz æt hænd. lɛt miː hæv ɐ lʊk. bʊkɚ, bʌt ðə θɪŋ ɪz, maɪ bʊks sɛd ðeɪ dɪsɐpɪɹd sɛvɹəl jɪɹz ɐɡoʊ.|1151
+wavs/38.wav|ɑːɹ juː ʃʊɹ? heɪ! seɪ wʌt juː wɔnt ɐbaʊt leɪdi kəmstɑːk. ɐ wʊmən hæd ɐn aɪ fɔːɹ fæʃən. ɪɾəl teɪk sʌm skɹaʊndʒɪŋ, bʌt aɪl duː maɪ bɛst.|1151
+wavs/39.wav|kæʃ, bʊkɚ. maɪ hʌsbənd kleɪmz ðə tʃaɪld wʌz kɹiːeɪɾᵻd fɹʌm hoʊl klɔθ baɪ dᵻvaɪn wɪl. aɪɐm ɐ bᵻliːvɚ, bʌt aɪɐm nɑːɾə fuːl.|1151
+wavs/40.wav|hɪz bæstɚd ʃæl nɑːt biː ɹeɪzd ʌndɚ ðɪs ɹuːf. ɐ ɡɪtɑːɹ. wɪʃ aɪ nuː haʊ tə pleɪ. maɪt dʒʌst spɛl sʌm ʌvðə ɡluːm.|1151
+wavs/41.wav|ʃiːz ɡoʊɪŋ tə kɪl ðæt tʃaɪld! hiːz ɹɛdi, bʊkɚ! lʊk, maɪt biː ɐ ɡʊd aɪdiə tə leɪ ɪn sʌm səplaɪz.|1151
+wavs/42.wav|ðɛɹz ɐ wɜːld ʌv dɪfɹəns bᵻtwiːn wʌt wiː siː ænd wʌt ɪz. stɹeɪndʒ. aɪ siː ɐ tɪɹ, bʊkɚ. aɪ θɪŋk wɪɹ ɡənə hæv vɪzɪɾɚz. ɛvɹɪθɪŋ.|1151
+wavs/43.wav|əbʌv juː, bʊkɚ! lʊk aʊt! hændi mæn! wʌt dʌz mɪstɚ fɪŋk wɔnt wɪð ʌs? lʊks laɪk ðɪs ɹʌnz ɛkskluːsɪvli ɔn ʃɑːk dʒɑːki.|1151
+wavs/44.wav|ðɪs ɪz wʌt hiː mɛnt. maɪt nɑːt biː ɐ bæd aɪdiə tə leɪ ɪn sʌm səplaɪz. deɪzi sɛd ʃiː wʌz kʌmɪŋ hɪɹ fɔːɹ fɪŋk.|1151
+wavs/45.wav|ðɛɹ, bæk ɪnðə lænd ʌvðə lɪvɪŋ. ɔːl joːɹz. doʊnt spɛnd ɪɾ ɔːl ɪn wʌn pleɪs. ðæt ɔːtɑːmətənz wɛpən ɪz laɪɪŋ oʊvɚ ðɛɹ. siːmz laɪk wɪɹ fɛɹli wɛl hiːld, bʊkɚ.|1151
+wavs/46.wav|ðɛɹ. duː juː θɪŋk ɪts pɑːsᵻbəl tə ɹᵻdiːm ðə kaɪnd ʌv θɪŋz ðæt wiːv dʌn?|1151
+wavs/47.wav|mɪstɚ də wɪt! aɪ kæn oʊpən ðɪs ɪf juː wɔnt. wʌt ɑːɹ juː, mɪstɚ də wɪt? sʌm sɔːɹt ʌv. heɪ, ðɛɹz ɐ lɑːk oʊvɚ ðɛɹ. heɪ, bʊkɚ!|1151
+wavs/48.wav|juː hɪɹ ðæt? mjuːzɪk. ɪts kʌmɪŋ fɹʌm ðæt tɪɹ. faɪnd sʌmθɪŋ suːn! ðə siːd ʌvðə pɹɑːfɪt leɪ ɪnðə wuːm ʌv aʊɚ leɪdi bʌt fɚɹə sɪŋɡəl wiːk.|1151
+wavs/49.wav|ɪts ɐ fɪɡjɚɹ ʌv kəmstɑːk naʊ. aɪ faʊnd sʌm tʃeɪndʒ. aɪ doʊnt noʊ ɪf aɪ bɹɔːt ʌs tʊ ɐ wɜːld wɛɹ ðə vɑːks hæd wɛpənz, ɔːɹ aɪ kɹiːeɪɾᵻd wʌn.|1151
+wavs/50.wav|lɛts siː. haʊ dɪd juː duː ðæt? ɑːɹ juː ɪntɹɛstᵻd ɪn ɡɑːɹdənɪŋ, mɪstɚ də wɪt? kɛɹfəl, ðæt dʌzənt lʊk tuː seɪf. waɪ juː? oʊkeɪ!|1151
+wavs/51.wav|aɪ siː moːɹ fʊt pɹɪnts. aɪ doʊnt laɪk hɪz lʊk. haʊ ɑːɹ juː, mʌðɚ? ɔːl lɑːkt ʌp ɪn ðɛɹ, hʌ? lʊks laɪk juː ænd aɪ hæv sʌm kɑːmən ɡɹaʊnd.|1151
+wavs/52.wav|noʊ. wʌt hæpənd ðɛɹ? ʃʊɹ. kɛɹfəl! waɪ ɪz ɪt ðæt wiː nɛvɚ kætʃ ɐ bɹeɪk? ðə faʊndɚɹ ʌv buːdɪzəm spɛnt fɔːɹɾi naɪn deɪz ʌndɚɹ ɐ bɑːdhaɪ tɹiː.|1151
+wavs/53.wav|ʌntɪl hiː ɐtʃiːvd ɛnlaɪʔn̩mənt. heɪ, mɪstɚ də wɪt! ðæt poʊstɚ. ðɛɹz ɐnʌðɚ saɪfɚɹ ɔn ɪt. ðɪs ɪz ɪn aʊɚ hændz, ɪzənt ɪt? ɑːɹ juː ʃʊɹ, bʊkɚ?|1151
+wavs/54.wav|dɪd aɪ dʒʌst bɹɪŋ ʌs tʊ ɐ wɜːld wɛɹ tʃɛn lɪn wʌz ɐlaɪv, ɔːɹ dɪd aɪ kɹiːeɪt ɪt? aɪ toʊld juː, aɪ ɔːlweɪz θɔːt ðæt.|1151
+wavs/55.wav|maɪ lɪɾəl tɹɪk wʌzɐ fɔːɹm ʌv wɪʃ fʊlfɪlmənt. aɪ ɡɑːt maɪ wɪʃ. kəmstɑːk. aɪv ɹɛd ɐbaʊt hɪm. ðeɪ seɪ hiː kæn siː ðə fjuːtʃɚ.|1151
+wavs/56.wav|bʊkɚ, snaɪpɚ ɹaɪfəl! aɪ dʒʌst kænt dᵻsaɪd. lɑːk pɪks. ðeɪ hæv hɜː pɹɪzɜːvd ɪn ɐn ɛɹ taɪt tʃeɪmbɚ. hɜː fɪŋɡɚ pɹɪnts wɪl ɡɛt ʌs ɪntʊ kəmstɑːk haʊs.|1151
+wavs/57.wav|juː bɛt. ðɪs ɪz ɡoʊɪŋ təbi fæntæstɪk. teɪk ðɪs. ðɪs dʌzənt meɪk ɛni sɛns.|1151
+wavs/58.wav|ɛvɹɪθɪŋ hɪɹ ɪz ɐ saɪfɚ ðæt aɪ ʌndɚstænd ɛksɛpt fɔːɹ ðɪs sɪmbəl. ɪts ɔːl ɹaɪt. ɪts æz mʌtʃ ɐ mɪstɚɹi tə miː æz ɛnɪwʌn ɛls.|1151
+wavs/59.wav|meɪbiː sɔŋ bɜːd noʊz, bʌt hiːz nɑːt tɔːkɪŋ. laɪk wʌt? ɐ wɪndoʊ. ɐ wɪndoʊ tʊ ɐnʌðɚ wɜːld. moʊst əv ðə taɪm ðeɪɚ dʌl æz dɪʃ wɔːɾɚ.|1151
+wavs/60.wav|dɪfɹənt kʌlɚd taʊəl ɔːɹ tiː ɪnstɛd ʌv kɔfi. bʌt sʌmtaɪmz, sʌmtaɪmz aɪ siː sʌmθɪŋ ɐmeɪzɪŋ ænd aɪ pʊl ɪt θɹuː.|1151
+wavs/61.wav|ænd haʊ hɐz ðæt wɜːkt aʊt fɔːɹ juː? bʊkɚ wɪl faɪnd ɪt. dʒʌst liːv hɜː biː. dɪd juː noʊɾɪs? lɪn hæd ɐ blʌdi noʊz.|1151
+wavs/62.wav|aɪ θɪŋk ðæts ðə weɪ daʊn. ænd waɪ lɑːk miː ʌp? ðə bɜːd ɪz bjuːɾifəl, ænd ðə keɪdʒ ɪz sɑːmɚ, bʌt ðɛɹz ɹiəli sʌmθɪŋ spɛʃəl ɐbaʊt ɪt.|1151
+wavs/63.wav|bʊkɚ, ðə laɪnz ɑːɹ klɪɹ! wɪɹ ɡənə hæv vɪzɪɾɚz, bʊkɚ. juː mʌst θɪŋk miː sʌm sɔːɹt ʌv fɹiːk. ɐ ɡɜːl huː kæn bɹɪŋ dɛd mɛn bæk tə laɪf.|1151
+wavs/64.wav|huːz oʊnli ɐkweɪntəns ɪz ɐ dʒaɪənt bɜːd kɹiːtʃɚ. ðæt mʌst siːm ɹɪdɪkjʊləs. wɛɹ dɪd ðeɪ teɪk hɪm? lʊk, ɐ tɪɹ.|1151
+wavs/65.wav|bʊkɚ, jʊɹ noʊz. ʃiːz ɔːlmoʊst fɛɹəl. ɪts laɪk ʃiːz ɐ ɹᵻflɛkʃən ʌv. aɪ doʊnt noʊ. kætʃ!|1151
+wavs/66.wav|jʊɹ bliːdɪŋ! doʊnt juː θɪŋk ɪts bɛst ɪf wiː kiːp muːvɪŋ? aɪ faʊnd ɐ tɪɹ. lʊk, vɑːks ɑːɹ tɛɹɪŋ ðɪs pleɪs ɐpɑːɹt. bʊkɚ, juːv ɔːlɹɛdi bɪn.|1151
+wavs/67.wav|lʊks sɪmpəl ɪnʌf. bʊkɚ, oʊvɚ hɪɹ. biːɪŋ dɛd. kəmstɑːk. soʊ ðə fɜːst leɪdi ɪz hɪz ʃɪp. ɪntɹɛstɪŋ. jʊɹ ɪndʒɚd. moːɹ ʌv hɜː fʊt pɹɪnts.|1151
+wavs/68.wav|duː juː noʊ ðɪs ɑːɹɾɪfɪʃəl biːtʃ wʌz bɪlt ɪn oʊnli sɪks mʌnθs? bʌt ðɛɹɪz. ðɛɹ ɪz sʌmθɪŋ aɪ. bʊkɚ. ɛkskjuːs miː?|1151
+wavs/69.wav|ɪts ðɪ oʊnli weɪ wiːl faɪnd ðə tɹuːθ. bʌt maɪ fɪŋɡɚ. kəmstɑːk. lʊk, ɪts ðə hænd ʌvðə pɹɑːfɪt. kəmstɑːks flæɡʃɪp!|1151
+wavs/70.wav|maɪ fɪŋɡɚ. hʌ. ɑːɹnt wiː ðə wɛl tə duː taɪps? jʊɹ ɐ laɪɚ, mɪstɚ duːɪt ænd ɐ θʌɡ, bʌt jʊɹ ɔːlsoʊ maɪ oʊnli miːnz ʌv ɹiːtʃɪŋ pæɹɪs.|1151
+wavs/71.wav|ðɛɹ ðeɪ ɑːɹ, ðə tuːlz. kʊdənt hɜːt tə stɑːk ʌp. hiːz kʌmɪŋ fɔːɹ juː! oʊvɚ hɪɹ. ðə ɡʌn smɪθ tʃɛn lɪn wɔntᵻd fɔːɹ noʊn kənɛkʃənz tə ðɪ aʊt lɔː deɪzi fɪtsɹɔɪ.|1151
+wavs/72.wav|deɪzi fɪtsɹɔɪ. aɪv ɹɛd ɐbaʊt hɜː. bʊks seɪ ʃiːz aʊt tə tɛɹ kəlʌmbiə fɹʌmðə skaɪ. ɪz ðætðə læst ʌv ðɛm? ɪɾ ɔːlweɪz hæz.|1151
+wavs/73.wav|wɛn aɪ wʌz jʌŋɡɚ, aɪ juːzd təbi ɛksaɪɾᵻd wɛn aɪ hɜːd ɪt. flɔːləs flɪntlɑːk! ɪts ðə nuːɪst wʌn ɪnðə sɪɹiz. aɪ ɹiːd ɪt wʌz dᵻleɪd θɹiː taɪmz.|1151
+wavs/74.wav|lʊks laɪk wiː faʊnd wɛɹ jʊɹ oʊld fɹɛnd sleɪt ɪz. jɛs. lʊks laɪk ɛvɹɪθɪŋz bɪn ɪmpaʊndᵻd æt ðə ɡʊd taɪm klʌb. meɪbiː ðæts wɛɹ wiːl faɪnd ɪt.|1151
+wavs/75.wav|bʊkɚ, duː juː siː ðoʊz tɪɹz? wiː kæn juːz ðɛm ɐɡɛnst sleɪtz mɛn. θæŋk juː. ænd juː wɜː bɔːɹn ɐɡɛn æz ɐ dɪfɹənt mæn. mɪstɚ də wɪt, juː dɪdnt ɡoʊ θɹuː wɪð ɪt.|1151
+wavs/76.wav|æmjuːnɪʃən hɪɹ ɪf juː niːd ɪt. wiː doʊnt niːd tuː. ɪɾəl hæpən ɔːl ðə seɪm. ɹiəli? ðɛɹz ɐ lɑːk. aɪ wʌndɚ wʌts ɔnðɪ ʌðɚ saɪd.|1151
+wavs/77.wav|lɛts steɪ ɐweɪ fɹʌm ðɛm. ɪt wʌzɐ faɪn θɪŋ juː keɪm ɐlɔŋ wɛn juː dɪd. soʊldʒɚz fiːld, bɪlt ɪn naɪntiːn oʊ θɹiː baɪ ðə hænd ʌv aʊɚ pɹɑːfɪt.|1151
+wavs/78.wav|noʊz, ɪts bliːdɪŋ. aɪ duːnɑːt laɪk ðə lʊks ʌv ðæt θɪŋ. bʊkɚ, ʌp ðɛɹ. wʌn ʌv ðoʊz ʃɑːk dʒɑːki doːɹz.|1151
+wavs/79.wav|meɪbiː wiː ʃʊd teɪk ɐ lʊk. bʊkɚ, weɪk ʌp. bʊkɚ, juː doʊnt liːv ðɪs ɹuːm ʌntɪl juː duː. vɛndɪŋ məʃiːn? aɪ duːnɑːt laɪk ðə lʊks ʌv ðɪs, bʊkɚ.|1151
+wavs/80.wav|kəmstɑːk ɪz θɹiː dɛks ʌp, ɪnðə pɹɑːfɪts kæbɪn. ɹiəli? waɪ? aɪ duːnɑːt laɪk ðə weɪ ðeɪɚ lʊkɪŋ æɾ ʌs. hʌ. bɪkʌz ɪt dʌz.|1151
+wavs/81.wav|bɪkʌz ɪt hæz. bɪkʌz ɪt wɪl. ðeɪɚ kʌmɪŋ. ænd aɪ woʊnt biː lɑːkt ʌp ɐɡɛn, bʌt. mɪstɚ də wɪt. hɪɹ, wɛɹ duː juː θɪŋk ðɪs ɡoʊz?|1151
+wavs/82.wav|heɪ, mɪstɚ! jʊɹ ɡənə ɡɛt mʌstɚd ɔːl oʊvɚ jʊɹ naɪs suːt! ðɪs ɪz wʌt ðə koʊd kiːz fɔːɹ. oʊvɚ hɪɹ. ʃʊɹ θɪŋ. wʌts ɡoʊɪŋ ɔn? mɪstɚ də wɪt, aɪ.|1151
+wavs/83.wav|ɐ tɪɹ! bʊkɚ, oʊvɚ hɪɹ. hʌ, tɹʌbəl ʌp ɐhɛd. juː siː ɪt? ɪntɹɛstɪŋ. bʊkɚ, ɪf wiː ɡoʊ ɪntʊ ðɪs tɪɹ.|1151
+wavs/84.wav|aɪ doʊnt θɪŋk ðɛɹz ɛni tɜːnɪŋ bæk. ɑːɹ juː ʃʊɹ juː wɔnt tə ɡoʊ naʊ? ɪf aɪ kʊd faɪnd sʌm dʒɛnjuːɪn lɑːk pɪks, aɪ maɪt biː eɪbəl tə ɡɛt ðɪs doːɹ oʊpən.|1151
+wavs/85.wav|aɪm ʃʊɹ aɪ sɔː sʌm ɪntɹɛstɪŋ θɪŋz ɔnðɪ ʌðɚ saɪd. noʊ, ɪts miː, ᵻlɪzəbəθ. ɑːɹ juː ɔːlɹaɪt? bʊkɚ. ðɪs ɪz ɐmeɪzɪŋ.|1151
+wavs/86.wav|haʊ hæv aɪ nɛvɚ tɹaɪd ðɪs? aɪ kænt bᵻliːv haʊ mʌtʃ aɪv mɪst. ɔːl ɹaɪt. bʊkɚ, lʊk æt ðæt.|1151
+wavs/87.wav|juːv dʌn ðɪs bᵻfoːɹ, hævənt juː? lʊk æt ðæt. tɪɹ, ɹaɪt ðɛɹ. bᵻhaɪnd juː. bʌt aɪ kʊd hɛlp. wiː kænt siːm tə kætʃ ɐ bɹeɪk, mɪstɚ duːɪt.|1151
+wavs/88.wav|stɹeɪndʒ. lʊk æt ðæt. wʌt dɪd sleɪt miːn? wʌt dɪd juː tɹaɪ tʊ ᵻɹeɪs? ðeɪ, wɛl æt liːst ʃiː, ɪnvɛntᵻd ðə tɛknɑːlədʒi ðæt ɐlaʊz ðə sɪɾi tə floʊt.|1151
+wavs/89.wav|aɪ kæn kɔːl sɔŋ bɜːd ænd bʊkɚ. doʊnt læf. wiː bɛɾɚ stɪɹ klɪɹ ʌv ðɛm. oʊ, noʊ, aɪm nɑːt ænəbɛl. mɪstɚ də wɪt. kætʃ, mɪstɚ də wɪt.|1151
+wavs/90.wav|siːmz iːzi ɪnʌf. aɪ kæn siː ɐ tɪɹ. lʊks sɪmpəl ɪnʌf. mɪsɪz lɪn, kæn juː tɛl miː huː tʊk jʊɹ hʌsbəndz tuːlz? hɪɹ juː ɡoʊ.|1151
+wavs/91.wav|bʊkɚ, ðɛɹ mʌst biː ɐ bʌʔn̩ ʌndɚ ðə ɹɛdʒɪstɚ. aɪ noʊ ðæt pleɪs. ðæts ælbɚt fɪŋks haʊs. aɪ lʌv hɪz mjuːzɪk. aɪ wʌndɚ ɪf hiːz ɪn ðɛɹ.|1151
+wavs/92.wav|ɪɾəl teɪk sʌm skɹaʊndʒɪŋ, bʌt aɪl duː maɪ bɛst. lʊks laɪk fɪŋk ɪzənt ɡɪvɪŋ juː ðə dʒɑːb. ʃʊd wiː juːz ðɪs? ɪts oʊvɚ, ɹaɪt? pliːz tɛl miː ɪts oʊvɚ. ɪz ðætðə koʊd bʊk?|1151
+wavs/93.wav|ɹɛdi ænd weɪɾɪŋ! haɪ ðɛɹ, aɪm dʒʌst soʊ æŋɡɹi. aɪ θɪŋk ʃiːz hɜː, bʌt ʃiːz ɔːlsoʊ pɑːɹtli miː. aɪm nɑːt iːvən ʃʊɹ aɪ ʌndɚstænd ɪt maɪsɛlf.|1151
+wavs/94.wav|bʊkɚ, fʊt pɹɪnts. ɪts dʌn. noʊ. noʊ, ɪɾ ɪzənt. aɪ θɪŋk juː ʃʊd siː ðɪs. hɪɹ. bʊkɚ, ðɛɹ noʊzᵻz. ðeɪɚɹ ɔːl bliːdɪŋ.|1151
+wavs/95.wav|ðeɪ ɔːl liːd ʌs tə ðə seɪm pleɪs, wɛɹ ɪt stɑːɹɾᵻd. noʊ pɹɑːbləm. wiː kænt siːm tə kætʃ ɐ bɹeɪk. bʊkɚ, lʊk æt ðɪs.|1151
+wavs/96.wav|aɪm sɑːɹi ɐbaʊt wʌt aɪ sɛd æt ðə dɑːks. kɔːlɪŋ juː ɐ θʌɡ? ɐ koʊd bʊk? aɪ wʌndɚ wɛɹ ðə saɪfɚɹ ɪz. ðɛɹ. həm. həloʊ.|1151
+wavs/97.wav|bʊkɚ, ɑːɹ juː ɐfɹeɪd ʌv ɡɑːd? wʌt ɪz ðɪs? aɪ kæn duː ðæt. ɪf juː wɔnt tʊ æsk miː, æsk miː. juː noʊ aɪ?|1151
+wavs/98.wav|aɪ kiːp θɪŋkɪŋ ɐbaʊt ðæt dɹiːm ðæt juː hæd. nuː jɔːɹk ɔn faɪɚ. ðɛɹz sʌmθɪŋ ɐbaʊt ɪt. ðə skaɪ laɪn ɪz klɪɹ, bʊkɚ. bʊkɚ, lʊk wʌt aɪ faʊnd!|1151
+wavs/99.wav|toʊlz æt mɪdnaɪt. bʊkɚ, aɪ kæn ɡɛt θɹuː ðiːz bɑːɹz, bʌt jʊɹ tuː bɹɔːd. lɛt miː skaʊt ɐhɛd, siː ɪf ðɛɹz sʌm weɪ tə muːv fɔːɹwɚd.|1151
+wavs/100.wav|tʃɛn lɪn. ɡʌn smɪθ. oʊ maɪ ɡɑːd! ænd mædəm luːɾɛs. hiː juːzd miː tə paʊɚ ðæt dɪvaɪs! hiː oʊpənd ʌp sʌm kaɪnd ʌv tɪɹ!|1151
+wavs/101.wav|wʌɹi. dʒʌst kiːp tɛlɪŋ joːɹsɛlf ðɪs ɪz oʊnli ɐ ɡeɪm. wiː kæn sɑːlv ɪt. suːpɚ doːɹks moːɹ laɪk ɪt.|1152
+wavs/102.wav|ðɪs ɪzənt ɐn iːɾɪŋ kɑːntɛst, dʒoʊi, ðɪs ɪz deɪndʒɚɹəs. sɪli? aɪ θɪŋk juː lʊk dʒʌst ɡɹeɪt!|1152
+wavs/103.wav|juːɡi, dɪd juː tʃɛk miː aʊt? aɪ lʊk weɪ tuː ɡʊd təbi sɪtɪn æt hoʊm. wɛɹz dʒoʊi, ɛnɪweɪ? kʌm ɔn, doʊnt biː sʌtʃ ɐ wɪmp.|1152
+wavs/105.wav|kʊd stɪl biː fɹɛndz aʊtsaɪd ɪt. ɪf hiː hædənt loʊnd miː hɪz stɑːɹ tʃɪps, aɪ maɪt nɛvɚ hæv meɪd ɪt tə ðə faɪnəl ɹaʊnd. aɪ oʊ hɪm ɐ vɛɹi ɡɹeɪt dɛt.|1152
+wavs/107.wav|iːvən wɪðaʊt maɪ tɹɪks, aɪ kæn stɪl duːəl wɪððə bɛst ʌv ɛm! ænd naʊ aɪl leɪ daʊn ɐ sɛkənd kɑːɹd wɪtʃ wɪl fɪnɪʃ maɪ tɜːn.|1152
+wavs/108.wav|ɡɑːtʃə. θæŋks juːɡi, aɪ wɔntᵻd juː tʊ ɐtæk. jʊɹ ɡaɪɚ ɹæn smæk ɪntʊ maɪ mɪɹɚ wɔːl wɪtʃ kʌts ɛni ʌv jʊɹ mɔnstɚz ɐtæk paʊɚɹ ɪn hæf.|1152
+wavs/109.wav|æz suːn æz jʊɹ mɔnstɚɹ ɐtækt, ðə mɪɹɚ wɔːl ɹoʊz ʌp tə pɹətɛkt maɪ hɑːɹpi leɪdi! jʊɹ fɪɹs naɪt mɛt ɐn iːkwəl ɐtæk fɹʌm ɪts oʊn ɹᵻflɛkʃən!|1152
+wavs/110.wav|ɡɛs ɪts maɪ tɜːn ɐɡɛn. haɪ fæʃənd fɔːɹ hɑːɹpi leɪdi. saɪbɚ ʃiːld.|1152
+wavs/111.wav|nɑːt mʌtʃ ɛls juː kæn duː, ɪz ðɛɹ, juːɡi, sɪns aɪv lɛft juː noʊ weɪ tʊ ɐtæk? maɪ tɜːn naʊ.|1152
+wavs/112.wav|ɹoʊz wɪp tə ɹeɪz maɪ mɔnstɚz ɐtæk! naʊ jʊɹ ɪmps ɡənə fiːl maɪ hɑːɹpiz stɪŋ!|1152
+wavs/113.wav|ðæts nʌθɪŋ, juːɡi. stɪk ɚɹaʊnd, ðə fʌnz dʒʌst bɪɡɪnɪŋ. pɹɑːmɪst juːd tɹaɪ hɑːɹdɚ, juːɡi, bʌt aɪ siː naʊ ðæts nɑːt ɡoʊɪŋ tə hæpən!|1152
+wavs/114.wav|wʌt hæv wiː hɪɹ? wɛl, wɪð ðɪs kɑːɹd, maɪ hɑːɹpi kɑːmboʊ woʊnt biː kwaɪt kəmpliːt.|1152
+wavs/117.wav|juː doʊnt iːvən hæv jʊɹ feɪvɚɹᵻt kɑːɹd ðə dɑːɹk mɐdʒɪʃən lɛft. wʌt ɑːɹ juː ɡənə duː naʊ? ɪf ðɪs ɪz haʊ juː tɹiːt jʊɹ fɹɛndz, aɪ kænt weɪt tə siː haʊ juː tɹiːt jʊɹ ɛnəmiz.|1152
+wavs/118.wav|aɪm biːɪŋ kaɪnd, nɑːt stuːpɪd. wʌts ʌp? ɪf juː ɡaɪz hæv ɪnʌf stɑːɹ tʃɪps tə ɡɛt ɪntʊ ðə kæsəl, waɪ ɑːɹ juː hæŋɪŋ aʊt hɪɹ?|1152
+wavs/119.wav|naʊ ɡoʊ ɔn, juːɡi. juː noʊ aɪ oʊ juː, soʊ teɪk ðɛm. ɜːθ tə juːɡi. stɑːɹ tʃɪps æt twɛlv əklɑːk.|1152
+wavs/120.wav|wʌt, ɑːɹ maɪ stɑːɹ tʃɪps nɑːt ɡʊd ɪnʌf fɔːɹ juː? kʌm ɔn, tʃɪkɪn bɔɪ, duːəl miː fɔːɹ ðɛm naʊ. faɪn! ðɛn aɪl kiːp ðɛm!|1152
+wavs/121.wav|ænd jʊɹ fɹɛndz kæn waɪp jʊɹ noʊz ɔːl ðə weɪ bæk tə ðə nɜːsɚɹi! ɡɹoʊ ʌp! oʊ, aɪ ʌndɚstænd jʊɹ fɹɛnd lɔst wʌn laʊsi duːəl ænd naʊ hiːz tuː tʃɪkɪn tə pleɪ ɐɡɛn! ɪzənt ðæt ɹaɪt?|1152
+wavs/122.wav|kʌm ɔn, biː sɪɹiəs! ɐn æmətʃɚ laɪk juː wʊdənt stænd ɐ tʃæns ɐɡɛnst miː! ɑːɹ juː ʃʊɹ juː wɔnə duːəl miː?|1152
+wavs/123.wav|hʌn, ɪts swiːt juː stændɪŋ ʌp fɔːɹ juːɡi ænd ɔːl, bʌt swiːt dʌzənt wɪn duːəlz. naʊ aɪl æsk juː wʌn læst taɪm.|1152
+wavs/124.wav|aɪ pleɪ hɑːɹpi leɪdi! ænd aɪl leɪ ðɪs tuː. jʊɹ fɛɹi tɜːnd tə dʌst!|1152
+wavs/125.wav|juː noʊ, tiː, ɪf jʊɹ tɹɛmblɪŋ wɪð fɪɹ æftɚ dʒʌst ðə fɜːst ɹaʊnd, meɪbiː juː ʃʊd kwɪt ɹaɪt hɪɹ?|1152
+wavs/126.wav|ɐnʌðɚɹ ʌv ðiːz kjuːɾəsi kɑːɹdz? kʌm ɔn, wʌt ɑːɹ wiː hævɪŋ ɐ duːəl ɔːɹ ɐ pædʒənt?|1152
+wavs/127.wav|sɑːɹi hʌn, bʌt aɪ æktᵻveɪɾᵻd maɪ mædʒɪk kɑːɹd. ðə ɹoʊz wɪp, ɐ pɜːsənəl feɪvɚɹᵻt. ɪt ɡɪvz maɪ hɑːɹpi θɹiː hʌndɹɪd ɛkstɹə ɐtæk!|1152
+wavs/128.wav|juː kɔːl ɪt kwɪts ɹaɪt naʊ. ðɪs ɪzənt ɡənə ɡɛt ɛni iːziɚ, juː noʊ? dʒʌst ɡɪv ʌp ænd ɡoʊ bæk tə tʃɪɹliːdɪŋ!|1152
+wavs/129.wav|pliːz, ɪf ðɪs ɪz ðə stɑːɹt ʌv sʌm fɹɛndʃɪp ɹænt, dʒʌst seɪv ɪt. aɪv hɜːd ɔːl jʊɹ leɪm spiːtʃᵻz bᵻfoːɹ, ænd fɹʌm ðæt lʊk ɔn juːɡɪz feɪs.|1152
+wavs/130.wav|aɪd seɪ hiː hɐz tuː. jʊɹ dʒʌst ɐ lɪɾəl ɡɜːl huːz æksɪdɛntəli stʌmbəld ɪntʊ ðə bɪɡ liːɡz, bʌt wʌtɛvɚ, juːl lɜːn ðə hɑːɹd weɪ.|1152
+wavs/131.wav|hɑːɹpiz fɛðɚ dʌstɚ. maɪ tɜːn, hʌb, ænd aɪm pleɪɪŋ ðɪs feɪs daʊn!|1152
+wavs/132.wav|ɪn fækt, ɪt wʌz soʊ stɜːɹɪŋ aɪ ɔːlmoʊst fiːl ðə niːd tə θɹoʊ ʌp! faɪn wɪð miː!|1152
+wavs/133.wav|ɪts nɑːt laɪk aɪ doʊnt hæv mædʒɪk kɑːɹdz tuː! saɪbɚ ʃiːld! ɪt wʌz nʌθɪŋ ðæt tiː wʊdəntəv bɪn eɪbəl tə biːt ɛnɪweɪ, ɹiəli.|1152
+wavs/134.wav|bʌt weɪt, aɪl ɔːlsoʊ pleɪ ðɪs də spɛl. noʊmoːɹ hoʊp, noʊmoːɹ feɪθ, noʊmoːɹ tʃænsᵻz!|1152
+wavs/135.wav|doʊnt juː noʊ ðə ɹuːlz jɛt, tiː? sɪns aɪv flɪpt jʊɹ mɐdʒɪʃən ʌv feɪθ oʊvɚ wɪð maɪ ɐtæk, juː ɡɛt ɐ kɑːɹd bæk fɹʌmðə ɡɹeɪvjɑːɹd.|1152
+wavs/136.wav|aɪ miːn, haʊ kæn juː sɪɹiəsli hoʊp tə biːt miː wɛn juː doʊnt noʊ ðə ɹuːlz? lʊk hʌni, aɪm ʃʊɹ ðæt ɛvɹɪwʌnz ɹiəli ɪmpɹɛst ðæt juːv læstᵻd ðɪs lɔŋ.|1152
+wavs/137.wav|bʌt ɔːl jʊɹ duːɪŋ ɪz dᵻleɪɪŋ ðɪ ɪnɛvᵻɾəbəl! kʌm ɔn, wʌt jʊɹ duːɪŋ ɪz pɔɪntləs. juːɡɪz ɔːlɹɛdi ɡɪvən ʌp ɔn hɪmsɛlf.|1152
+wavs/138.wav|jʊɹ nɑːt ɡənə biː eɪbəl tə kiːp faɪɾɪŋ fɔːɹ hɪm. hiː hɐz tə faɪt fɔːɹ hɪmsɛlf! hiː hɐz tə stænd ʌp tʊ ɛnɪwʌn huː dɛɹz tə ɡɛt ɪn hɪz weɪ!|1152
+wavs/139.wav|ænd wʌtɛvɚz ɡoʊɪŋ ɔn ɪn hɪz hɛd, tiː, juːɡi hɐz tə diːl wɪð ɪɾ ɔn hɪz oʊn. aɪ sɚɹɛndɚ, tiː. aɪ doʊnt hæv ðə kɑːɹdz tə wɪn.|1152
+wavs/140.wav|feɪs ɪt, tiː, juːɡɪz tʃɛkt aʊt! hiːz ɡɪvən ʌp! hiː dʌzənt kɛɹ ɐbaʊt ðɪs mætʃ ænd hiː dʌzənt kɛɹ ɐbaʊt juː! nʌθɪŋz wɜːθ ðə hjuːmɪlɪeɪʃən jʊɹ ɡoʊɪŋ θɹuː.|1152
+wavs/141.wav|juː meɪhɐv ɐ tɛndənsi tə ɹʌn æt ðə maʊθ, bʌt juːv ɡɑːt ɐ lɑːt ʌv spʌŋk. ɡɪv miː jʊɹ bɛst ʃɑːt! wʌtɛvɚ. aɪ dɪdnt niːd ðiːz ɛnɪweɪ.|1152
+wavs/142.wav|doʊnt ɹʌb ɪɾ ɪn, tiː, hɑːɹpi leɪdi wʌzðə bɛst mɔnstɚɹ aɪ hæd ænd siːɪŋ æz haʊ juː biːt hɜː, ðɛɹz ɹiəli noʊ pɔɪnt ɪn miː ɡoʊɪŋ ɔn.|1152
+wavs/143.wav|sʌm kɑːɹdz dʒʌst ɑːɹnt wɜːθ pleɪɪŋ, hʌ, juːɡi? ɪts ɔːl bɪkʌz ʌv ðæt ɑːbnɑːkʃəs pʌŋk dʒoʊi! aɪ kænt bᵻliːv sʌtʃ ɐn æmətʃɚ biːt miː!|1152
+wavs/144.wav|aɪ doʊnt ɡɛt ɪt. tɹæʃɪŋ hɑːtʃɑːt duːəlɪsts ɪz juːʒuːəli æz fʌn æz ɐ fɔːl klɪɹəns seɪl. waɪ kænt aɪ ɛndʒɔɪ ɪɾ ɛnɪmoːɹ?|1152
+wavs/145.wav|aɪv ɡɑːt tə ɡɛt iːvən wɪð ðæt ɡɹɪnɪŋ ɡʌɾɚ pʌŋk! bɑːn vɔɪɑːʒ, luːzɚ! fʌni, aɪ θɔːt aɪ ɔːlɹɛdi nɑːkt juː ɔn jʊɹ dʒjʊɹɹæsɪk bʌt.|1152
+wavs/146.wav|juː θɪŋk aɪm ɡənə weɪst ɐnʌðɚ mɪnɪt wɪð ɐ piː bɹeɪn laɪk juː? biːt ɪt, diːnoʊ bɹɛθ! fɹʌm wʌn ʌv ðiːz laɪk juː huː θɪŋk ðæt baɪ duːəlɪŋ ɐ tʃɪk, ðeɪl skoːɹ sʌm iːzi stɑːɹz.|1152
+wavs/147.wav|aɪv oʊnli lɔst wʌns, bʌt wʌns aɪ faɪnd ðæt pʌŋk kɪd dʒoʊi, ɪts peɪ bæk. aɪd lʌv tə siː juː tɹaɪ ænd. oʊkeɪ, ɹɛks, aɪl duːəl juː.|1152
+wavs/148.wav|ɪf juː duː sʌmθɪŋ fɔːɹ miː fɜːst. haʊ ɑːɹ juː, dʒoʊsəf? ɡlæd tə siː miː? soʊ dʒoʊi, ɪz juːɡi stɪl faɪɾɪŋ ɔːl jʊɹ bæɾəlz fɔːɹ juː?|1152
+wavs/149.wav|ɛvɹɪwʌn noʊz ɪf juːɡi wʌzn̩t ðɛɹ tə hoʊld jʊɹ hænd, juː wʊdəntəv biːt miː. ɪzənt ðæt ɹaɪt, juːɡi? aɪm weɪɾɪŋ fɔːɹ jʊɹ ænsɚ, dʒoʊi.|1152
+wavs/150.wav|oʊ ɹiəli? ðɛn aɪ pɹəpoʊz hiː stɛps aʊɾəv jʊɹ ʃædoʊ hɪɹ ænd naʊ! ɪf dʒoʊi θɪŋks hiːz soʊ tʌf, lɛts siː hɪm pleɪ fɔːɹ hɪmsɛlf!|1152
+wavs/151.wav|θɪŋk juː hæv ðə ɡʌts tə stɛp ʌp ænd feɪs ðə duːəlɪst aɪv ɚɹeɪndʒd fɔːɹ juː?|1152
+wavs/152.wav|ɪf lɪɾəl juːɡi dʌz ɛni ʌv hɪz bæk siːt duːəlɪŋ, ðɛn dʒoʊi ɪz dɪskwɑːlᵻfaɪd ænd ðə mætʃ ɔːɾəmæɾɪkli ɡoʊz tuː.|1152
+wavs/153.wav|wʌt duː juː seɪ, dʒoʊi? ðɪs ɪz jʊɹ bɪɡ tʃæns tə pɹuːv joːɹsɛlf. ɔːɹ ɑːɹ juː ɡoʊɪŋ tə bæk aʊt? soʊ wʌts ɪt ɡənə biː?|1152
+wavs/154.wav|juː ɡoʊɪŋ tə ɹʌn ɔf wɪð jʊɹ fɹɛnd ɔːɹ stɑːɹt æktɪŋ laɪk ɐ ɹiːəl duːəlɪst? ɹæptɚ, wɑːtʃ ðæt taɪm wɪzɚd!|1152
+wavs/155.wav|ɹɛks, juː bɪɡ diːnoʊ dʌmi! jʊɹ iːðɚɹ ɐ tʃæmp ɔːɹ ɐ tɹʌmp. kʌt ðɪs ɡaɪ luːs, hiːz fæʃən tʃælɪndʒd ænd dɪzɜːvz təbi kɹʌʃt ɪnðə ɡeɪmz.|1152
+wavs/156.wav|aɪl kɹʌʃ juː ɔːl ᵻvɛntʃuːəli. ðə neɪmz maɪ. kɔːl jʊɹ suːpiəɹɪɚ! ɡɛt hɪm ɔnðə foʊn ɹaɪt naʊ!|1152
+wavs/157.wav|ðɪs ɪz tɹuːli tɹuːli aʊtɹeɪdʒəs. juː ɛkspɛkt ɐ leɪdi laɪk miː tə steɪ ɪn ðɪs dʌmp wɪðaʊt iːvən ɐ ʃaʊɚ?|1152
+wavs/158.wav|huː duː juː θɪŋk juː ɑːɹ? ɹiəli? kʊd aɪ siː ɪt? ɪts bjuːɾifəl! juː mʌst biː kwaɪt ɐ stɹɔŋ kɑːɹd pleɪɚ.|1152
+wavs/159.wav|ɹiəli? aɪ lʌv duːəl mɔnstɚz. haʊ ɐbaʊt wiː pleɪ ɐ ɡeɪm? oʊkeɪ, ðɛn kʌt ðə kɑːɹdz.|1152
+wavs/160.wav|pliːz? lɛt miː tɹaɪ. tɛl juː wʌt, ɪf juː wɪn, aɪl ɡɪv juː ɐ kɪs.|1152
+wavs/161.wav|ɪf aɪ wɪn, juː ɐɡɹiː tə klɪɹ aʊɾəv ðə ɹuːm fɚðə ɹɛst ʌvðə tɹɪp. oʊkeɪ? ðə fɜːst kɑːɹd ɪz ʃædoʊ ʌv aɪz.|1152
+wavs/162.wav|ðə sɛkənd kɑːɹd ɪz hɑːɹpiz leɪdi, ðɛn ɛlɪɡənt ɛɡətɪst, fɑːloʊd baɪ saɪbɚ ʃiːld.|1152
+wavs/163.wav|ðɪs ɪz maɪ oʊn kɑːɹd tɛkniːk. aɪ ɔːlweɪz noʊ wʌt kɑːɹdz aɪ hæv ænd kæn pɪk ɛni wʌn aɪ laɪk æɾ ɛni taɪm. soʊ, ɡoʊ ɐhɛd ænd diːl ɛm, ɹɛks.|1152
+wavs/164.wav|pɹɪɾi bɪɡ tɜːnaʊt fɔːɹ ðɪs θɪŋ. oʊ, ðɪs ɪz soʊ ɛksaɪɾɪŋ! aɪ wʌndɚ huːz bʌt aɪ ʃʊd kɪk fɜːst ɪn ðɪs tʊɹnəmənt?|1152
+wavs/165.wav|ɪf ɪɾ ɪzənt ɹɛks ɹæptɚ ænd wiːvəl. aɪ θɔːt aɪ smɛld sʌmθɪŋ. sʌm duːəlɪsts dʒʌst nɛvɚ tʃeɪndʒ.|1152
+wavs/166.wav|eɪtʃɛmpiːeɪtʃ. soʊ juː faɪnəli keɪm, juːɡi. vɛɹi fʌni, juːɡi, bʌt juː ʃʊd noʊ baɪ naʊ ðæt aɪ doʊnt niːd tə juːz tɹɪki tæktɪks tə wɪn.|1152
+wavs/167.wav|aɪv bɪn stʌdiɪŋ ðɪs nuː ɡeɪm dʒʌst soʊ ðæt aɪ kæn dᵻfiːt juː. lɛts duːəl, juːɡi! noʊ mɜːsi, juːɡi.|1152
+wavs/168.wav|ðɛɹz noʊ hoʊldɪŋ bæk. juːl siː ðæt aɪv ɡɑːt mʌtʃ bɛɾɚ. ɑːɹ juː θɪŋkɪŋ ʌv teɪkɪŋ ɪɾ iːzi ɔn miː?|1152
+wavs/169.wav|aɪl ʃoʊ juː tɛkniːks ðæt juː hævənt iːvən ɪmædʒɪnd! ɪz ðɪs ðə bɛst juː kæn duː?|1152
+wavs/170.wav|hɑː hɑː hɑː hɑː! pɹɪpɛɹ tə luːz! ðɛɹz nʌθɪŋ aɪ heɪt moːɹ ðɐn wiːk luːzɚz, juːɡi.|1152
+wavs/171.wav|ɑːɹnt juː ɡoʊɪŋ tʊ ɐtæk miː? jʊɹ noʊ fʌn. feɪlɪɹz kɔːlɪŋ. wɪl juː ɐksɛpt ðə tʃɑːɹdʒᵻz? doʊnt θɪŋk aɪl ɡɪv ʌp ðæt iːzili.|1152
+wavs/172.wav|hʌ, ðɪs ɪz nʌθɪŋ. aɪm nɑːt bækɪŋ daʊn fɹʌm ɛni tʃælɪndʒ. dɪd juː ɹiəli θɪŋk aɪ wʌz ɡoʊɪŋ tə səbmɪt?|1152
+wavs/173.wav|aɪ nɛvɚ ɡɪv ʌp noʊ mæɾɚ haʊ bæd ɪt lʊks. juːɡi, maɪ dɹiːm ɪz tə dᵻfiːt juː.|1152
+wavs/174.wav|aɪl siː haʊ ɡʊd juː ɑːɹ æt ðɪs nuː ɡeɪm. hɑː hɑː. lɛts hoʊp ðɪs ɪz ɐn ɑːnɚɹəbəl duːəl. dʒʌst wʌt duː juː θɪŋk jʊɹ duːɪŋ?|1152
+wavs/175.wav|teɪk ɪɾ iːzi, wɪl jɐ? oʊ! aɪ kænt bᵻliːv ðɪs ɪz hæpənɪŋ! naɪs ɐtæk! ɐ kɹɪɾɪkəl hɪt!|1152
+wavs/176.wav|oʊ, spʌŋki, ðæts bɪɡɪnɚz lʌk, ðæts ɔːl. læ də dɑː! ðɛɹz noʊ pɹɑːbləm ɪf juː doʊnt dᵻstɹɔɪ maɪ mɔnstɚ.|1152
+wavs/177.wav|naʊ jʊɹ ɡɛɾɪŋ sɪɹiəs. ðæts noʊ weɪ tə tɹiːt ɐ leɪdi. jʊɹ stɑːɹɾɪŋ tʊ ɐnɔɪ miː. teɪk ɪɾ iːzi, wɪl jɐ?|1152
+wavs/178.wav|hɑː hɑː. doʊnt θɪŋk aɪl fɚɡɛt ðɪs. hɑː hɑː! ðɪs duːəlz pɹæktɪkli oʊvɚ! juː doʊnt kɹæk iːzili, duː juː?|1152
+wavs/179.wav|tuː bæd, juːɡi, bʌt ɪt lʊks laɪk aɪɐm ɡoʊɪŋ tə wɪn ðɪs duːəl. kæn juː sɚvaɪv ðɪs? hɑː hɑː! aɪ hoʊp juː lʌv sɚpɹaɪzᵻz!|1152
+wavs/180.wav|dᵻfiːt ɔːɹ biː dᵻfiːɾᵻd. ðoʊz ɑːɹ ðɪ oʊnli tuː ɑːpʃənz. waɪ lɛt ʌp wɛn aɪm hævɪŋ soʊ mʌtʃ fʌn? ɑː hɑː hɑː hɑː hɑː!|1152
+wavs/181.wav|aɪm wʌn wɪð maɪ mɔnstɚz! hɑː hɑː hɑː, fiːst ɔn ðɪs! juː ʃʊdənthəv teɪkən miː soʊ laɪtli!|1152
+wavs/182.wav|pɛɹɪʃ! fɔːl bᵻfoːɹ maɪ paʊɚ! aɪl wɪn wɪð ðɪs tɛkniːk! slaɪs hɪm tə piːsᵻz, maɪ hɑːɹpi!|1152
+wavs/183.wav|hɑː hɑː hɑː. aɪ hoʊp juː doʊnt ɡɛt wɪplæʃ! maɪ hɑːɹpi leɪdiz sɪstɚz, ʌnliːʃ jʊɹ faɪɚɹi blæst!|1152
+wavs/184.wav|hɑː hɑː hɑː hɑː. juː wɪl biː pʌnɪʃt! maɪ dɪɹ pɛt, ɡɛt ɹɪd ʌv hɪm fɔːɹ miː!|1152
+wavs/185.wav|ɐɡɛnst maɪ sɜːvənts oʊvɚwɛlmɪŋ stɹɛŋθ. wʌt kæn juː pɑːsᵻbli duː? aɪl ʃoʊ juː wʌt fjuːʒən kæn duː!|1152
+wavs/186.wav|aɪl dᵻfiːt juː wɪððə kəmbaɪnd paʊɚɹ ʌv maɪ mɔnstɚz! maɪ mɔnstɚ bɪkʌmz moːɹ bjuːɾifəl æftɚɹ ɪɾ ɪvɑːlvz!|1152
+wavs/187.wav|naʊ, teɪst ðə paʊɚɹ ʌv maɪ ɪvɑːlvd mɔnstɚ! juː ʃʊd nɛvɚɹ ʌndɚɹɛstᵻmeɪt ɐn ɪvɑːlvd mɔnstɚ!|1152
+wavs/188.wav|maɪ maɪ jʊɹ mɔnstɚz ɑːɹ wiːkɚ ðɐn aɪ ɛkspɛktᵻd. laɪk teɪkɪŋ kændi fɹʌm ɐ beɪbi. hɑː hɑː hɑː. jʊɹ sʌtʃ ɐ fuːl!|1152
+wavs/189.wav|juːv lɔst hæf jʊɹ mɔnstɚz! ɪzənt ɪt taɪm tə kɔːl ɪt kwɪts? hɑː hɑː. juː kænt stɑːp miː!|1152
+wavs/190.wav|ðæts wʌt juː ɡɛt fɔːɹ θɪŋkɪŋ juːv wʌn! ɑː, haʊ dɪsɐpɔɪntɪŋ. aɪ θɔːt juː wɜː mʌtʃ bɛɾɚ ðɐn ðɪs.|1152
+wavs/191.wav|wʌt ɐ pɐθɛɾɪk weɪ tə luːz, juːɡi! hɑː hɑː hɑː. wʌt ɐ wʌndɚfəl duːəl ɪt wʌz! ðɪs duːəl ɪz maɪn!|1152
+wavs/192.wav|dɪdnt θɪŋk juːd lɛt miː ɐtæk jʊɹ sɪmbəl soʊ iːzili! dɪd juː ɡɛt ɐ ləbɑːɾəmi ænd luːz ɔːl jʊɹ skɪlz, lɪɾəl juːɡi?|1152
+wavs/193.wav|jɛs, tʃɔːk wʌn ʌp fɔːɹ maɪ! oʊ, tʌf! bʌt θɪŋz wɪl oʊnli ɡɛt tʌfɚ fɔːɹ juː.|1152
+wavs/194.wav|aɪm dʒʌst tɛstɪŋ juː aʊt. hʌ. aɪl stɪl ɡɛt juː, juːɡi. ðæts wʌt juː θɪŋk. aɪl ɹᵻɡeɪn ðɪ ɐdvæntɪdʒ suːn ɪnʌf.|1152
+wavs/195.wav|hɑː hɑː. ɑː! juːɡɪz ɪnðə liːd! ɔːl maɪ lʌvli kɹiːtʃɚz ɑːɹ dᵻstɹɔɪd!|1152
+wavs/196.wav|noʊ weɪ! ðeɪɚɹ ɔːl ɡɔn! jɛs, ɪt wʌz iːvən ðoʊ aɪ lɔst, aɪ doʊnt ɹᵻɡɹɛt ɛnɪθɪŋ.|1152
+wavs/197.wav|æm aɪ ɡoʊɪŋ tə luːz? maɪ sɪmbəl? oʊ noʊ, aɪ kəmpliːtli fɚɡɑːt ɐbaʊt ɪt!|1152
+wavs/198.wav|kænt biː! juː ɑːɹ eɪmɪŋ dᵻɹɛktli fɔːɹ ɪt! oʊ maɪ. aɪ dɪdnt noʊ ðɪs kʊd hæpən. aɪ ɡɛs tənaɪt ɪz leɪdiz naɪt.|1152
+wavs/199.wav|weɪt, wʌts ɡoʊɪŋ ɔn? aɪ dɪdnt hɪɹ ɛnɪθɪŋ ɐbaʊt ðɪs! aʊtʃ! wʌt ɪz ðæt? ðɪs ɪz hɔːɹɪbəl! wʌt ɪz ðɪs?|1152
+wavs/200.wav|weɪt ɐ sɛkənd! ɡɪv miː taɪm tə θɪŋk! soʊ aɪ teɪk dæmɪdʒ ðɛɹ. aɪd bɛɾɚ biː kɛɹfəl. dæmɪdʒ? ɪz ɪt bɪkʌz ʌv ðæt loʊkeɪʃən?|1152

@@ -1,0 +1,17 @@
+transformers
+scipy
+text_unidecode
+emoji
+phonemizer
+numpy
+matplotlib
+librosa
+Cython
+Unidecode
+tensorboard
+gdown
+torch
+torchvision
+
+# For generating output metadata
+python-magic==0.4.22

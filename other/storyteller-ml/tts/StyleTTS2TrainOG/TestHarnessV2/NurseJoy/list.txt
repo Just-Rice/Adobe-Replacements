@@ -1,0 +1,109 @@
+wavs/1.wav|Don't you realize it's your bedtime? Staying up late is bad for your skin, and it makes you irritable, and it ruins your appetite. I won't allow it!
+wavs/2.wav|Now get to bed this instant!
+wavs/4.wav|All of the Pokemon are better, but this one's still holding its head! Then maybe you can help it!
+wavs/5.wav|Do you kids have any idea just what time it is? Don't you know that you should be sleeping now? I'm sorry, but there's something really wrong with my Pikachu!
+wavs/6.wav|There's no need to get excited, look! Sparks are coming from its cheeks, right? That's an early symptom of a cold in Electric Rodent Pokemon.
+wavs/7.wav|If you leave it here overnight, I'm sure it'll be fine in the morning. Oh, no. It's all my other relatives that are odd. They're in intensive care.
+wavs/8.wav|If we don't get the power back soon, well I just don't want to think about what would happen. I don't know what to do.
+wavs/9.wav|You worked so hard to make sure all these Pokemon survived, you've inspired me to become a better nurse.
+wavs/10.wav|We will, and please come back and visit us. Bye! Have you ever heard of the mysterious garden?
+wavs/11.wav|Yes, it's perfect for people whose age or health keeps them from traveling around, and it's also nice for people like me who can't ever seem to get away from work!
+wavs/12.wav|They already left! They're on their way to the next gym! What's wrong with that Meowth? Yeah, I'm sorry.
+wavs/13.wav|I couldn't help but overhear you talking. Are you Professor Oak and D J Mary? Then who's over there having breakfast?
+wavs/14.wav|Guess after all the game shows I've watched, I can probably fake it. Right. Here is the first question. What is the evolved form of Slowpoke?
+wavs/15.wav|Sorry, there was more to the question. You were correct in saying Slowpoke evolves into Slowbro, but.
+wavs/16.wav|But what is the name of the psychic attack that Slowbro learns upon reaching level forty six? The answer is Aipom's Tail. Professor A is correct.
+wavs/17.wav|That's right, Professor B is correct. The attack is amnesia. This question deals with a silhouette. Examine this silhouette and tell me which Pokemon it is.
+wavs/18.wav|Fine! Wobbuffet will be the theme of our two poems. Contestant A is the one and only true Professor Oak.
+wavs/19.wav|Not true! Your work showed no understanding of Pokemon poetry! I oughta know since I'm a fifth level master of Pokemon poetry!
+wavs/20.wav|All of Professor Oak's poems have one thing in common, the ability to reassure and relax people.
+wavs/21.wav|Such as, Blastoise fight or hide away to fight again some other day. Obviously, one meaning is literally to be careful.
+wavs/22.wav|But the deeper message is for all people to save their strength for those difficult times in life when they will really need it.
+wavs/23.wav|And to give another example, Sandslash rolls into a spiny ball, three meals a day, and eats them all!
+wavs/24.wav|On the surface, this poem sounds like just a description of Sandslash and its lifestyle, but it also carries a lesson for us. Oh no! The catered lunch!
+wavs/25.wav|I'm sure you'll treat it very well. Goodbye! Take care now! We'd also like to find out if there's any truth to the claims about Kabuto oil.
+wavs/26.wav|One of the main reasons we've come here is to learn everything we can about the habitat of the extinct Pokemon, Kabuto.
+wavs/27.wav|Well, legend has it that the oil from Kabuto shells not only brings good health, but it can make people live forever.
+wavs/28.wav|Of course we know that's impossible, but there could be some basis to the legend, and kabuto oil may prove to be of great historic importance to medical science.
+wavs/29.wav|Rhydon! Horn drill that rock now! Chansey, would you take Scyther to recovery?
+wavs/30.wav|All I can say is that I'm so very sorry that I didn't believe the prophecy and the warnings you gave us.
+wavs/31.wav|Scyther is still very weak. It's going to take a few days to get its strength back. You've got to relax or you won't heal properly, Scyther.
+wavs/32.wav|I guess the old warrior finally lost a battle for leadership of its swarm. Excuse me, but what's going on here?
+wavs/33.wav|Well, an older Scyther only could have gotten these kinds of injuries by battling another Scyther.
+wavs/34.wav|Usually it's a younger, faster Scyther that challenges the leader. Sometimes speed and power can overcome even the most experienced Pokemon.
+wavs/35.wav|Once a leader's defeated by another Scyther, it can't stay with the swarm. Unless it wins a new leadership battle, it has to live all by itself.
+wavs/36.wav|Well, when was the last time your Snorlax ate? Well, that's why it won't wake up. Snorlax won't be battling tomorrow.
+wavs/37.wav|Unless there's danger, it won't wake up until it's hungry again, and that could take days.
+wavs/38.wav|Well, maybe if you got out of this lab once in a while, you'd start to notice what's going on around you. Now what are you going to tell that new trainer when she comes here to pick up her Totodile?
+wavs/39.wav|Stop making excuses for yourself, Professor! Could someone tell me what's going on here? Well, I'm afraid someone has stolen a Pokemon!
+wavs/40.wav|A new trainer's very first Pokemon is gone! That poor girl! That poor Totodile! I know that sometimes Professor Elm may sound like a hothead.
+wavs/41.wav|But he's really very sweet, and he raises wonderful Pokemon. Oh, I'm so sorry, I was supposed to be back at the Pokemon Center by two, but when I got to the lab, I lost track of time.
+wavs/42.wav|Where did Professor Elm go? He'll be a while. In the meantime, let's do what you came here to do and get you registered and approved for the Johto League!
+wavs/43.wav|Congratulations, Ash! You're now fully qualified and approved to become an official participant in the Johto League. I just hope you can understand that Blissey only wants to help.
+wavs/44.wav|You'll need a copy of the Johto League Guidebook, so make sure you don't lose it! Once he earns eight badges, he'll be qualified to enter and participate in the Johto Championship.
+wavs/45.wav|I'd say the best place to start is the Violet Gym in Violet City. I can't tell you how sorry I am for all the trouble my Blissey has caused for you, Ash.
+wavs/46.wav|I know how you must feel, but Blissey's heart's always in the right place. Anyway, I just want you to know that Blissey always tries very hard to be the best nurse it can be.
+wavs/47.wav|Isn't that right? What's wrong? I don't believe it! The pantry was full just yesterday! Let's go to security!
+wavs/48.wav|Maybe the camera can tell us who. Looks like our thief is Blissey. I can't believe you were behind this. What did you do with all that food?
+wavs/49.wav|Blissey, if you tell me where the food is, maybe I can keep you out of trouble. Blissey, listen to me, this could end your career as a Pokemon nurse.
+wavs/50.wav|They must be the ones who made Blissey steal all of the food! I'm sorry. Blissey, please forgive me for doubting you even for a minute.
+wavs/51.wav|Does that Chikorita belong to you? And what's your name? Correct! And I have a degree in Pokemon Psychology from Celadon University.
+wavs/52.wav|I provide innovative counseling techniques and new Pokemon therapy. I'm sorry, but I'm afraid I only deal with Pokemon.
+wavs/53.wav|I have an idea, Ash. Why don't you and your Pokemon join me and we'll have a counseling session. Interesting. I think I know the problem.
+wavs/54.wav|Maybe, but I'm going to need your help to explore the issues that may be causing your Chikorita's behavior. Chikorita was suffering from envy.
+wavs/55.wav|You say Chikorita's refusal to return occurred while you were battling another trainer and his Raticate earlier this evening?
+wavs/56.wav|You wanted to substitute Pikachu just when Chikorita thought it was on the verge of winning a battle for you. Don't worry, Ash. I think we can work through it.
+wavs/57.wav|So it's understandable that Chikorita feels that you trust and care more for Pikachu and it's jealous. Chikorita is a Grass type Pokemon.
+wavs/58.wav|Why don't you try to get Chikorita to return to its Pokeball now? Yes, I do. The new Pokemon therapies are quite effective.
+wavs/59.wav|But I think it's best if your Chikorita stays here in the greenhouse tonight. Yep, this is a textbook case.
+wavs/60.wav|That Chikorita craves your attention, and an excellent way to get it is by running away. I think you'd better hurry, Ash.
+wavs/61.wav|This is a pretty tough neighborhood, and it's got some pretty rough Pokemon. Thanks, Ash. I'm glad I could help out. I just wish I had time to explore Chikorita's psyche.
+wavs/62.wav|I'm glad that's over with. You saw through my suit? And who might you be? Hello, how are you, Pikachu? Would you like to come for treatment in my Pokemon Center?
+wavs/63.wav|I was talking to Pikachu, but you can all come along if you'd like. Yes, but I didn't write that book, Brock. My grandmother did. It was about fifty years ago.
+wavs/64.wav|In those days, the lake and this whole area were terribly polluted by the waste from nearby factories and towns. It was so bad even the Muk stayed away.
+wavs/65.wav|But grandmother still loved this place, so she decided to do something. She dedicated her life to studying the effects of pollution on Pokemon.
+wavs/66.wav|And she told the world about what she learned in a spring without Pokemon. I could sign my name, but it wouldn't be authentic if it's not from my grandmother.
+wavs/67.wav|I'm sorry, but I didn't write that book either, Brock. My mother was inspired by my grandmother's work, so she decided to carry it further, after a lot of work.
+wavs/68.wav|She managed to get the factories and towns to stop polluting the lake. Then she was put in charge of draining the toxic water, cleaning the lake bed, and refilling it.
+wavs/69.wav|The Grimer and Muk returned first, but my mother kept working. Soon the lake was crystal clear and water Pokemon came here to live again.
+wavs/70.wav|So many came that she decided to build the Lake Lucid Pokemon Center to take care of them, and now I'm here trying to carry on the family tradition.
+wavs/71.wav|We specialize in water Pokemon, and they love to come here for our personalized treatments and because the lake is so clean. I haven't written a book yet Brock.
+wavs/72.wav|Oh, they're not really battling each other. They're all just trying to get back into shape by practicing. Following in my grandmother's and my mother's footsteps, of course.
+wavs/73.wav|We've all worked very hard to make the Lake Lucid Center a success. It's to honor my mom and my grandmother.
+wavs/74.wav|But I'm planning to write one soon, and I think I'm gonna call it An Autumn Harvest of Pokemon. That oughta do the trick. Of course. I'd be very happy to.
+wavs/75.wav|The lake's a place where the Water Pokemon can exercise and build up their strength physically and emotionally. Wait a minute, did you say they're Water Pokemon?
+wavs/76.wav|Keep it away! Whatever you do, don't let those water Pokemon out of those Pokeballs! Don't let them near me, don't let them touch me! And whatever you do, please keep them away from me!
+wavs/77.wav|I'm sorry, maybe I should have mentioned this before, but I... I hate those Pokemon! Sorry, please keep those things away from me!
+wavs/78.wav|I absolutely can't stand the sight of those Pokemon! I can handle Electric Pokemon, Poison Pokemon, I even love Bug Pokemon! Just as long as I don't have to touch them!
+wavs/79.wav|Any kind of Pokemon except those awful, horrible, terrible water Pokemon! I wouldn't even touch a water Pokemon, wearing this special protective suit!
+wavs/80.wav|I don't dislike them! I hate them! I really wish you wouldn't feel that way, Misty. I'm very happy to treat every kind of water Pokemon who comes to the center.
+wavs/81.wav|Don't be ridiculous! We provide the best water Pokemon care anywhere. Doesn't yours deserve the best?
+wavs/82.wav|I hope you're not assuming that my personal preferences affect my job performance because I can assure you that they don't. I treat all patients equally.
+wavs/83.wav|Thanks, Misty. I was hoping you'd say that. It's a little tough to handle those things with these things. You did a great job with those bandages, Chansey.
+wavs/84.wav|Excellent as always.
+wavs/85.wav|Thanks to my three assistants, I can treat water Pokemon without ever having to lay a hand on them.
+wavs/86.wav|Water Pokemon can get many different kinds of injuries and illnesses, so over the years we've developed a number of different kinds of healing water baths to treat them with.
+wavs/87.wav|Everybody has a certain Pokemon they like and a certain Pokemon they don't like, and when it comes to Gyarados, no way Jose!
+wavs/88.wav|Gyarados have such large, heavy heads that it's quite common for them to experience neck and back problems. That's right. Why? What do you mean?
+wavs/89.wav|I've studied all kinds of water Pokemon, and I've created special treatments, special diets, even special exercises that help each one overcome their illnesses and injuries.
+wavs/90.wav|I understand water Pokemon, and I'm going to write a book so others can understand them, too. I never allow my feelings to interfere with my work!
+wavs/91.wav|I'm a Pokemon nurse. I don't have to cuddle my patients to learn what I have to about them, but I do the best job I can to honor both of them.
+wavs/92.wav|I did! I grew up and continued the work my mother and grandmother started. I may never be as great as they were.
+wavs/93.wav|I don't hate my job, Misty. I love Lake Lucid, and I'm able to treat all kinds of sick and injured Pokemon, and that's what makes me happy.
+wavs/94.wav|Unfortunately for me, there are always all kinds of water Pokemon. But a Pokemon nurse does what she has to. It's a fake! A fake Tentacruel!
+wavs/95.wav|What's going on here? We have to do something before it injures itself even more! Gyarados is my responsibility!
+wavs/96.wav|Neither of you has ever tried to calm a Gyarados in pain. You may be great Pokemon trainers, but neither of you is a trained nurse. All right, Chansey, let's get ready. Bring in the brace.
+wavs/97.wav|That's why I have to be the one to deal with that Gyarados, and so I will. This is an emergency, and nurses don't get to pick and choose their patients.
+wavs/98.wav|It's a nurse's duty to heal the sick, whoever they may be. I can't focus on how I feel about water Pokemon.
+wavs/99.wav|But if I can just stay focused on the fact that I'm a nurse like my grandmother and my mother. I have to help this poor Gyarados!
+wavs/100.wav|And no matter what my feelings are, I have a duty to help and heal all Pokemon. I can do this! If I touch it the right way, it'll calm down.
+wavs/101.wav|Put it on, Chansey! There's no Pokemon that's better than any other. There's no Pokemon that's worse than any other. They're all precious creatures!
+wavs/102.wav|The song of every Pokemon is sweet if you can hear it! You'll be just fine. You all did a wonderful job. Now take this Gyarados to another water tank, please.
+wavs/103.wav|Well, Misty, I'd still like to give your Water Pokemon a full examination.
+wavs/104.wav|Maybe. I'm sorry Misty, I wasn't able to touch your water Pokemon.
+wavs/105.wavAall of them are in top physical condition. They have an excellent trainer. Yes, Misty. I still do and will for the rest of my life.
+wavs/106.wav|But that won't stop me! I have a job to do, and a Pokemon Center to run, and a book to write!
+wavs/107.wav|I'm sure I just closed that. It's okay! You don't need to fight with him, Shiftry! Yeah.
+wavs/108.wav|Shiftry, you're a good friend to Nuzleaf. Nuzleaf is gonna be just fine. Thank you for all of your help.
+wavs/109.wav|I'll take care of everything, but I don't have some of the supplies I need with me. Everything's okay now, Shiftry.
+wavs/110.wav|We've done everything we can to keep Nuzleaf comfortable, but I need to get some of my medicines! So I have to go back to the Pokemon Center and get them!

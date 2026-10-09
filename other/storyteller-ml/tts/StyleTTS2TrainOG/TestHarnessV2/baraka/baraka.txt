@@ -1,0 +1,112 @@
+wavs/1.wav|Stupid Osh Tekk, destroying your future. Crossing Shao Kahn. Impossible.
+wavs/2.wav|Kotal Kahn threatens all Tarkatans. In the new era, Shao Kahn will rule.
+wavs/3.wav|Speak, you've earned the chance. He said as much to my face.
+wavs/4.wav|No one has ever made Tarkatan set an offer, but these are your words, not his.
+wavs/5.wav|He offers less. I slit his throat. Don't need charity.
+wavs/6.wav|We will share in Out world's rule and a coven. What secret did you plan to bury here?
+wavs/7.wav|We're equal partners, remember? The Khan's business is my business. You are not Shokan.
+wavs/8.wav|I know that scent, smells like, Shang Tsung! Tarkatan blood is shed! You will atone Sheeva!
+wavs/10.wav|Listen and join us. I know things about Mileena. A troubled rule will fall in the telling.
+wavs/11.wav|And pave the way for Grottal. You are not Shao Kahn's true heir. She is a construct.
+wavs/12.wav|Formed in Shang Tsung's flesh bits. I saw this. Your best claim to the throne is moot.
+wavs/13.wav|This is D'vorah's work. The Earth Realmers. D'vorah's freed them. Yes. So close.
+wavs/14.wav|Do you mock me, alien? Even emperors bleed. Watch your tongue or I'll have it. The last Zaterran, sweet young flesh.
+wavs/15.wav|Be forewarned, my anger is great. My race will return in time. You would call me that. Not challenge, kill. You wish for agonizing pain.
+wavs/16.wav|Explain, child. You will die now. Only cowards use firearms. Have a care, Jackson Briggs. I've more honor than a mercenary.
+wavs/17.wav|I will tear your flesh. I will rip out your throat. Respect me, human. You challenge me? You will not read my thoughts. You will share your blood.
+wavs/18.wav|You will fall before this day ends. I served you well. I am no dog. A sword with a moving blade. Her promises are lies.
+wavs/19.wav|Your fear is pungent. I thought you were dead. I'm looking for Earth realm blood, the child and the beast. You are insane, child!
+wavs/20.wav|Soon we will flourish. Your fall was your own. I am no toad. You will regret this. Recreate my race or die.
+wavs/21.wav|I would test your skill. You know my true name. You do not frighten me. You almost look Zaterran. You do not command me.
+wavs/22.wav|Not in my eyes. We must work together. I know your weaknesses. God of stuff and nonsense. I was wrong to support you. Shall we begin, Bo rai cho?
+wavs/23.wav|But less than able. Cage. Loathsome as your father. Delicate one. I prefer feisty prey. I will end you, spirit vessel.
+wavs/24.wav|You will die one by one. I do not fear your power. Let us begin.
+wavs/25.wav|Kill him! Destroy him! Destroy her! Kill her! Your skills are lacking! Feel my bite! It burns, yes? For the raptor race!
+wavs/26.wav|My rage consumes you. Could you not see me? Your blood is warm. You smell of desperation. My claws dig deep. Slow of foot and wit.
+wavs/27.wav|Humans. So fragile. The actor. Killing you will be a pleasure. You dare approach me? You will be my latest victim. Briggs.
+wavs/28.wav|Rung neck yields sweeter words. You are spawn of Briggs. I will gut you as one. Give way, Briggs. Your boyfriend is next. Speak, stranger.
+wavs/29.wav|You serve Quan Chi. This loyalty is despicable. Your blood on my teeth. The Black Dragon. Come and get it. What do you want? Tekeda.
+wavs/30.wav|Not to me, boy. Another weakling. I welcome the challenge. Still learning to read thoughts? Fear me, son of Kenshi! Kung Lao!
+wavs/31.wav|I will walk on your grave. I have found you. You will wish you had your mind powers. Exactly. You've met raptors in your travels.
+wavs/32.wav|Die, arrogant human! Kitana. I am no one's pet! Return to court! The Khan demands it! D' Vorah! Just as insects feel pain!
+wavs/33.wav|Our allegiances align. I will eat your young. Disperse, Kytinn. Demented human. Kung Jin. Rest assured I will not.
+wavs/34.wav|Vile human. Make your peace, fool. Little dragon. Let us see, mighty one. You've one chance to depart. You'll have my teeth at your throat.
+wavs/35.wav|Farra! Shall we begin, Farra? He's not here to protect you. Both of you shall die! Taste my claws, Farra! I am your death! You will feel my bite!
+wavs/36.wav|Mileena, not for long. Return to your jungle. This one will eat you. You are false. My teeth are sharper. mercenary.
+wavs/37.wav|You mock me at your peril. The Kahn is ending your service. Where is your mockery now? Your money cut by skill. Turn and run away.
+wavs/38.wav|Does loyalty mean nothing? I will rip out your throat. Bye, Quan Chi. Your last memory will be of teeth, Quan Chi.
+wavs/39.wav|Kotal Khan demands your death. Not after I deliver your head. Long have you plagued Out world, then may you die from it. Die, Raiden!
+wavs/40.wav|I fear no gods! Another Zaterren! I am the only one! A pity you must die, Chameleon! It is I, Shang Tsung!
+wavs/41.wav|Show yourself, coward. What is this? I bring warning, fool. Your tone relies your words. I am the last Zaterran.
+wavs/42.wav|You are but a reflection. Let us find out. Are you afraid, Hasashi? Reptiles eat scorpions. For Zaterra, for the final time.
+wavs/43.wav|You smell of roasted meat. I will gnaw your bones. Keeper of the dead. I do not fear your power, old fool. Pain befits a fallen Elder God.
+wavs/44.wav|Blade, I smell your fear! Disgusting Earth Realmer. Come and move me! Subzero, cold does not slow me!
+wavs/45.wav|Till your dying breath, Edenian witch! Your long life ends now! Tanya! I will slay you now! What do you want, Lin Kuei?
+wavs/46.wav|My teeth can pierce metal! Triborg! Cold blooded indeed! I bring a message from the Emperor. Perhaps you misunderstand. Not fast enough!
+wavs/47.wav|All too easy. Yes. Yes. Come and move me, scorpion. Disgusting earth realmer. I am a raptor warrior.
+wavs/48.wav|You will remember my sting. I will slice that pretty face. It is unwise to threaten me. The threat of it makes me dangerous. I've come for you, Ice Demon.
+wavs/49.wav|I do, traitor. He will repay my service. I'll provide you a sample. That means nothing to me.
+wavs/50.wav|Kotal has made Tarkata whole. Now you die. Tarkata hasn't forgotten black. I must kill you to achieve it.
+wavs/51.wav|Out world is not kind. Be glad you never faced me, Kung Lao. Heir to the great Kung Lao!
+wavs/52.wav|Shaolin, you betray Out world. Shao Kahn will hear of this. Ne hagau ratakak tahar kombat. Come closer.
+wavs/53.wav|You lead your tribe! I will flay you! Where are your weapons? I'll smile when you swing from a meat hook!
+wavs/54.wav|Your death will be warning to them! Why are you here, Cetrion? A ninja against a Tarkatan? You bleed easily!
+wavs/55.wav|Kitana demands I make peace with you. Our hordes will overwhelm you. You speak to me like that. You're kind of vermin, D'vorah.
+wavs/56.wav|You stole from Tarkata! You are not welcome in Out world, Raiden! By exotic, you mean primitive!
+wavs/57.wav|I dare a lot of things, Ghost! Bleed! My cook will grill you up tender. You are a lone emperor.
+wavs/58.wav|This time, Raiden won't save you. Another sourling to butcher. Tak nor ka. You fail, Kronika. Leave or they will taste your flesh.
+wavs/59.wav|You defeated Shinnok! Tarkatans do not submit, Geras! Say your prayers, monk! Kotal gave us what he would not!
+wavs/60.wav|We will never give up the old ways. Respect the Tarkatans! Then why don't you flee, Earth Realmer? I want your head, not your favor!
+wavs/61.wav|What shaman summoned you? Spoken like a true Tarkatan, I'll have your brain and heart. Filthy Earth Realmer!
+wavs/62.wav|If he betrays Tarkata, you will suffer. Sounds too good to be true, Kitana. I have recipes for human flesh.
+wavs/63.wav|I like it raw. I'll pick your bones clean. I'd think twice about being Kotal's bride. I will not negotiate.
+wavs/64.wav|I saw you fight in the Colosseum. I'll gnaw on your bones. Shao Kahn improved on the original. I will kill you all.
+wavs/65.wav|It will not be wasted. I can see you're jealous. You won't say much without a tongue. They were defective, Earth Realmer.
+wavs/66.wav|Ma akara taka! Trust will not come easily! Was my service for nothing? I hate Earth realm! Tonight, tarkata feasts!
+wavs/67.wav|Our tribe is free from your leash. I'll snap your neck. You'll know from the taste of my blades. History won't repeat, D'vorah.
+wavs/68.wav|Mark me, it won't save you. Beat me unmercifully. You've earned Tarkata's loyalty, Jade. You move like a reptile.
+wavs/69.wav|Both times the monks fell to our blades. You'll be a good practice dummy. I'll cut you down, Gerus. I am death, you imp!
+wavs/70.wav|Tiny earth realmer. Takota! Keep it that way, Scorpion. War is our way of life. Then my prayers are answered.
+wavs/71.wav|Shut up and die, bug! Bleed! You challenge me for the tribe? I won't play your lackey, Cage. You're no faster than a Tarkatan mutt!
+wavs/72.wav|You and Kronika. They aren't sold on your loyalty. Words. We need deeds. I smell your fear.
+wavs/73.wav|Speak your joke to my face. Arkata, I need no reminder. By the rules of the Katka Rakatan. Do it!
+wavs/74.wav|I will skin you alive! It doesn't mean our war has ended! Who calls Baraka freak? Kana kanal!
+wavs/75.wav|Mettle is proved in combat. You offer equal rights to Tarkatans. You will leave empty handed. The savage eats the skilled.
+wavs/76.wav|You will leave in pieces, stranger. I pick my own woman. I'll take the other one. I'll put my blades in yours.
+wavs/77.wav|Silence, Earth Realmer. I'll cut out your throat. What happened to your eye? You'll be next. Enjoy being Shao Kahn's slaves.
+wavs/79.wav|So hungry! How is that Scarlet? Then we should both be careful. Gun rock! Not dreaming! Executing!
+wavs/80.wav|The taste of flesh, but not her concubine. You can, but he'll not repay it. Cut, ugly human! Bleed out!
+wavs/81.wav|Why so confident? You underestimate my blades? My people are skeptical. Except to the Khan who raised her.
+wavs/82.wav|Out world will claim Earth realm! Begone, demon! We meet again! You refuse us our sacred rituals!
+wavs/83.wav|I despise ghosts! Speak plainly, goddess! Return to the Ten Hells! She's no friend to Takata!
+wavs/84.wav|My tribe seeks no redemption. The Chosen One. We've never met in combat. I remember our fight at the pier.
+wavs/85.wav|Spoiled Princess! She does not speak for Takata! These teeth will rend your flesh! Keep your magic!
+wavs/86.wav|I hate cold things. Are you my past or future? Death to Kotal's allies! How many are in yours?
+wavs/87.wav|I'll try to surprise you. Fresh meat for the tribe. It took strength to defy Kotal. And that we agree.
+wavs/88.wav|I prefer my feet to yours, daughter of Earth realm. It's Tarkatan, Earth realmer. What about it?
+wavs/89.wav|It's become your crutch, Scarlet. In Out world it does. I would ask you the same, Baraka. You will honor Sektor's promises.
+wavs/90.wav|For Akkar. No one trusts you, Kano. The Lin Kuei betray Shao Kahn. You, on the other hand.
+wavs/91.wav|Have him make a decent offer. Not for Tarkatans. Tarkatans are born warriors. As you wish, human.
+wavs/92.wav|I smell blood. Can you also spit fire? Mileena's blood was Tarkatan. Bleed, Kotal!
+wavs/93.wav|It ends with your death! First, prove yourself in combat! Tarkata can handle the Emperor! We are at war, human!
+wavs/94.wav|The tribe will be pleased. Have you been impaled? We've both drawn Kotal's ire. There's soon to be a stabbing.
+wavs/95.wav|I will flay you for Kotal. You do, and I smell it. What sorcery is this? You're too scrawny to feed my family.
+wavs/96.wav|You'll keep your promises, Kotal. Tarkatan now controls its own fate. Nakatka! This is Tarkatan vengeance. You will die first.
+wavs/97.wav|Arrogant soldier, we are done fearing you. Youngling, Raiden must die. Why compliment me?
+wavs/98.wav|Or his metal arms cut off. Your head will be Shao Kahn's trophy. RAKATAN! Not with humans.
+wavs/99.wav|To savor the blood of its enemies, I shall feast on your flesh! How is Shao Kahn not dead? Then you fight unarmed!
+wavs/100.wav|Your skin will make fine leather, my vile Earth Realmer. For what, Earth Realmer? Do you know what I am?
+wavs/101.wav|You'll fare no better today. You'll be next. Only if it's in our interests. Kaka contour. I am a monster!
+wavs/102.wav|This time you die. Taste my blades. She goes back on hers. All of Tarkata reveres Jade.
+wavs/103.wav|I'll enjoy wearing you. Torture makes you taste better. Nakatkata Harine. Die in Shao Kahn's name.
+wavs/104.wav|My people won't starve, Kitana. Tarkata will hone its blades on your husk. It's enough you're also Black Dragon.
+wavs/105.wav|More like future of scrap metal! I'll rip the wings off that insect! It's possible to win Tarkata back, but you only have one!
+wavs/106.wav|Learn from his example, Emperor! Must be your victim's stinking guts! You have none on Tarkata! I will not speak at Earth Realmer!
+wavs/107.wav|You are meat, Frost. You're weak. Save me the eyes. You drown in blood. You disappoint Shao Kahn.
+wavs/108.wav|We are not the dogs Shao Kahn thinks us. My grandmothers were the biggest. We can still fight. So Shao Kahn's replaced me.
+wavs/109.wav|We pay with blood, not gold. Those who try get impaled. Kitana Khan would have us surrender it. Then we must brace for war.
+wavs/110.wav|Then you understand enough! If Kitana cheats us, Tarkata will rise! Why come to Out world? Slaying you would be an honor!
+wavs/111.wav|Burn me, I'll stab you! Your first fight was impressive! How do we both exist? Then I'll dice you to smaller pieces!
+wavs/112.wav|You reek of demons. Together, Tarkata is as strong. This fight is over. It is a battle of blades.
+wavs/113.wav|Imposter! Your people are not our equal. Time has been broken. Blood magic's worth nothing. Tarkata demands respect, Shao Kahn!
+wavs/114.wav|Even the Shokan desert you! NO! KOTANAKE! NAKIVAKASO! NO! NO! KURAKA! TSUKADA!

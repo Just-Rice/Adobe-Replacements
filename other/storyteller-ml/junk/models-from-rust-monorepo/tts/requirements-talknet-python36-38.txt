@@ -1,0 +1,75 @@
+# This should work with Python 3.6 and Python 3.8
+# Unknown CUDA version compatibility, but currently at:
+# - Driver Version: 470.57.02
+# - CUDA Version: 11.4 (nvidia-smi supported)
+
+# talknet
+tensorflow==2.4.1
+tensorboard==2.4.1
+dash==1.21.0
+dash-bootstrap-components==0.13.0
+jupyter-dash==0.4.0
+psola==0.0.1
+wget==3.2
+unidecode==1.2.0
+pysptk==0.1.18
+frozendict==2.0.3
+# torch==1.8.1+cu111 # NB: Not found in python3.8
+torch==1.8.1
+# torchvision==0.9.1+cu111 # NB: Not found in python3.8
+torchvision==0.9.1
+torchaudio==0.8.1
+torchtext==0.9.1
+torch_stft==0.1.4
+kaldiio==2.17.2
+pydub==0.25.1
+pyannote.audio==1.1.2
+g2p_en==2.1.0
+pesq==0.0.2
+pystoi==0.3.3
+crepe==0.0.12
+resampy==0.2.2
+ffmpeg-python==0.2.0
+tqdm
+gdown==3.13.0
+editdistance==0.5.3
+ipywidgets==7.6.3
+
+# HifiGan
+#torch==1.4.0
+#numpy==1.17.4 # NB: Version conflict against tensorflow 2.4.1
+numpy==1.19.2
+#librosa==0.7.2 # NB: Version conflicts with torch-stft and pyannote-audio
+librosa
+scipy==1.4.1
+#tensorboard==2.0
+soundfile==0.10.3.post1
+matplotlib==3.1.3
+
+# NeMo
+#numpy>=1.18.2 # NB: Already installed; version conflict
+onnx>=1.7.0
+pytorch-lightning>=1.3.0
+python-dateutil
+#torch # NB: Already installed; version conflict
+wget
+wrapt
+ruamel.yaml
+scikit-learn
+omegaconf>=2.1.0
+hydra-core>=1.1.0
+transformers>=4.0.1
+sentencepiece<1.0.0
+webdataset>=0.1.48,<=0.1.62
+tqdm>=4.41.0
+opencc
+pangu
+jieba
+numba
+
+# For serving HTTP (existing vocodes pipeline)
+falcon==3.0.1
+falcon-multipart==0.2.0
+
+# For metadata
+python-magic==0.4.22

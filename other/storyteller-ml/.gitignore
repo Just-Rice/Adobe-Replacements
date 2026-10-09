@@ -1,0 +1,46 @@
+# Dot env (and secrets!)
+*secret*sh
+.env
+.env-secrets
+production_database_secret_connect.sh
+production_database_secret_query.sh
+secrets.toml
+secrets.yaml
+
+# Vim cruft
+*.swo
+*.swp
+*~
+
+# Stupid Mac crap
+.DS_Store
+
+# Python cruft
+*.pyc
+__pycache__/
+
+# Python virtual environments (typically named "python")
+models/Wav2Lip/python/
+models/tacotron2/python/
+tts/python/
+tts/tacotron2_v1_early_fakeyou/python/
+tts/vits/python/
+voice_conversion/softvc/python/
+
+# Rust build
+target/
+
+# IntelliJ
+.idea/
+
+# Models for testing
+future-todo/ControllableTalkNet/models
+tts/hifigan/hifisr
+tts/tacotron2_v1_early_fakeyou/hifigan/hifisr
+
+# Other garbage to prune/remove
+tts/hifigan/LJSpeech-1.1/
+tts/tacotron2_v1_early_fakeyou/hifigan/LJSpeech-1.1/
+
+# Output files
+output.wav

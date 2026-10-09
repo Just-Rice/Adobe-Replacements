@@ -1,0 +1,266 @@
+[
+  {
+    "location": "ComfyUI/models/loras/v3_sd15_adapter.ckpt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/v3_sd15_adapter.ckpt"
+  },
+  {
+    "location": "ComfyUI/models/loras/3DMM_V12.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/3DMM_V12.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/Duskfall_InkPunk-v208.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/Duskfall_InkPunk-v208.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/Gaz_Ink.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/Gaz_Ink.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/HUD_N90s_Anime-08.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/HUD_N90s_Anime-08.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/Ink_poster-000004.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/Ink_poster-000004.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/AnimeSoft_v30RetroStyle.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/AnimeSoft_v30RetroStyle.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/flat2DAnimerge_v30.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/flat2DAnimerge_v30.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/animemix_v10.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/animemix_v10.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/absolutereality_v181.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/absolutereality_v181.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/aniverse_v15Pruned.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/aniverse_v15Pruned.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/darkSushiMixMix_brighterPruned.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/darkSushiMixMix_brighterPruned.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/disneyPixarCartoon_v10.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/disneyPixarCartoon_v10.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/dreamshaper_8.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/dreamshaper_8.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/epicrealism_naturalSinRC1VAE.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/epicrealism_naturalSinRC1VAE.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/epicrealism_naturalSin.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/epicrealism_naturalSin.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/ghibli_style_offset.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/ghibli_style_offset.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/jojoDiffusion_test.ckpt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/jojoDiffusion_test.ckpt"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/majicmixFantasy_v30.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/majicmixFantasy_v30.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/vae/majicmixFantasy_v30Vae.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/majicmixFantasy_v30Vae.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/isabelia_v10.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/isabelia_v10.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/mistoonAnime_v20.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/mistoonAnime_v20.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/mo.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/mo.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/osenayanMix_v45.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/osenayanMix_v45.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/animemix_v3_offset.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/animemix_v3_offset.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/pixel_f2.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/pixel_f2.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/pixelshaper_v2.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/pixelshaper_v2.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/pop_art_v2.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/pop_art_v2.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/ral-origami-sd15.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/ral-origami-sd15.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/checkpoints/realcartoonRealistic_v11.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/realcartoonRealistic_v11.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/embeddings/badhandv4.pt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/badhandv4.pt"
+  },
+  {
+    "location": "ComfyUI/models/embeddings/easynegative.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/easynegative.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/v3_sd15_sparsectrl_scribble.ckpt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/v3_sd15_sparsectrl_scribble.ckpt"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v11f1e_sd15_tile.bin",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v11f1e_sd15_tile.bin"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v11p_sd15_softedge.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v11p_sd15_softedge.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v11p_sd15s2_lineart_anime.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v11p_sd15s2_lineart_anime.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v11p_sd15_lineart.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v11p_sd15_lineart.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v11f1p_sd15_depth.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v11f1p_sd15_depth.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v11p_sd15_openpose.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v11p_sd15_openpose.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/animatediff_controlnet.ckpt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/animatediff_controlnet.ckpt"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v2p_sd15_mediapipe_face.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v2p_sd15_mediapipe_face.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/ControlNetHED.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/ControlNetHED.pth"
+  },
+  {
+    "location": "ComfyUI/models/ipadapter/ip-adapter_sd15_light.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/ip-adapter_sd15_light.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/clip_vision/CLIP-ViT-H-14-laion2B-s32B-b79K.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/model.safetensors"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/ComfyUI-AnimateDiff-Evolved/models/v3_sd15_mm.ckpt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/v3_sd15_mm.ckpt"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts/hr16/DWPose-TorchScript-BatchSize5/dw-ll_ucoco_384_bs5.torchscript.pt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/dw-ll_ucoco_384_bs5.torchscript.pt"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts/yzd-v/DWPose/yolox_l.onnx",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/yolox_l.onnx"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts/LiheYoung/Depth-Anything/checkpoints/depth_anything_vitl14.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/depth_anything_vitl14.pth"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/sk_model2.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/sk_model2.pth"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/sk_model.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/sk_model.pth"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/netG.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/netG.pth"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/comfyui_controlnet_aux/ckpts/lllyasviel/Annotators/ControlNetHED.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/ControlNetHED.pth"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/ComfyUI-Frame-Interpolation/ckpts/rife/rife47.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/rife47.pth"
+  },
+  {
+    "location": "ComfyUI/input/example.png",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/example.png"
+  },
+  {
+    "location": "ComfyUI/custom_nodes/ComfyUI-AnimateDiff-Evolved/models/sd15_t2v_beta_motion.ckpt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/sd15_t2v_beta_motion.ckpt"
+  },
+  {
+    "location": "ComfyUI/models/loras/LCM_LoRA_Weights_SD15.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/LCM_LoRA_Weights_SD15.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/controlnet/control_v11p_sd15_canny.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/control_v11p_sd15_canny.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/grounding-dino/GroundingDINO_SwinT_OGC.cfg.py",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/GroundingDINO_SwinT_OGC.py"
+  },
+  {
+    "location": "ComfyUI/models/grounding-dino/groundingdino_swint_ogc.pth",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/groundingdino_swint_ogc.pth"
+  },
+  {
+    "location": "ComfyUI/models/vae/vae-ft-mse-840000-ema-pruned.ckpt",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/vae-ft-mse-840000-ema-pruned.ckpt"
+  },
+  {
+    "location": "ComfyUI/models/loras/the_matrix_movie_ar_offset.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/the_matrix_movie_ar_offset.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/1947-Paris-SD1.5-5.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/1947-Paris-SD1.5-5.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/80s_offset.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/80s_offset.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/CZ-Retro_Karel-Zeman.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/CZ-Retro_Karel-Zeman.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/EdgeRunners.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/EdgeRunners.safetensors"
+  },
+  {
+    "location": "ComfyUI/models/loras/EvilLoRA.safetensors",
+    "url": "https://storage.googleapis.com/vocodes-public/comfyui-deps/V2VStylesModels/EvilLoRA.safetensors"
+  }
+]

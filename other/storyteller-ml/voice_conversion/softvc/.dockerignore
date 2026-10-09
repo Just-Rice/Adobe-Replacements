@@ -1,0 +1,16 @@
+# Python Virtual Env
+python/
+
+# Python object cache
+__pycache__/
+
+# Vim cruft
+*.swo
+*.swp
+*~
+
+# Default output files
+output.wav
+temp.wav
+metadata.json
+

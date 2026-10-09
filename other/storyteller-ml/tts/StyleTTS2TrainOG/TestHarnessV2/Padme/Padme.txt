@@ -1,0 +1,377 @@
+wavs/1.wav|It isn't supposed to be me. Padme stands in her office, waiting to stride into the Galactic Senate chamber.
+wavs/10.wav|Just days before, it had seemed as if there might be hope, for the first time in so long. The Senate had convened an emergency session to discuss the disaster the war had become.
+wavs/100.wav|and suddenly a giant hologram of Count Dooku appeared in the Senate chamber. Padme reflexively stiffened, he intoned. The news hit Padme like a slap.
+wavs/101.wav|No. It couldn't be. There were cries around her. Other senators cheered. But Padme could barely hear them. Mina was dead.
+wavs/102.wav|In the hallway outside the Senate chamber, Bail and Padme met. Padme's hand maiden, Tecla, at her side. Padme could barely speak.
+wavs/103.wav|Everything had gone so terribly wrong, and now Mina was dead, and Republic forces had done it? I can't believe it, she said.
+wavs/104.wav|Bail put his hand on her shoulder. Padme stopped. Of course. Dooku had killed her. He didn't want democracy. He didn't want peace.
+wavs/105.wav|He let the Confederate Senate have its vote and then killed the senator who'd sponsored it. He did control the universe.
+wavs/106.wav|Mina had been wrong, and it had killed her. What can we do? Padme asked, for once. She could see no way out.
+wavs/107.wav|Bail proceeded to answer as if she was asking a practical question, but Tecla understood the helplessness underneath it. She touched Padme's elbow gently.
+wavs/108.wav|Bail had a plan. Gather the information on the real cost of Bertone's proposal and try to talk sense into the other Senators before the vote.
+wavs/109.wav|Fine. Padme would try. She went to the Banking Clan to find out exactly what these five million troops would cost. Free from regulation.
+wavs/11.wav|And the fix on the table was the same fix as always, more troops. As if more troops had done anything thus far, the Republic ordered more clones.
+wavs/110.wav|The banks had raised the interest rate from ten percent to twenty five. For every hundred credits borrowed, they'd owe a hundred twenty five.
+wavs/111.wav|and that amount would only grow the longer it took to pay it back. Already social services were being cut everywhere. Education. Health care.
+wavs/112.wav|infrastructure. And that meant people were suffering. If they passed the bill, they wouldn't even be able to meet people's basic needs.
+wavs/113.wav|The bill would essentially destroy the republic. The separatists could just sit back and watch. To make matters worse, senators had started to receive threats.
+wavs/114.wav|Senator Farr had been jumped by two bounty hunters in the night, and his arm was in a sling. The Viking clan would stop at nothing.
+wavs/115.wav|you'd think that would outrage some of the senators, but instead, as Padme went from colleague to colleague, pleading her case.
+wavs/116.wav|She found that even the ones who were against the bill before suddenly thought the Republic needed nothing more than more clones.
+wavs/117.wav|Everyone cared about their own self preservation over the people of the Republic, and she could do nothing.
+wavs/118.wav|Some minds can't be altered no matter what they hear, Bail said, when they met in his office. From my experience, Padme said.
+wavs/119.wav|It depends a great deal on who's sending the message. No, they would not listen to her. That was clear. But they might listen to bail.
+wavs/12.wav|The Separatists ordered more droids, and the war grew bigger. That was how it would go, on and on, until everything was destroyed.
+wavs/120.wav|Bail was the best Speaker in the Senate. Everyone respected him. He had, dignity. Bail needed to give a speech before the whole Senate.
+wavs/121.wav|He gazed at her, and then nodded his assent. He would do it. For the first time since Mina's death, Padme felt a spark of hope.
+wavs/122.wav|Perhaps one great speech could change the course of the war. Perhaps one great speech could save the Republic. Maybe that hope.
+wavs/123.wav|was what had made her so careless. Maybe it simply had never occurred to her that she might be in danger.
+wavs/124.wav|After going to plea with Senator Christo at his house the evening before the vote, she decided to walk alone back to her speeder, but when she got to where her speeder was parked,
+wavs/125.wav|The driver was gone, and the speeder along with it. She looked around. It was so dark. Were those foot steps?
+wavs/126.wav|She slipped around a corner and ducked into an alleyway, blaster poised. Then someone grabbed her, a burly bounty hunter.
+wavs/127.wav|who looked like a giant armored bug jumped in front of her and roared. Another one had taken hold of her from behind. Others had tried to kill Padme enough times by then.
+wavs/128.wav|that she knew how to channel all her panic into fighting back. She was not going to let Banking Clan goons silence her.
+wavs/129.wav|Find a way out. Get away! She thrashed. And struggled. Being small could be an advantage. People underestimated you.
+wavs/13.wav|But this time, there was a new wrinkle. The Senate's war funds were nearly extinguished. They simply could not afford more clones.
+wavs/130.wav|Armored Bug came at her with a knife, and she thrashed more, giving him no clear target. She slapped her blaster away, and she struggled against the one who held her.
+wavs/131.wav|He smelled like the Leonorm's swamp, and burst free. She ducked ahead, but armored bug tripped her, and next thing she knew his knife was at her throat.
+wavs/132.wav|And then two Coruscant police droids shone their lights in the alleyway. Padme pushed armored bug away and stood with the droids with one glance back.
+wavs/133.wav|The swamp smelling one who had hold of her was a petroleum with an eyepatch. She sprinted away, and then the bounty hunters attacked the droids.
+wavs/134.wav|Padme was not going to hang around and see who won that fight. She ran out of the alley and darted toward an empty speeder bike.
+wavs/135.wav|Senators were not generally supposed to hijack speeders, but these were extenuating circumstances. Get away. Get away!
+wavs/136.wav|The words repeated in her head as she charged forward, the bounty hunters close behind her. Then armored bug hit a button on his wrist and a cable shot out.
+wavs/137.wav|Attaching itself to her speeder. He was hanging off her speeder, with swamp stink, following on another speeder. One problem at a time Padme.
+wavs/138.wav|armored bug first. He wanted to go for a ride? Fine. Padme slammed her foot on the gas and sped forward.
+wavs/139.wav|Bug pressed a button on his armor and, suddenly, the cable was retracting. He was getting closer. He wanted more, then? Hadn't I dared write?
+wavs/14.wav|Padme had entertained a small hope that this, finally, might lead the Senate to discuss peace. But she should have known better. War is good business.
+wavs/140.wav|then left, darting in and out of traffic while the bounty hunter banged and bounced against oncoming speeders stink was getting close enough to be a problem.
+wavs/141.wav|She dragged Bug over a series of posts, then through a stack of crates. Did he like that? BAM!
+wavs/142.wav|Swap sink slammed into her from the side. She slammed him back. Suddenly the cable tugged again. And Bug was on her bike.
+wavs/143.wav|He grabbed for her, Hadme pulled at the fuel line, and fuel shot up into his face. They sped forward, fuel spraying into Bugs face.
+wavs/144.wav|Stinks like ramming into her and then police sirens a police speeder chase them.
+wavs/145.wav|while a giant metal bug person writhes on the back of one, out of the ordinary. But Padme did not have time for the police. She flammed stink hard.
+wavs/146.wav|And he veered away. Bug was on her again. So she ducked under a bridge and then, BANG! Slammed him into a lamp. He was off.
+wavs/147.wav|She sped forward, but somehow Stink was behind her again, with Bug now on his bike. She turned a corner, into a police blockade.
+wavs/148.wav|She stopped the bike as police cruisers surrounded her. She never thought she'd be so happy to be arrested.
+wavs/149.wav|Back in her apartment, Tecla fretted over Padme. Hello there, I'm Padme, from Naboo.
+wavs/15.wav|The Senate should deregulate the bank so the Republic could borrow more money, whose techno union would profit from that same deregulation. Yes.
+wavs/150.wav|The hand maiden asked, there's nothing they can do. I know who did it. You show it love, you show it light, and you hope it chooses the light.
+wavs/151.wav|They were bounty hunters, paid to stop me from voting against the troop increase. What has happened to democracy? And why doesn't anyone seem to care?
+wavs/152.wav|You do, Tecla said. You're not like most politicians. Padme nearly scoffed. If only that were enough.
+wavs/153.wav|Padme turned to look at her hand maiden, her friend. It wasn't true. Maybe it had been true once, but in the chaos of war, she'd lost sight of everything.
+wavs/154.wav|She'd been running all over Coruscant, trying to get the Senators to care about the suffering of their people, and she'd never asked her loyal friend.
+wavs/155.wav|If her family was suffering, she was exactly like most politicians, but she wouldn't be anymore. She could have been killed that night, if they killed her.
+wavs/156.wav|Let it be for being the person she wanted to be. Tecla, tell me, how is your family? Tecla tilted her head.
+wavs/157.wav|Padme's heart nearly broke. Of course they weren't fine. How is the war affecting them? Tecla eyed her uncertainly.
+wavs/158.wav|Patmay did not break her gaze. How? Please tell me. Tell me how it's been getting worse. She patted the couch next to her.
+wavs/159.wav|She should have been asking these questions all along. But she would ask now. Maybe it was the end of the Republic. Maybe she would lose everything else.
+wavs/16.wav|That would mean the Banking Clan could do whatever they wanted. But wasn't that a small price to pay for safety and freedom? Exhorted Holly Bertone.
+wavs/160.wav|but she would not lose her soul. It was the morning of the vote. Her conversation with Tekla replaced the despair she'd been feeling with resolve.
+wavs/161.wav|She would fight for her people, and she would not stop. They could send all the bounty hunters they wanted after her.
+wavs/162.wav|She would not stop fighting. If she could find a way to survive with Armored Bug and Swamp Stink after her, she could survive the corruption of the Galactic Senate.
+wavs/163.wav|She was ready, ready to stride into the Senate chamber and support Bail, and then the message came in. Bail had been attacked on his way to the Senate chamber.
+wavs/164.wav|He sent a message to Padme on his way to the hospital. You must address the Senate. Padme shook her head. If they didn't listen to me before,
+wavs/165.wav|Why would they listen to me now? Tekla gave her a small smile. Because you do listen. You understand.
+wavs/166.wav|what the people are going through. Please, your people are waiting for you. It is not supposed to be me, but it is her.
+wavs/167.wav|and she will fight. So Padme takes a deep breath and strides in. She hears me deechy proclaiming. Padme announces.
+wavs/168.wav|The whole chamber goes quiet, all eyes are on her, and suddenly she is not afraid. She will speak for the people.
+wavs/169.wav|She draws herself up and she begins. She has no mask. She has no strategy. All she can do is speak from the heart.
+wavs/17.wav|the senator whose planet produced and sold the clones. It was astonishing to Padme that anyone took them seriously when their motives were so clear.
+wavs/170.wav|So she tells them about Tecla, how Tecla's district rarely has electricity and running water as a result of the war.
+wavs/171.wav|how children there can only bathe every two weeks, how they have no light by which to read or study at night. She feels her words reverberate through the chamber.
+wavs/172.wav|The air crackles. No one is calling her traitor. When she finishes, there is a moment of silence. And then, cheers.
+wavs/173.wav|She feels the change in the room. She feels every one of them thinking of the people back home. She feels the Republic and its strength.
+wavs/174.wav|she feels it take one step back from the brink. The bill is defeated. She knows even before the vote is counted. Who knows what tomorrow will bring?
+wavs/175.wav|But today, the Senate showed itself to be more concerned about the people of the Republic than its own coffers. This is why she is here.
+wavs/176.wav|This is how things are supposed to be. And this is why she believes in the Republic. It is not without corruption.
+wavs/177.wav|It is not without darkness, but there is good at its core, and just because something good has darkness in it.
+wavs/178.wav|doesn't mean you abandon it. Just because there is darkness in something does not mean you do not love it.
+wavs/18.wav|But it was wartime, and profiteers masqueraded as patriots. Padme knew all about masks. When you were queen.
+wavs/180.wav|Ha ha ha ha. has fairly Dogsai.
+wavs/181.wav|The five besteston.
+wavs/182.wav|Ha ha ha ha ha ha ha ha ha ha!
+wavs/183.wav|The Republic needs your help. Could you please help me? I could use your assistance, please. Hello, I am Padme Amidala of the Republic Senate.
+wavs/184.wav|It is nice to see you. I'm pleased to meet you. Hello there. How are you? It's nice to meet you. I'm Senator Padme Amidala.
+wavs/186.wav|Where are you from? Greetings from the Republic Senate. It's nice to see a friendly face.
+wavs/187.wav|Hello! From which star system are you? I am here representing the Republic Senate. Hi! Nice to see you!
+wavs/188.wav|I am honored. It's a pleasure to get to know you. We'd better get going. The Republic's diplomatic issues aren't going to resolve by themselves.
+wavs/189.wav|This place would make a lovely retreat. I sure miss Annie. I'm sure I could use this time to compose a speech for the Galactic Senate.
+wavs/19.wav|You must keep your face blank, as if you had never felt an emotion in your life. In the Senate, you wore a different kind of mask.
+wavs/190.wav|I really ought to use this time to practice my blaster skills. I, mean my, diplomatic negotiations.
+wavs/191.wav|Ah, it's nice to have a much needed rest. I believe negotiations are in order? Now seems as good a time as any to relax.
+wavs/192.wav|It's hard for me to just wait for something to happen. I have things to do, really. I have better use for my time than this. I'll just wait here.
+wavs/193.wav|Huh. It might be time for me to stir up a little, diplomatic unrest. Oh! Excuse me! Why would you do that?
+wavs/194.wav|I beg your pardon? The nerve! That was uncalled for! Violence is rarely the answer. Oh, my. I didn't see you there.
+wavs/195.wav|I'm sure we can resolve this peacefully. The Senate won't stand for this. This isn't very diplomatic. You would strike a senator?
+wavs/196.wav|I'm going to write a very strongly worded letter about this. I'm sure you didn't mean it. Let's not do anything we'd regret.
+wavs/197.wav|But I have diplomatic immunity! Is that what you call negotiating? Look out! We're surrounded! And I don't think they want to negotiate!
+wavs/198.wav|Get your blaster ready. Here they come. Careful! Ah! What? Oh, my. Anakin, it is so good to see you.
+wavs/199.wav|I've missed you, Anakin. Please tell me you're well. How goes the battle, Anakin? I have missed you, my love. Tell me you will return to my side soon, Annie.
+wavs/2.wav|and try to convince her fellow senators to vote against a bill to commission more troops for the war against the separatists. And all she can think.
+wavs/20.wav|If you were on the side of continual war, you could contort your face in all kinds of ways. Sorrow. Horror. Out rage.
+wavs/200.wav|Anakin it pleases me to see you are doing well. Oh, Annie. I fear for you out in battle. Hello general Skywalker.
+wavs/201.wav|Master Obi Wan, I'm so glad to see you. Hello, Master Kenobi. How are you, Master Kenobi? How are your dealings with the Separatists?
+wavs/202.wav|It is good to see you Obi Wan. I'm so glad to see you master Kenobi. I always feel safe when the Jedi are near. Master Kenobi.
+wavs/203.wav|Hello, Master Kenobi. Jedi Master Kenobi, greetings. Hello, Ahsoka. It is so good to see you. Hello, Padawan Tano.
+wavs/204.wav|Ahsoka, Anakin tells me you will be a great Jedi someday. Hello Ahsoka my friend. it is so good to see you Ahsoka so I hope.
+wavs/205.wav|Padawan Tano. Hello. Padawan Tano. Ahsoka! I'm always so glad to see you. Jedi Master Yoda, it is a pleasure to see you.
+wavs/206.wav|Hello, Master Yoda. Master Yoda, how are you? I hear the Jedi are doing great things to help the Republic, Master Yoda. The Senate thanks you.
+wavs/207.wav|Greetings, Jedi Master Yoda. Hello, Master Yoda. Master Yoda, Master Yoda, you're looking well. You! Get away from me!
+wavs/208.wav|I thought you died on Naboo. What are you doing here, Sith? Maul! What do you want? You will pay for all the wrong you have done, Maul.
+wavs/209.wav|What do you want, Sith? You will show respect to a Senator, Maul. State your reason for being here, Sith. I'm on my way to the starport now.
+wavs/21.wav|And no one cared what was underneath the mask, if you were against the war, if you were a partisan, if you were young, if you were every thing Padme was.
+wavs/210.wav|If you will excuse me, I'll be sure to call. You can't do this! We are here on a mission of hope! To end this destructive conflict before it!
+wavs/211.wav|The Jedi are here. Please, you must help us. We're trapped. I knew the Jedi would come to aid us. Darth Maul is holding us hostage.
+wavs/212.wav|Be careful. I fear we are the bait in Darth Maul's trap. Maul is here. He wants to destroy every one of us. Thank you, Master Jedi.
+wavs/213.wav|Delegates from both the Republic and the Confederacy will be attending. Padawan Tano, without your help.
+wavs/214.wav|Darth Maul would have ruined any chance for a peaceful end to the Clone Wars, but now we can try to work toward a ceasefire.
+wavs/215.wav|Yes, the Supreme Chancellor has given me his blessing to host a peace conference in Theed. I thought my orders were clear, Master Jedi.
+wavs/216.wav|Anakin I know me what about you, but he said there was no way we could stop it, but Anakin don't be late So were you.
+wavs/217.wav|Sorry, Master Kenobi. That was me. Anakin directed me to a power regulator and I just pressed every button I could find.
+wavs/218.wav|This is Senator Amidala. I've discovered a secret Separatist base on Before, near the Naboo Sun. There's a lot of activity. It looks like they're,
+wavs/219.wav|Uh oh, I think I've been spotted. This is Senator Amidala. You must destroy this base at all costs. Do not,
+wavs/22.wav|You had to keep your face calm, reserved. You could show a bit of passion, but just a bit. You were too much and you were too emotional.
+wavs/220.wav|Yes, it was secretly given to him by the Supreme Executive of the Banking Clan himself. If they leave the Separatist Alliance, it will go a long way to shortening this war.
+wavs/221.wav|This is Senator Amidala. I'm afraid it's much worse than that. I see now this whole thing was a trap, and I'm afraid I walked right into it.
+wavs/222.wav|I've overloaded the power system. On the lower levels, I'm fine, but I don't know for how long. Droids are everywhere. I'll be there.
+wavs/223.wav|This is where we're supposed to meet them. He's probably late again. Anakin! The bridge is out! Threepio! No! We can't leave yet!
+wavs/224.wav|I overheard Grievous. Their hyperdrive is almost repaired. I suppose you have a plan. Ever since I've known you, you've been playing with droids.
+wavs/225.wav|We came as soon as we could, my lady. Have you found any more droids? Finding a couple of battle droids will not be enough. Where'd they pick up all this mud?
+wavs/226.wav|The Eastern Swamps. I think Jar Jar just found out the location of that lab. May I recommend General Kenobi and General Skywalker?
+wavs/227.wav|Relations with the Gungans are a little tense right now, but they trust General Kenobi like one of their own. I want as much information as possible before the Jedi arrive.
+wavs/228.wav|See if you and Three pee o can download any of the other battle droids memory. I'm going to find that lab. Come on Jar Jar, who are you?
+wavs/229.wav|We think the virus that made your animals sick came from the trees. You stay here. You'll be going home soon, I promise. I'll send some soldiers to pick you up and take you back to your home.
+wavs/23.wav|Too little, and you were a protocol droid. So Padme put on her senator mask and stood up. And there was some right on schedule.
+wavs/230.wav|Keep your eyes open. Look for anything out of the ordinary. No way we're going to open this. Why are you holding us? I was about to ask you the same thing.
+wavs/231.wav|The blue shadow virus? I thought that deadly disease was extinct. Are you insane? It's a deadly disease!
+wavs/232.wav|No life forms are immune to it. That's why it was eradicated. Annie, how about the next time you rescue me?
+wavs/233.wav|Before you kill all the battle droids. Missing bomb? I saw Dr. Vindy give a little droid a bomb. Hey there, little guy.
+wavs/234.wav|How about you hand that over to me? Ahsoka, I found the last bomb. It looks like the chamber that holds the virus is missing.
+wavs/235.wav|Sound the alarm! Don't blame yourself. These things tend to happen in a war zone. I hope that their sacrifice brings us closer to peace.
+wavs/236.wav|I can't, Annie. I have to bring this bill before the Senate. It's important. Not more important, but important.
+wavs/237.wav|The work we both do is in service to the Republic, to protect those who would otherwise be powerless to protect themselves. No, Anakin, I can't.
+wavs/238.wav|A Jedi lightsaber is, wow, it's heavier than I thought. If all you want to do is make fun of me, Senator Organa, how good to see you. What is it?
+wavs/239.wav|Privacy invasion, Bill. Of course. I can't let them search me. I have something they must not find. I am Padme.
+wavs/24.wav|He intoned. She had to pretend it was a serious question, because somehow saying that he only cared about his own profit was against the rules.
+wavs/240.wav|The Galactic Senate will not treat with terrorists. Another daring rescue, Master Jedi. Yes, of course, Senator. Worried about public opinion.
+wavs/241.wav|But he wants us to know how very sorry he is. I hope you're right, Uncle. You've been doing an amazing job rallying votes to our side.
+wavs/242.wav|Exciting isn't exactly the word I would use. I think terrifying is more appropriate. I learned it from you. See you inside, Senators.
+wavs/243.wav|The creation of more warriors will not end this war. The financial costs alone will bankrupt and cripple the republic.
+wavs/244.wav|By adding more clones to the conflict, we are only escalating the destruction. I understand. I'll do whatever is necessary to succeed in my mission.
+wavs/245.wav|not winning the war, which is why we must vote for this resolution to promote more diplomacy.
+wavs/246.wav|and to bring an end to this killing and hatred. Thank you. The only thing I find unpatriotic is your warmongering.
+wavs/247.wav|Thank you. But perhaps we should wait till we actually win the vote before we make a victory speech. This is a private conversation.
+wavs/248.wav|Committing more troops to the front lines will not allow diplomacy to resume. What we need is to get his resolution passed.
+wavs/249.wav|I know. No one could ever take his place. What's happened? What makes you think it was murder? That's not it. Perhaps,
+wavs/25.wav|And that set off more outrage. A building wave that threatened to crash through the chamber and drown them all. But then bail spoke.
+wavs/250.wav|Someone was upset about the clone troop bill currently on the floor. It's very controversial. No one will give the vote their full attention until they know what's happened to them.
+wavs/251.wav|Then we'll have time to conduct our own investigation. Well, he didn't exactly inspire confidence, did he?
+wavs/252.wav|We did. We'll have a far easier time looking into this than, indeed, I am. I'd rather do this quietly. I don't need a Guardian.
+wavs/253.wav|Very well. I have no objections. And I know exactly where to start. You both opposed Anno's ideas in the Senate. With enough at stake.
+wavs/254.wav|Maybe you decided to silence his voice, for good. Fine, I will go look. But whatever we find, I'll have more questions for both of you.
+wavs/255.wav|I had some information about a lead here at the docks. My friend was murdered. I don't care about rules. We alerted the killer.
+wavs/256.wav|What if we were sent here on purpose? Yes! What if this was all a setup? Sent us here, just so he could kill us.
+wavs/257.wav|Agreed. I think, in this instance, the Inspector is right. She was the only other one in the room with us. I had to try.
+wavs/258.wav|If you see injustice, you can't wait for someone else to fix it. You must stand up and get involved. If the poison wasn't all our drinks,
+wavs/259.wav|Lolo would have died too. She'd have been poisoned too. Unless she didn't drink. But you drank. You didn't drink.
+wavs/26.wav|urging them to slow down, to research the bill and its consequences, and his steady voice worked its magic over the room.
+wavs/260.wav|No! He made a mistake, Lolo! He was sorry! After all that, we lost. Of course, you were right, Chancellor.
+wavs/261.wav|Master Kenobi explained the problem. I'm here to help. It has no voice to defend itself. Anakin, we have to be that voice.
+wavs/262.wav|It's what we're capable of that frightens me. A creature's life, maybe even an entire species, is at stake. Doesn't that at least warrant a discussion?
+wavs/263.wav|Isn't that precisely the point of a democracy? How is killing the last of a species, in secret and without debate, good for anyone?
+wavs/264.wav|No, Mr. Speaker. I do not. Evacuate the staff to the underground shelters. Does it have to be destroyed? I wish we had never brought the beast here.
+wavs/265.wav|Considering the circumstances, I'll take the risk. Duchess, it's good to see you. If your government has trade concerns, we can talk.
+wavs/266.wav|Many systems have been affected. Everyone in the Republic has neglected Mandalore, and there are those of us who would still vote to give you any help you require.
+wavs/267.wav|We are making progress in the Senate. Overwhelmed. Perhaps they will listen to a new voice. Ruling Council, may I speak?
+wavs/268.wav|I hear your worries, your frustration, but the longer you argue the more your people suffer. You are right. New trade routes are essential to survival.
+wavs/269.wav|But the black market is no substitute for legitimate and legal trade. The Republic can provide security.
+wavs/27.wav|The air settled. The gathering calmed. The Senate was adjourned. Padme stalked into the hallway with Anakin and Ahsoka. Something had to be done.
+wavs/270.wav|As you know, in the Senate, the Chancellor says it's going very well, but my sources say otherwise. There are times I wish I could follow Mandalore's lead.
+wavs/271.wav|Neutrality, and not just in the war. There are still those of us who work to overcome the corruption and believe it to be possible.
+wavs/272.wav|means of direct communication, and locations you should investigate. So, where do we start? It's not your fault. The school must have an import log, correct?
+wavs/273.wav|So we should be able to find out where the tea came from. It looks like the school's import log has been erased. All this because you were greedy?
+wavs/274.wav|and a customs official reports these to the government. I must say, when I came to visit, I hadn't pictured us in such an informal setting.
+wavs/275.wav|But one can only survive the rigors of courtly formalities for so long. Impossible! We witnessed it with our own eyes! And what about when you're not watching?
+wavs/276.wav|It wasn't Death Watch, Prime Minister. It was a group of black market smugglers. What they didn't count on was the process would make the drinks poisonous. You must have hope, Satine.
+wavs/277.wav|I will speak with Master Yoda. Don't lose hope, my friend. Ahsoka! It's so good to see you. How have you been? What makes you believe that?
+wavs/278.wav|This is troubling. Captain, please take all necessary precautions. Yes, Bail Organa and I are leading a conference concerning the refugees from the war.
+wavs/279.wav|I leave for Alderaan in the morning. Ahsoka, the refugee situation is much too crucial to ignore. I called this conference.
+wavs/28.wav|They needed another way, she turned to Anakin. You must ask the Jedi Council to speak with Chancellor Palpatine. Anakin threw up his hands.
+wavs/280.wav|It could make an enormous difference in policy. It's vital that I go. Well, I suppose it couldn't hurt. Besides, I enjoy your company.
+wavs/281.wav|Of course you can join me as extra security. You'll learn to play in time, Ahsoka. Someday, you'll even beat me. What's on your mind?
+wavs/282.wav|When I was queen, I felt the same insecurities as you do now. It was ultimately up to me to run the entire Naboo system.
+wavs/283.wav|Oh yes. But I have learned to trust in myself, and you will too. Absolutely. Yes, Captain.
+wavs/284.wav|I'm fine. Bail, it's so good to see you. Thank you so much for hosting this conference. Of course, Pato Antano. If you'll excuse me.
+wavs/285.wav|I haven't lost faith in you, Ahsoka. We are taking all the necessary precautions, correct, Captain? Ahsoka, in your vision, does Ora succeed?
+wavs/286.wav|Isn't it just beautiful? Ahsoka, I can't stop living my life. You forget, I'm a friend of the Jedi. I'm no stranger to taking risks.
+wavs/287.wav|What is it? I wanted to first thank you all for coming. This is a cause that is very important to me. You did all you could.
+wavs/288.wav|They will follow me wherever I go. It is the greatest weapon wielded against those who would stand up for truth and justice. And together we shall represent them.
+wavs/289.wav|And I know there are those individuals in the galaxy who would seek to promote fear and spread chaos. Know that a chorus of thousands shall rise up in its place.
+wavs/29.wav|Before Padme could respond, Ahsoka said, why not? Aren't we Jedi Knights? Isn't it our duty to advise the Chancellor?
+wavs/290.wav|For you have no dominion over the righteous. We are the defenders of truth. Ahsoka, I told you.
+wavs/291.wav|I'm no stranger to taking risks. Captain, she's stunned. His planet is in crisis. His people are starving. He's a very old family friend.
+wavs/292.wav|I could not refuse his plea for help. This is a mission of peace. I put my faith in diplomacy.
+wavs/293.wav|We can't solve all of our problems by throwing troops at them! Without Ahsoka's foresight, I fear things would have gone quite differently.
+wavs/294.wav|I will follow your advice, Chancellor. Thank you. I've been thinking. Ara Singh said the person who hired her simply wanted revenge for something I did to them.
+wavs/295.wav|Yes, but with Ahsoka's added details, I know someone who fits the description. Wait, no.
+wavs/296.wav|The tendrils belong on the main table between Anakin and Senator Aang. Three pee o. It's so good to see you, Senator Aang. Three pee o, you've done a magnificent job.
+wavs/297.wav|Members of the Senate, do you hear yourselves? More money. More clones. More war. Say nothing of fiscal responsibility.
+wavs/298.wav|What about moral responsibility? Hasn't this war gone on long enough? Of course not! But negotiation might be a better course of action.
+wavs/299.wav|You must ask the Jedi Council to speak with Chancellor Palpatine. A peaceful solution is the only way out of this morass of war.
+wavs/3.wav|is that it's not supposed to be her. She's even convinced Bail Organa that she is the wrong person. She's still too new, too young.
+wavs/30.wav|Anakin sniffed. After today's debate, Padme muttered darkly, I was hoping she learned a great deal. Truthfully, Ahsoka said.
+wavs/300.wav|After today's debate I was hoping she learned a great deal. Maybe talking to the Jedi Council isn't the role for you after all. Thanks for your help. Come on Ahsoka.
+wavs/301.wav|You told me to teach her about politics. So I'm going to. He is a she, a senator in the confederacy of independent systems.
+wavs/302.wav|The Separatists used to be a part of the Republic. I was close with many of the Senators who left. I may not agree with them, but they're more than pawns.
+wavs/303.wav|They say official meetings would only legitimize the Separatists. You just gave me an idea. You're a Jedi, and Jedi are allowed to travel to neutral worlds like Mandalore.
+wavs/304.wav|Where we could then board a cargo ship to a Separatist system. It's just that you could get us through to meet with her and, I haven't seen her or her family in so long.
+wavs/306.wav|She was my mentor when I was growing up on Naboo. Yes, how things have changed since the last time we met. I sense Dooku's dirty hand in all of this.
+wavs/307.wav|I forgot. You actually admire the man. The Republic Senate is holding a critical vote on whether or not to escalate the war effort.
+wavs/308.wav|However, many of the delegates are undecided as to what to do. I am certain if you could convince your representatives to extend an olive branch of peace towards the Republic,
+wavs/309.wav|There might be enough sympathy in the Senate to finally open negotiations. That's all I ask. To hope. This is goodbye.
+wavs/31.wav|I didn't understand any of it. I know the separatists are evil, but all anyone argued about was banking deregulation.
+wavs/310.wav|Jar Jar, you would be doing me a great favor by staying with the ship. I need you to watch over Three pee o. You know how he always gets himself into trouble.
+wavs/311.wav|I won't be long. We've been friends since I was a little girl, when you were my father's strongest ally in the Senate. And of course I'd come to help you.
+wavs/312.wav|I'm sure the Republic Senate will approve a relief effort. The vote was postponed, but you will get your food, Your Excellency.
+wavs/313.wav|We would be remiss, if not irresponsible, to reject the Separatist proposal. Cannot be trusted. He will bring war to your system just as he did to mine many years ago.
+wavs/314.wav|I don't understand. If I might speak with you confidentially, I know that this is sincere. Does it matter, Chancellor, if the result is an end to the war?
+wavs/315.wav|There's always a choice. To live in fear is no life at all, given that the separatists have put a call for negotiations on the table.
+wavs/316.wav|The need for additional troops seems ill timed. But it was the Separatist Congress that issued the Bill of Peace! That's not true! It's not too late!
+wavs/317.wav|You can stop this madness! I'm returning your Padawan. Chancellor Palpatine! One alternative might be to stop the war, not escalate it!
+wavs/318.wav|May I remind the Senators that the peace proposal was made prior to their assault. Wants us to continue the fight.
+wavs/319.wav|It's a calculated attempt to destroy the peace process. Not everyone in the Confederacy wants this. I know this for a fact. I can't believe it.
+wavs/32.wav|interest rates and, well, almost nothing about what we're fighting in the first place. Padme smiled sadly.
+wavs/320.wav|I just can't believe the Republic would target, Senator. What can we do? Right. Let's go, Uncle. You know these Banking Clan people.
+wavs/321.wav|Plus, you owe me for telling such a bad joke. I'll see, this bill is shortsighted. Millions of clones won't win this war.
+wavs/322.wav|The only winner will be the banking clan. They wanna pass this bill so badly, they're using scare tactics to sway votes.
+wavs/323.wav|Then why are you voting for additional troops? As long as Senators are being threatened and attacked, I'm afraid we don't stand a chance.
+wavs/324.wav|Even so, we're still at least six votes short of a majority. And you saw how effective my plea was today. You're the finest public speaker I know.
+wavs/325.wav|If anyone can convince the Senate that voting for this bill will bankrupt the Republic, both financially and spiritually, I urge you to speak before the full Senate.
+wavs/326.wav|Good. In the meantime, I'll pay another visit to those still undecided. Thank you. This way, uncle. They are people! Is there anything we can do to get you to change your mind?
+wavs/327.wav|Senator Organa is preparing to speak before the full Senate, so you are open to voting with us. It's better than a no.
+wavs/328.wav|I'm sure when Christo and the others hear what Bail has to say, they will vote our way. My driver's only a block away. I think I'd like to walk. I can take care of myself.
+wavs/329.wav|Plus, I can use the fresh air. There's nothing they can do. I know who did it. They were bounty hunters.
+wavs/33.wav|While Ahsoka's viewpoint on the Separatists had all the nuance of a Senate debate, she was exactly right on what had happened in that room.
+wavs/330.wav|Paid to stop me from voting against the troop increase. He carries a certain weight. He's seen as a voice of reason. I've been against this bill from day one.
+wavs/331.wav|If they didn't listen to me before, why would they listen now? Like so many of the people that we tell ourselves, we're here to serve.
+wavs/332.wav|Tekla lives in a district that rarely has electricity and running water as a result of the war.
+wavs/333.wav|Her children can now only bathe every two weeks, and they have no light in which to read or study at night.
+wavs/334.wav|with no thought for what the people need to survive. This war is meant to save them from suffering, not increase it.
+wavs/335.wav|It is not on the battlefield where Dooku will defeat us, but in our own homes. Therefore, it is our duty and our responsibility to defend our land.
+wavs/336.wav|to preserve the lives of those around us by defeating this bill. Is Boss Leoni calling for a march on feed? Of course it's not.
+wavs/337.wav|With all due respect, your course of action is based on lies. You must make your warriors stand down, or under someone's influence.
+wavs/338.wav|Who are we? Boss Leoni, don't you remember anything? I know, Jar Jar. The bandages have stopped the bleeding, but he's unconscious.
+wavs/339.wav|The resemblance is,remarkable. You! You look just like Boss Leone. I didn't realize it until you put the crown on.
+wavs/34.wav|That was the Galactic Senate for you. People were dying across the galaxy, and the Senate made it sound like a banking problem.
+wavs/340.wav|I'm not sure, Jar Jar. What do you want, Dooku? I can't do that. I can't, Jar Jar. With Grievous captured, we could win the war.
+wavs/341.wav|I know, Jar Jar. What is going on? What have you done here, Clovis? All of your idealism was just a front.
+wavs/342.wav|Why are you doing this? Listen to yourself. The Republic is sending its armada to take back the banks. You've brought war right where there cannot be war.
+wavs/343.wav|Your actions have destroyed the banks once and for all! Clovis, you have to turn yourself in. Let me go, Clovis!
+wavs/344.wav|No! Anakin, don't! I'm sorry, Anakin. I'm sorry. You know you will soon be destroyed.
+wavs/345.wav|I can't tell you how many times I've seen battle droids sliced in half by a lone Jedi. You made it! I'm rescued at last!
+wavs/346.wav|Hurry before the battle droids figure out what's happening. Thank you. Let's get out of here, Master Jedi. Three pee o, where's Jar Jar?
+wavs/347.wav|What about the Jedi that's not good, but I need you to stay calm go back to the ship and call for help what? battle droids.
+wavs/348.wav|Jar Jar, all right, then find a communications room and send out a distress signal. Hopefully there are some clone ships within range. I'll track down Jar Jar.
+wavs/349.wav|Jar Jar! Jar Jar, no. I think Jar Jar's dead, Three pee o. Hold it right there, Viceroy.
+wavs/35.wav|Anakin said, wars complicated Ahsoka, but let me simplify it. The Separatists believe the Republic is corrupt.
+wavs/350.wav|I think it's time to tell the Viceroy about our little secret, how you never meant to leave the Republic, and how you truly care what's best for your people.
+wavs/351.wav|It is the Republic that should be asking your forgiveness, my old friend. Far too often, we forget that our most important allies are our allies.
+wavs/352.wav|I wanted to compliment you on your speech. You were very brave in these difficult times. I know the Separatists have approached you to offer their help. Please do not take it.
+wavs/353.wav|The Senate will force the Trade Federation to resume trade. It reminds me far too much of Naboo's unscarred history. You certainly have a unique way of looking at things, Annie.
+wavs/354.wav|What is it, Ahsoka? I was afraid something like this would happen. I'm not so sure local authorities can handle it. Should you really proceed without the Council's approval?
+wavs/355.wav|Well, be careful, Ahsoka. I still can't believe they let you teach. I will do everything I can to prove your innocence, Ahsoka. Wait, where are you going?
+wavs/356.wav|You can't leave now. Until we hear from Anakin, let's work on your defense. The Republic recognizes the tragedy of war.
+wavs/357.wav|But there is nothing we can change that has already occurred. Anakin! That will be all, Threepio. Yes, Threepio. Now go!
+wavs/358.wav|How did you manage this? What happened to your military transport? You called this, home. The Naboo ambassador gave me something, I think,
+wavs/359.wav|I still have it here somewhere. It is. It'll be perfect. Five blossom bread. My specialty.
+wavs/36.wav|but they're wrong, and we have to restore order. And that was Anakin. He needed to believe in right and wrong, good and evil.
+wavs/360.wav|I know how to make lots of things. When I was little, I cooked every day. I've been saving it for a special occasion. I wish it could always be just like this.
+wavs/361.wav|Right now? I understand. Don't think you can read my mind. You finally found some time for me. I already told Master Yoda.
+wavs/362.wav|I don't want to spy on a colleague and an old friend. Why does that matter? That was before we were together. It's not your decision to make!
+wavs/363.wav|It's mine. Actually, I just changed my mind. You've convinced me that it's vital to learn what Clovis is doing. I accept the mission to spy on him.
+wavs/364.wav|Don't take it personally, Anakin. Duty comes first. Especially in wartime. At one point, Clovis and I were, close.
+wavs/365.wav|It was my choice to return things to a strictly professional level. Clovis didn't take it well. But I know I can regain Clovis's trust.
+wavs/367.wav|It's been good to see you again, Clovis. I didn't realize how lonely I was until tonight. Ah, you're taking a pleasure trip?
+wavs/368.wav|Maybe you can say a few words on my behalf. It's every day asking for trade concessions, but, I can't ever seem to make progress.
+wavs/369.wav|Are you inviting me for political reasons or because you want us to be friends again, I'll be happy to go with you.
+wavs/37.wav|And if something was not all good, all right, then to him it was evil. It made him a good Jedi, but a terrible politician.
+wavs/370.wav|It'll be like old times. Senator Clovis, please forgive me for arriving unannounced. I came here with the very same hope.
+wavs/371.wav|I believe in second chances. Three pee o, after that long trip, I think I need a walk.
+wavs/372.wav|Oh, I'm sorry to intrude. I was lonely, so I came looking for you, and I'm fine. I stood up too fast.
+wavs/373.wav|A tour sounds perfect. Yes, I'm sure. Padme? That tastes so good. I guess I was just thirsty.
+wavs/374.wav|You're so good to me, Clovis. I don't deserve your kindness. Because of you! I did it for the Republic!
+wavs/375.wav|I didn't want to believe that you were involved with the Separatists, but you are. You're a traitor! It's on its way to the Senate.
+wavs/376.wav|Your scheme is finished. We may never have a better chance to capture Count Dooku. We would like to send two Jedi to confirm you have Count Dooku.
+wavs/377.wav|Before delivering the ransom. Impossible. The Senate completed its vote. They've decided in favor of occupation. It was during your meeting with the Chancellor.
+wavs/378.wav|Your accident accelerated the Senate's decision. Republic forces are set to leave for Mandalore at sunrise tomorrow. Supreme Chancellor.
+wavs/379.wav|I think this should cast a new light on the so called evidence we saw earlier. The person to thank is Duchess Satine. She found the proof.
+wavs/38.wav|and no help to her at all. Padme headed to her office, motioning for Ahsoka to follow. There had to be a solution. There had to be another way.
+wavs/380.wav|The Senate held an emergency session, and the Republic forces have been ordered to stand down. We have some logistics to discuss in order to ratify the Senate's decision.
+wavs/381.wav|Welcome home, Chancellor. I'm thankful to the Jedi for bringing you here safely. Anakin, Ahsoka, welcome to the festival.
+wavs/382.wav|Are you that certain an attack is imminent? Once again you have all distinguished yourselves in the eyes of the Republic, and the people of Naboo are in your debt.
+wavs/39.wav|Surely the Separatists didn't want continual war, either. If only she could talk to Mina. Mina Bonteri was the enemy now.
+wavs/4.wav|Too partisan. Proving herself. Will she ever not be proving herself? It is supposed to be bail. Trusted. Respected.
+wavs/40.wav|A senator in the Confederacy, but once Mina was her friend, her mentor. Surely Mina wanted the war to end.
+wavs/41.wav|But it was illegal to talk to Separatists, because that would be legitimizing them. Which made it impossible to negotiate peace.
+wavs/42.wav|She spoke her thoughts out loud to Ahsoka, who couldn't believe it. Your friend is a Separatist? One of Dooku's pawns?
+wavs/43.wav|It's not that simple, she wanted to say. This was the problem. This was why the war would never stop, back in the Senate chamber.
+wavs/44.wav|Mott not Rab had called the Separatists, animals, Ahsoka, evil, and pawns. Anakin, wrong.
+wavs/45.wav|But what if things weren't so black and white? What if she could find another way? And that was when Padme got an idea.
+wavs/46.wav|Are you suggesting, Ahsoka asked after she explained her plan, that I use my status as a Jedi to smuggle you behind enemy lines?
+wavs/47.wav|Padme blinked. Time to try a different tack. It's just, she said carefully, that you could get us through to meet with her.
+wavs/48.wav|and I haven't seen her and her family for so long. But Ahsoka grinned. Relax, she said. I'll help you. Padme grinned back.
+wavs/49.wav|It was simple, in the end. As a Jedi, Ahsoka could get Padme to neutral systems, so they went to Mandalore, and then took a cargo ship to Raxus.
+wavs/5.wav|considered a voice of reason. Bail is the one they'll listen to, and the bill on the table is too important for them not to listen.
+wavs/50.wav|Mina Bonteri's current home, and the sight of the Separatist capital, they wrapped themselves in hooded cloaks and strode by battle droids as if they belonged there.
+wavs/51.wav|Padme had known that Raxxulan was a thriving city, but somehow she'd expected it to look different, shadowy and war torn.
+wavs/52.wav|Even though the war had no more come to Raxus than it had to Coruscant, Coruscant hadn't been attacked in a thousand years, and walking its streets,
+wavs/53.wav|You'd have no idea the galaxy around it was burning. Nonetheless, with a young Jedi at her side, if they were caught,
+wavs/54.wav|A republic senator was not supposed to be strolling on a Raxulan landing platform swarming with battle droids.
+wavs/55.wav|Well, it was better not to think about it, but they had a plan. The battle droids on Raxus were no less distractible than anywhere else in the galaxy.
+wavs/56.wav|and suddenly Padme was standing in front of Mina Bonteri. Mina said. Padme had forgotten how warm Mina's voice was.
+wavs/57.wav|How it could feel like an embrace, just when she needed one. In a moment, the rest of it all fell away. The Separatists. The war.
+wavs/58.wav|And they were simply two old friends, beholding each other after all those years. When they got to the Bonteri house, they were greeted by Mina's son, Lux.
+wavs/59.wav|who had been just a boy when Padme saw him last, Mina did not look that much older than she had. A little grayer, and something else too.
+wavs/6.wav|There is no end to the war in sight. Clones are being slaughtered, and the Separatists are gaining ground. The Republic keeps throwing money at it. Throwing clones at it.
+wavs/60.wav|Maybe a little sadder. But Lux was like an entirely different person. He's grown so much, Mina. Padme breathed when she and Ahsoka were inside the house.
+wavs/61.wav|It was a foolish thing to say, of course he had, but right now she felt foolish, Mina said gently. With all due respect, Ahsoka said.
+wavs/62.wav|As a Separatist, didn't you create this war? Padme turned to her. Ahsoka, Mina reassured. And then she turned her gaze to the young Jedi.
+wavs/63.wav|and the Jedi? Ahsoka straightened. Maybe I could speak with him, she said. Padme heard the unsaid words in her old friend's voice.
+wavs/64.wav|and looked at the rug, face burning. She hadn't known, Mina added. Ahsoka looked how Padme felt. She made an excuse and stepped outside.
+wavs/65.wav|leaving Padme alone with Mina. I'm so sorry, Padme said after a moment. Mina said. I didn't, Padme began.
+wavs/66.wav|Mina said. When Mina came back, carrying two glasses of wine, Padme was ready. They discussed the war in general terms, speaking like friendly politicians.
+wavs/67.wav|And then, slowly, speaking like any pair of friends might, so much so that when talk returned to the republic's crisis,
+wavs/68.wav|Padme said what she would to any other friend. I sensed Dooku's dirty hand in this. Mina's eyebrows quirked. She said dryly.
+wavs/69.wav|I forgot Padme said voice sharp you actually admire the man the words were out of her mouth before she could stop them.
+wavs/7.wav|Not realizing that the war is a fire that treats everything thrown at it as kindling. The bill on the table not only would expand the war,
+wavs/70.wav|Before she could remember, she was supposed to put all those feelings aside and try to talk peace. But talking like friends made her remember what it was like to be friends.
+wavs/71.wav|Before Mina had left the Republic, had sided with Dooku, had chosen betrayal, war takes everything from you.
+wavs/72.wav|Mina said after a moment. The question is how. Padme straightened, gathered herself, put on her diplomat mask.
+wavs/73.wav|That is why it was so urgent that I speak with you. The Republic Senate is holding a critical vote on whether or not to escalate the war effort.
+wavs/74.wav|However, many of the delegates are undecided as to what to do. Mina nodded slowly. That was what Padme wanted to hear.
+wavs/75.wav|I am certain if you could convince your representatives to extend an olive branch toward the Republic, there might be enough sympathy in the Senate to finally open negotiations.
+wavs/76.wav|Thank you, Mina. That's all I ask, Mina said, raising her glass to hope.
+wavs/77.wav|and hope was what she had when she and Ahsoka left Raxus. Thanks to Mina's efforts, the Confederate sent it with a hologram of Dooku presiding.
+wavs/78.wav|Had passed a resolution to initiate peace talks, Padme had said goodbye to Mina like a diplomat after a successful negotiation, but a little like an old friend too.
+wavs/79.wav|She would never understand why Mina Bonteri would side with Dooku, no matter what issues her friend had with the Republic. She would not try to understand.
+wavs/8.wav|It would bankrupt the whole Republic. It is supposed to be Bail. He has spent days on his speech. But here Padme is.
+wavs/80.wav|But right now, they were both on the side of peace. And maybe one day the war would end and they could really be on the same side again.
+wavs/81.wav|and try to repair what had been broken. She had hope. She carried it with her back to Mandalore, then back to Coruscant, to the Senate building.
+wavs/82.wav|and up to Chancellor Palpatine's office, where she told him about the Confederate proposal, omitting everything she had done to bring it about, he said.
+wavs/83.wav|Your Excellency, Padme said, every bit the proper Senator, we would be remiss if not irresponsible.
+wavs/84.wav|To reject the Separatist proposal, an end to the fighting would mean there's no need to borrow money for more clones. The Chancellor beckoned to her, then walked her away from the others.
+wavs/86.wav|he said. Padme bristled. He still talked to her like she was a child. I don't understand. Yes, yes, they could.
+wavs/87.wav|she weighed her options in a blink. If I might speak with you confidentially, she said. Chancellor Palpatine loved being in on secrets.
+wavs/88.wav|I know that this is sincere. I've been in contact with my old friend, Mina Bonteri, and the origin of the proposal is with her.
+wavs/89.wav|She smiled winningly. Does it matter, Chancellor, if the result is an end to the war? All the way up to her repulsor pod.
+wavs/9.wav|with mere minutes to decide what she is going to say, and all she can think is, it is not supposed to be me.
+wavs/90.wav|so she carried her hope with her to the Grand Convocation Chamber. Something was different. The other Senators felt it, too.
+wavs/91.wav|The air crackled, Padme drew all the excitement to her, and addressed the chamber. Bail added, it was time to vote.
+wavs/92.wav|Padme pressed her button. Nay, then there was a distant explosion. The whole building shook and the lights went out. Coruscant had been attacked.
+wavs/93.wav|A power generator bombed. The Separatists were blamed. It made no sense to Padme. They just opened peace talks.
+wavs/94.wav|But it was wartime, and no one cared about cents. Holly Bertone moved to immediately deregulate the banks, and the Senate approved in a flash.
+wavs/95.wav|More troops. More fighting. More death. More war. Always more war. But Bertone was not done.
+wavs/96.wav|Padme could not speak. Five million, Bail said. Of course, Bertone had an answer. Padme could not help herself.
+wavs/97.wav|That did it, someone shouted, and in the blink of an eye, wanting peace had come to mean being a traitor, but Padme would not give up.
+wavs/98.wav|hissed another senator. There was no point. She could say nothing. They were back to black and white, right and wrong, good and evil.
+wavs/99.wav|And if she was not pro war, she might as well be the enemy. A traitor. Then a murmur from Palpatine. A blip in the air.

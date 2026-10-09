@@ -1,0 +1,64 @@
+val/250.wav|Rockets, be careful! I can't find anything for you! Get away! He's got Rockets! Turn around! Booker! The lines are clear! Handy man, kill it!|1151
+val/251.wav|To the left! Watch out, Patriot! Go, go, go! Booker, he'll help us! We can use him against the box fleet!|1151
+val/252.wav|Crow, no! Let me go! Get your hands off of me! Let me go! I've got medicine!|1151
+val/253.wav|Booker, you're hurt! Ammo, Booker! Done! Stop it! Watch out! Handy man! I'll see what else I can find! Look, Mister DeWitt!|1151
+val/254.wav|You don't want to be here when he gets here! Just a minute! I'm getting dressed! Go! You've gotta go! He's coming towards you! They're on the barge!|1151
+val/255.wav|There's no way out, trust me, I've looked! Stop it, you're too impatient, that's enough! Fire man, Booker! You're a monster! Booker, look. In case you need it!|1151
+val/256.wav|You could try forcing it open. Booker, Song bird's ready. Just drop me off if you want to. Handy man, over there! Booker, which tear do you want me to open?|1151
+val/257.wav|Be careful, there's a crow! I found ammo! I think I can help! Tell me which tear to open! There's nothing around! I'm not ready! I see her!|1151
+val/258.wav|Over here, Booker! There's a tear! We can take that sky line to the Prophet's cabin! Aim for his gears! Salts, catch! A tear over there!|1151
+val/259.wav|Which way? Ammo, take it! Up this way! Hey, take your time! I'm fine down here. Booker, behind you! The balcony, Booker!|1151
+val/260.wav|Look out! More of them! Look! I can't find anything! I owe you an apology! Comstock used me to bring you back, but.|1151
+val/261.wav|I brought back a version of you from the reality that I had built up in my own head! He pretended to love you, like he pretended to love me!|1151
+val/262.wav|Booker, balcony! Oh my god! Over there! Fire man! Over there! Flak Cannon! I've got you covered! You tell me, what did he mean about my finger?|1151
+val/263.wav|Watch the balcony! I can open these tears for you! Here! Ammo! To the right! What?! I can help! Booker, a crow! Booker! Look up!|1151
+val/264.wav|Booker, rockets! Bring us the girl and wipe away the debt! Take this! There's a patriot! I am not going with you!|1151
+val/265.wav|I can open this! I've got ammo if you need it! Down here! Booker, flak cannon! Get away from me! He's down! Finally!|1151
+val/266.wav|Booker, the gears! Booker, salts! I'm looking, hold on! Who are you? Why did you come here? I need more time! Sniper, get down!|1151
+val/267.wav|Booker, Song bird's ready! I'm looking! Get up, Booker! Get up! Booker! Handy man! There's a tear! Just give the word! They must be duds!|1151
+val/268.wav|Booker! Behind you! Booker, call him in. Fire man, Booker, careful! I think we're gonna have visitors. I see a tear, Booker!|1151
+val/269.wav|Watch out for the barge! No, no, no, Booker! Supply's up! Watch out, fire men! The right, Booker! Booker, take this! There's nothing left!|1151
+val/270.wav|Handy man, watch out! You bet! Booker, see that tear? Right, Booker! Booker, you're left! Left, Booker! Watch out, crow! On it!|1151
+val/271.wav|Rocket, Booker! I've got your back! Patriot, kill it! No, no, no! No, I'm getting that hand. Look, handy man!|1151
+val/272.wav|Salts, Booker! Booker! I have salts! Booker! What are you doing? Booker, here! Booker! Over there! The box!|1151
+val/273.wav|Booker, the Roof top! I had a role in this catastrophe! If you want to pretend that we're purely innocents in this, then that's your prerogative, but. Blow you! I have a better idea.|1151
+val/274.wav|Catch! Black cannon over there! Catch! We've gotta get out of here! I haven't found anything yet! Take it! The heart! Hit him in the heart! What is all this?|1151
+val/275.wav|They were watching me all this time. Why? Why did they put me in here? What am I? What am I?|1151
+val/276.wav|I just want to get out of this city. Please. You need this! Handy man, Booker! Booker! The sky line, Booker. On it!|1151
+val/277.wav|There's no way up from here! Do not attempt to follow me, Mister Dewitt! On the sky line! I'm looking for more! Booker, he's ready! They're on the balcony!|1151
+val/278.wav|The barge, Booker! Here you go! Okay! Up on the roof top! That's all I've got! Tell me where to send him. Patriot! Over there! There's supplies when you need them!|1151
+val/279.wav|Wah! Watch out, Black Cannon! Keep your eyes open! Ammo! Catch! Look out, he's charging! Why? What did I do to them?|1151
+val/280.wav|Down below! Booker the barge! Fire man! I found salts! Take cover! There's a handy man! Bottle salts!|1151
+val/281.wav|Take this, hurry! Patriot, Booker! Fire man over there! There's more of them! Look out!|1151
+val/282.wav|Mister DeWitt, look! Tears, Booker! Ammo Booker! I'll try to keep you stocked!|1151
+val/283.wav|Fifty percent of everything people earn here goes right to Comstock as a tithe. They're just right for each other, aren't they? Booker, we should be careful.|1151
+val/284.wav|You just can't remember it. Oh, I loved those stories when I was a kid. They are a bit off putting.|1151
+val/285.wav|I know you hate me for not being your daughter, and I hated you for not being my mother. Alright, let's see. Type.|1151
+val/286.wav|Three letters to spell the voice. Look at this. Booker, take this rifle. Booker, this is Misses Lin.|1151
+val/287.wav|I don't know. Is that possible? But the child took ill, and Our Lady prayed for the prophet's heir day and night. In this world, you are a martyr.|1151
+val/288.wav|And where will we get these weapons? This is my mother's diary. Why would Slate have it? They shut down Gondola access to the Hall of Heroes.|1151
+val/289.wav|These men. Seems easy. This is between me. I think you should see this. Booker, see this? I can see all the doors.|1151
+val/290.wav|And what's behind all the doors. And behind one of them, we must forgive each other.|1151
+val/291.wav|Because there is one far worse than you or I. Who are you? Comstock led the Columbian troops to Peeking and.|1151
+val/292.wav|How do you figure they'd know you'd be coming? Hey, Mister DeWitt, I'll see what I can do. Stay away! Comstock had a child.|1151
+val/293.wav|My book's never mentioned anything about a child. Can the sky line help? There's the launch panel. Booker, look, the shrine. Because he is not going to have long to use it.|1151
+val/294.wav|We'll give it a whirl. Found his hair. We can take that skyline to the Prophet's cabin. I hope Comstock got what he wanted from me.|1151
+val/295.wav|I used to open them all the time in my tower. I'm sorry, I shouldn't have pried. Look! You need ammo? Har har.|1151
+val/296.wav|Until I grew up, I hated him because he was my warden, but he's just Comstock's pet, isn't he? Just like me. The broken clock.|1151
+val/297.wav|She deserved whatever Comstock did to her. That's one quarter of the pods ejected! No, let's keep an eye out. Here it is, Booker.|1151
+val/298.wav|Booker! Another gun ship on the left! What could people have done to deserve to be locked up in a place like this? Pankertons.|1151
+val/299.wav|Weren't they the ones they'd call in to settle things when the workers took to striking? Eventually you'll give him what he wants. Well, the man's got an ego.|1151
+val/300.wav|But he killed you both. I guess it's from me. Hey, see this? Why is one bath room for colors and the other for whites? Why are they dropping so slowly?|1151
+val/201.wav|What damage? Is it that place's fault? I thought you had guts, but I guess I was wrong.|1152
+val/202.wav|Huh? What? You're giving up already? What a loser. Stop day dreaming, Yugi!|1152
+val/203.wav|Doh. Don't tell me you already don't know what to do next. Hurry up. You snooze, you lose.|1152
+val/204.wav|Are trying to annoy me? Ha ha ha. I can't wait forever. Get moving, will ya?|1152
+val/205.wav|Stop stalling for time. That's so lame. Yugi, It's not polite to keep a lady waiting.|1152
+val/206.wav|All my hard work's finally paid off! You should have practiced more. Too bad, Yugi. Yugi, there are two ways of losing.|1152
+val/207.wav|One way is to lose everything. I'm going to learn from this loss so that I can become stronger and I will achieve my dream in the end.|1152
+val/208.wav|Good luck in the tournament, Yugi! Yugioh! Ha ha. Well, let's get started!|1152
+val/209.wav|You'll find out what girl power's all about! No man can ever beat me! I'll crush you!|1152
+val/210.wav|I can see all your cards, kid. It's my turn! I'll take down all you losers.|1152
+val/211.wav|The other way is to lose a battle in order to win the war. And I will beat you in the future. Ha ha ha. You have another thing coming!|1152
+val/212.wav|Just wait until I strike you with my own critical hits. But you will fall eventually, they all do.|1152
+val/213.wav|Are you really the King of Games? You're still an amateur when it comes to Capsule Monsters! Because I prepared a great one just for you!|1152

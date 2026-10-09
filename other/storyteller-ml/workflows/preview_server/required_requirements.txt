@@ -1,0 +1,15 @@
+numexpr
+numba
+opencv-python
+color_matcher
+mediapipe
+piexif
+segment_anything
+scikit-image
+rembg[gpu]
+timm
+addict
+yapf
+deepdiff
+pynvml
+spandrel

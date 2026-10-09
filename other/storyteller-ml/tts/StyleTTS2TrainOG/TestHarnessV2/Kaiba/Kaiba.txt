@@ -1,0 +1,3 @@
+wavs/27.wav|I will catch up! It's game over, Yugi! I completely obliterated you!
+wavs/71.wav|But that's the last move you'll ever make! I activate my trap! I activate my spell card! Raigeki! Change of Heart!
+wavs/115.wav|Combine into one! X Y Zee Dragon Cannon! X Y Zee Dragon Cannons effect activates!

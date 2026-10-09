@@ -1,0 +1,32 @@
+{
+    "input": "videos/testanime.mp4",
+    "output": "videos/testanime/blend.mp4",
+    "work_dir": "videos/testanime",
+    "key_subdir": "keys",
+    "sd_model": "/home/salt/clone/ComfyUI/models/checkpoints/animePastelDream_softBakedVae.safetensors",
+    "lora_path": "/home/salt/Downloads/ya-v100-000029.safetensors",
+    "interval": 8,
+    "crop": [
+        0,
+        180,
+        0,
+        0
+    ],
+    "prompt": "1girl, ya, def clothe, 1girl, long hair, skirt, animal ears, pantyhose, blunt bangs, bangs, gloves",
+    "a_prompt": "",
+    "n_prompt": "(worst quality, low quality:1.1), (bdpro:0.65), Low quality, Photo, Artifacts, Table, Paper, Pencils, Pages, Wall, watermark, signature, EasyNegative, censored, nipples, faceless",
+    "x0_strength": 0.95,
+    "control_type": "canny",
+    "canny_low": 50,
+    "canny_high": 100,
+    "control_strength": 0.7,
+    "seed": 0,
+    "warp_period": [
+        0,
+        0.1
+    ],
+    "ada_period": [
+        0.8,
+        1
+    ]
+}

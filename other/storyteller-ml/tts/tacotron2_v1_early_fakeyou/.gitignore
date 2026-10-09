@@ -1,0 +1,32 @@
+# Secrets (which shouldn't be in git anyway)
+*secret*sh
+.env-secrets
+secrets.toml
+secrets.yaml
+
+# Python Virtual Environments
+python/
+tacotron2/python/
+
+# Python build
+*.pyc
+**/*.pyc
+*.pyc
+*.pyo
+__pycache__/
+
+# Rust build
+target/
+
+# VIM
+*~
+
+# Everything else
+.env
+.git
+.idea/
+.ipynb_checkpoints/
+
+# Dev scripts
+dev_launch_docker_instance.sh
+

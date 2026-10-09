@@ -1,0 +1,39 @@
+{
+    "include": [
+      "text/"
+    ],
+    
+    "exclude": [
+      ".git/",
+      "**/*test_*.py",
+      "**/node_modules",
+      "**/__pycache__",
+      "NeMo/",
+      "hifi-gan/",
+      "hifigan/",
+      "nemo/",
+      "phonetics",
+      "python/",
+      "tacotron2/",
+      "temp/",
+      "waveglow/"
+    ],
+  
+    "ignore": [
+      "tacotron2/",
+      "**/*test_*.py"
+    ],
+  
+    "defineConstant": {
+    },
+  
+    "venvPath": "python/",
+  
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": true,
+  
+    "pythonVersion": "3.6",
+    "pythonPlatform": "Linux",
+
+    "typeCheckingMode": "strict"
+  }

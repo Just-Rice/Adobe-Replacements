@@ -1,0 +1,196 @@
+wavs/1.wav|Look at that, who are the boxers? Booker. Booker! Okay, just one more? Booker, that was amazing.|1151
+wavs/2.wav|Off about Lady Comstock. Try the shock jockey. We worked hard enough to get it. None of the prophet's magic is rubbing off on you.|1151
+wavs/3.wav|That was odd. Daisy can make a change, can't she? Things better for the people here. I'm worried about you. What did you do there?|1151
+wavs/4.wav|Train up a child in the way he should go. Even when he is old, he will not depart from it. Hey, Booker, I think there's a lock pick over there.|1151
+wavs/5.wav|If you put a person in a cage, they develop an interest in such things. We are gonna have visitors, Booker! Rosalind Lutece is not my mother, and neither are you.|1151
+wavs/6.wav|She's either a great hero or the worst of scoundrels, depending on who's doing the telling. Over here! Who are we really helping by getting guns for the Vox Populi?|1151
+wavs/7.wav|I remember making them. Booker, grab that lock pick. Booker, there's a lock pick over there. How many have you had? I'll keep an eye on you for next time. Booker!|1151
+wavs/8.wav|You could try forcing it open. Doesn't seem to work very well. Comstock is two decks up in the Prophet's Cabin. It's the Lutece lab. As I said, it's a form of wish fulfillment.|1151
+wavs/9.wav|Hey, Booker. Slate has the shock jockey, we need to find him. This Tear. I'm not so sure it was a good idea. Can always use more of them.|1151
+wavs/10.wav|Look at this, my tower. It's only fair they give me a cut of the profits, don't you think? Need more money? Who? You mean.|1151
+wavs/11.wav|Here's some cash. What for? I get to wear this stylish thimble to cover up my hideous deformity. I hear they're all the rage in Paris. The seed of the prophet.|1151
+wavs/12.wav|Shall set the throne. He was grooming me, wasn't he? Why? We should look for more foot prints. Keep a look out. I can open that. I can.|1151
+wavs/13.wav|Look at these, they're amazing! Which one do you like more, this one, or this? I can see them through the doors. You, me, Columbia Song Bird?|1151
+wavs/14.wav|But sometimes, something's different, yet the same. Do you hear that? It's music! Looks easy enough.|1151
+wavs/15.wav|Catch, Booker! It almost looks like a real ocean. It's just a set of elaborate pumps and rain catchers. Booker, there's a door over here. Look, a tear. Who sent you?|1151
+wavs/16.wav|Ready. You know how I said I had plenty of time to read? Well, I tried to figure it out. I read literature on physics and other such things. When you're unconscious on the beach, you.|1151
+wavs/17.wav|Kept repeating a woman's name, Anna. This could come in handy. You really should pick that up. Booker, come here. They hardly laid a finger on us.|1151
+wavs/18.wav|It's her. Found this lying around. Her trail must be somewhere. I am not going back to that tower no matter what happens.|1151
+wavs/19.wav|Song Bird is ready, Booker. This looks important, Booker. Forget. How do you wash away the things that you've done?|1151
+wavs/20.wav|Hey, don't point that at me. Good. Slate must've taken them. Look. Hurry, Booker, hurry! Booker, the poster. You chose to walk away.|1151
+wavs/21.wav|It's about Seven Thirty. There are a million, million worlds. All different and all similar. Constants and variables.|1151
+wavs/22.wav|On your right, I see a tear. Fink Industries. Seems like they're the ones responsible for this shock jockey product. They should be ashamed of themselves.|1151
+wavs/23.wav|We can pick up some supplies from that machine. If it had a mechanical lock, maybe. It's one of those shock jockey doors. You're wounded! Here!|1151
+wavs/24.wav|No. He was here. This way. Look over here. Why don't you ring the bell? If he were to take me back. That's death, Mister DeWitt.|1151
+wavs/25.wav|Or something so like it I cannot tell the difference. I'm out! Shock Jockey. Who needs the power company?|1151
+wavs/26.wav|Must be because of what's going on with that man's sleigh. The cage shut up tight. Now how are we gonna get to the air ship? Look at this! Mister DeWitt?|1151
+wavs/27.wav|I don't understand. Why would the twins send us to find three truths? Were the tears somehow related through a kind of quantum field, or were they?|1151
+wavs/28.wav|Time rots everything, Booker. Even hope. Here, let me. Look.|1151
+wavs/29.wav|The box of bolts dropped his weapon, you should use it. They're just taking back what's owed to them. It's justice. What the hell was that? Hey Booker?|1151
+wavs/30.wav|I see a tear. Huh. Go on without me! But in all of ours. Are you alright? That did not look easy.|1151
+wavs/31.wav|Beyond that gate lies Comstock House. Destroy the siphon? If they play the whole song, he'll come back. Put that away. These seem to be the controls that summon her.|1151
+wavs/32.wav|I've got salts! Sorry, Booker. He was all I had. Brought me books. And that will take us to Paris.|1151
+wavs/33.wav|Come on. Do you need ammo? Done. Take this for the bleeding! Okay, catch. Comstock? Huh.|1151
+wavs/34.wav|So the First Lady is his ship. You hold on to this. I don't know! Give it to me! Booker, salts! Booker, no.|1151
+wavs/35.wav|Wait, what is that? Forty North by Seventy Four West. That's not Paris, that's New York. That tear will get us access to higher ground. Over here, Booker.|1151
+wavs/36.wav|One thing I had in that tower was time, Mister Dewitt. Time to study things like geography. I'll try to keep you stocked with both bandages and ammo, but.|1151
+wavs/37.wav|The right materials aren't always at hand. Let me have a look. Booker, but the thing is, my books said they disappeared several years ago.|1151
+wavs/38.wav|Are you sure? Hey! Say what you want about Lady Comstock. A woman had an eye for fashion. It'll take some scrounging, but I'll do my best.|1151
+wavs/39.wav|Cash, Booker. My husband claims the child was created from whole cloth by divine will. I am a believer, but I am not a fool.|1151
+wavs/40.wav|His bastard shall not be raised under this roof. A guitar. Wish I knew how to play. Might just spell some of the gloom.|1151
+wavs/41.wav|She's going to kill that child! He's ready, Booker! Look, might be a good idea to lay in some supplies.|1151
+wavs/42.wav|There's a world of difference between what we see and what is. Strange. I see a tear, Booker. I think we're gonna have visitors. Everything.|1151
+wavs/43.wav|Above you, Booker! Look out! Handy Man! What does Mister Fink want with us? Looks like this runs exclusively on shock jockey.|1151
+wavs/44.wav|This is what he meant. Might not be a bad idea to lay in some supplies. Daisy said she was coming here for Fink.|1151
+wavs/45.wav|There, back in the land of the living. All yours. Don't spend it all in one place. That automaton's weapon is lying over there. Seems like we're fairly well healed, Booker.|1151
+wavs/46.wav|There. Do you think it's possible to redeem the kind of things that we've done?|1151
+wavs/47.wav|Mister DeWitt! I can open this if you want. What are you, Mister DeWitt? Some sort of. Hey, there's a lock over there. Hey, Booker!|1151
+wavs/48.wav|You hear that? Music. It's coming from that tear. Find something soon! The seed of the prophet lay in the womb of Our Lady but for a single week.|1151
+wavs/49.wav|It's a figure of Comstock now. I found some change. I don't know if I brought us to a world where the Vox had weapons, or I created one.|1151
+wavs/50.wav|Let's see. How did you do that? Are you interested in gardening, Mister DeWitt? Careful, that doesn't look too safe. Why you? Okay!|1151
+wavs/51.wav|I see more foot prints. I don't like his look. How are you, Mother? All locked up in there, huh? Looks like you and I have some common ground.|1151
+wavs/52.wav|No. What happened there? Sure. Careful! Why is it that we never catch a break? The founder of Buddhism spent forty nine days under a Bodhi tree.|1151
+wavs/53.wav|Until he achieved enlightenment. Hey, Mister DeWitt! That poster. There's another cipher on it. This is in our hands, isn't it? Are you sure, Booker?|1151
+wavs/54.wav|Did I just bring us to a world where Chen Lin was alive, or did I create it? I told you, I always thought that.|1151
+wavs/55.wav|My little trick was a form of wish fulfillment. I got my wish. Comstock. I've read about him. They say he can see the future.|1151
+wavs/56.wav|Booker, sniper rifle! I just can't decide. Lock picks. They have her preserved in an air tight chamber. Her finger prints will get us into Comstock House.|1151
+wavs/57.wav|You bet. This is going to be fantastic. Take this. This doesn't make any sense.|1151
+wavs/58.wav|Everything here is a cipher that I understand except for this symbol. It's all right. It's as much a mystery to me as anyone else.|1151
+wavs/59.wav|Maybe Song Bird knows, but he's not talking. Like what? A window. A window to another world. Most of the time they're dull as dish water.|1151
+wavs/60.wav|Different colored towel or tea instead of coffee. But sometimes, sometimes I see something amazing and I pull it through.|1151
+wavs/61.wav|And how has that worked out for you? Booker will find it. Just leave her be. Did you notice? Lin had a bloody nose.|1151
+wavs/62.wav|I think that's the way down. And why lock me up? The bird is beautiful, and the cage is somber, but there's really something special about it.|1151
+wavs/63.wav|Booker, the lines are clear! We're gonna have visitors, Booker. You must think me some sort of freak. A girl who can bring dead men back to life.|1151
+wavs/64.wav|Whose only acquaintance is a giant bird creature. That must seem ridiculous. Where did they take him? Look, a tear.|1151
+wavs/65.wav|Booker, your nose. She's almost feral. It's like she's a reflection of. I don't know. Catch!|1151
+wavs/66.wav|You're bleeding! Don't you think it's best if we keep moving? I found a tear. Look, Vox are tearing this place apart. Booker, you've already been.|1151
+wavs/67.wav|Looks simple enough. Booker, over here. Being dead. Comstock. So the First Lady is his ship. Interesting. You're injured. More of her foot prints.|1151
+wavs/68.wav|Do you know this artificial beach was built in only six months? But there is. There is something I. Booker. Excuse me?|1151
+wavs/69.wav|It's the only way we'll find the truth. But my finger. Comstock. Look, it's the hand of the prophet. Comstock's flagship!|1151
+wavs/70.wav|My finger. Huh. Aren't we the well to do types? You're a liar, Mister Dewitt and a thug, but you're also my only means of reaching Paris.|1151
+wavs/71.wav|There they are, the tools. Couldn't hurt to stock up. He's coming for you! Over here. The gun smith Chen Lin wanted for known connections to the out law Daisy Fitzroy.|1151
+wavs/72.wav|Daisy Fitzroy. I've read about her. Books say she's out to tear Columbia from the sky. Is that the last of them? It always has.|1151
+wavs/73.wav|When I was younger, I used to be excited when I heard it. Flawless Flintlock! It's the newest one in the series. I read it was delayed three times.|1151
+wavs/74.wav|Looks like we found where your old friend Slate is. Yes. Looks like everything's been impounded at the Good Time Club. Maybe that's where we'll find it.|1151
+wavs/75.wav|Booker, do you see those tears? We can use them against Slate's men. Thank you. And you were born again as a different man. Mister DeWitt, you didn't go through with it.|1151
+wavs/76.wav|Ammunition here if you need it. We don't need to. It'll happen all the same. Really? There's a lock. I wonder what's on the other side.|1151
+wavs/77.wav|Let's stay away from them. It was a fine thing you came along when you did. Soldier's Field, built in nineteen oh three by the hand of our prophet.|1151
+wavs/78.wav|Nose, it's bleeding. I do not like the looks of that thing. Booker, up there. One of those shock jockey doors.|1151
+wavs/79.wav|Maybe we should take a look. Booker, wake up. Booker, you don't leave this room until you do. Vending machine? I do not like the looks of this, Booker.|1151
+wavs/80.wav|Comstock is three decks up, in the Prophet's cabin. Really? Why? I do not like the way they're looking at us. Huh. Because it does.|1151
+wavs/81.wav|Because it has. Because it will. They're coming. And I won't be locked up again, but. Mister DeWitt. Here, where do you think this goes?|1151
+wavs/82.wav|Hey, mister! You're gonna get mustard all over your nice suit! This is what the code key's for. Over here. Sure thing. What's going on? Mister DeWitt, I.|1151
+wavs/83.wav|A tear! Booker, over here. Huh, trouble up ahead. You see it? Interesting. Booker, if we go into this tear.|1151
+wavs/84.wav|I don't think there's any turning back. Are you sure you want to go now? If I could find some genuine lock picks, I might be able to get this door open.|1151
+wavs/85.wav|I'm sure I saw some interesting things on the other side. No, it's me, Elizabeth. Are you alright? Booker. This is amazing.|1151
+wavs/86.wav|How have I never tried this? I can't believe how much I've missed. All right. Booker, look at that.|1151
+wavs/87.wav|You've done this before, haven't you? Look at that. Tear, right there. Behind you. But I could help. We can't seem to catch a break, Mister Dewitt.|1151
+wavs/88.wav|Strange. Look at that. What did Slate mean? What did you try to erase? They, well at least she, invented the technology that allows the city to float.|1151
+wavs/89.wav|I can call Song Bird and Booker. Don't laugh. We better steer clear of them. Oh, no, I'm not Annabelle. Mister DeWitt. Catch, Mister DeWitt.|1151
+wavs/90.wav|Seems easy enough. I can see a tear. Looks simple enough. Misses Lin, can you tell me who took your husband's tools? Here you go.|1151
+wavs/91.wav|Booker, there must be a button under the register. I know that place. That's Albert Fink's house. I love his music. I wonder if he's in there.|1151
+wavs/92.wav|It'll take some scrounging, but I'll do my best. Looks like Fink isn't giving you the job. Should we use this? It's over, right? Please tell me it's over. Is that the code book?|1151
+wavs/93.wav|Ready and waiting! Hi there, I'm just so angry. I think she's her, but she's also partly me. I'm not even sure I understand it myself.|1151
+wavs/94.wav|Booker, foot prints. It's done. No. No, it isn't. I think you should see this. Here. Booker, their noses. They're all bleeding.|1151
+wavs/95.wav|They all lead us to the same place, where it started. No problem. We can't seem to catch a break. Booker, look at this.|1151
+wavs/96.wav|I'm sorry about what I said at the docks. Calling you a thug? A code book? I wonder where the cipher is. There. Hmm. Hello.|1151
+wavs/97.wav|Booker, are you afraid of God? What is this? I can do that. If you want to ask me, ask me. You know I?|1151
+wavs/98.wav|I keep thinking about that dream that you had. New York on fire. There's something about it. The sky line is clear, Booker. Booker, look what I found!|1151
+wavs/99.wav|Tolls at midnight. Booker, I can get through these bars, but you're too broad. Let me scout ahead, see if there's some way to move forward.|1151
+wavs/100.wav|Chen Lin. Gun smith. Oh my god! And Madame Lutece. He used me to power that device! He opened up some kind of tear!|1151
+wavs/101.wav|Worry. Just keep telling yourself this is only a game. We can solve it. Super dork's more like it.|1152
+wavs/102.wav|This isn't an eating contest, Joey, this is dangerous. Silly? I think you look just great!|1152
+wavs/103.wav|Yugi, did you check me out? I look way too good to be sittin' at home. Where's Joey, anyway? Come on, don't be such a wimp.|1152
+wavs/105.wav|Could still be friends outside it. If he hadn't loaned me his star chips, I might never have made it to the final round. I owe him a very great debt.|1152
+wavs/107.wav|Even without my tricks, I can still duel with the best of 'em! And now I'll lay down a second card which will finish my turn.|1152
+wavs/108.wav|Gotcha. Thanks Yugi, I wanted you to attack. Your Gaia ran smack into my mirror wall which cuts any of your monsters attack power in half.|1152
+wavs/109.wav|As soon as your monster attacked, the mirror wall rose up to protect my Harpy Lady! Your fierce knight met an equal attack from its own reflection!|1152
+wavs/110.wav|Guess it's my turn again. High fashioned for Harpy Lady. Cyber Shield.|1152
+wavs/111.wav|Not much else you can do, is there, Yugi, since I've left you no way to attack? My turn now.|1152
+wavs/112.wav|Rose Whip to raise my monsters attack! Now you're Imps gonna feel my Harpy's sting!|1152
+wavs/113.wav|That's nothing, Yugi. Stick around, the fun's just beginning. Promised you'd try harder, Yugi, but I see now that's not going to happen!|1152
+wavs/114.wav|What have we here? Well, with this card, my Harpy combo won't be quite complete.|1152
+wavs/117.wav|You don't even have your favorite card the Dark Magician left. What are you gonna do now? if this is how you treat your friends, I can't wait to see how you treat your enemies.|1152
+wavs/118.wav|I'm being kind, not stupid. What's up? If you guys have enough star chips to get into the castle, why are you hanging out here?|1152
+wavs/119.wav|Now go on, Yugi. You know I owe you, so take them. Earth to Yugi. Star chips at twelve o'clock.|1152
+wavs/120.wav|What, are my star chips not good enough for you? Come on, chicken boy, duel me for them now. Fine! Then I'll keep them!|1152
+wavs/121.wav|And your friends can wipe your nose all the way back to the nursery! Grow up! Oh, I understand your friend lost one lousy duel and now he's too chicken to play again! Isn't that right?|1152
+wavs/122.wav|Come on, be serious! An amateur like you wouldn't stand a chance against me! Are you sure you wanna duel me?|1152
+wavs/123.wav|Hun, it's sweet you standing up for Yugi and all, but sweet doesn't win duels. Now I'll ask you one last time.|1152
+wavs/124.wav|I play Harpy Lady! And I'll lay this too. Your fairy turned to dust!|1152
+wavs/125.wav|You know, Tea, if you're trembling with fear after just the first round, maybe you should quit right here?|1152
+wavs/126.wav|Another of these cutesy cards? Come on, what Are we having a duel or a pageant?|1152
+wavs/127.wav|Sorry hun, but I activated my magic card. The Rose Whip, a personal favorite. It gives my harpy three hundred extra attack!|1152
+wavs/128.wav|You call it quits right now. This isn't gonna get any easier, you know? Just give up and go back to cheerleading!|1152
+wavs/129.wav|Please, if this is the start of some friendship rant, just save it. I've heard all your lame speeches before, and from that look on Yugi's face.|1152
+wavs/130.wav|I'd say he has too. You're just a little girl who's accidentally stumbled into the big leagues, but whatever, you'll learn the hard way.|1152
+wavs/131.wav|Harpy's Feather Duster. My turn, hub, and I'm playing this face down!|1152
+wavs/132.wav|In fact, it was so stirring I almost feel the need to throw up! Fine with me!|1152
+wavs/133.wav|It's not like I don't have magic cards too! Cyber Shield! It was nothing that Tea wouldn't have been able to beat anyway, really.|1152
+wavs/134.wav|But wait, I'll also play this de spell. No more hope, no more faith, no more chances!|1152
+wavs/135.wav|Don't you know the rules yet, Tea? Since I've flipped your Magician of Faith over with my attack, you get a card back from the graveyard.|1152
+wavs/136.wav|I mean, how can you seriously hope to beat me when you don't know the rules? Look honey, I'm sure that everyone's really impressed that you've lasted this long.|1152
+wavs/137.wav|But all you're doing is delaying the inevitable! Come on, what you're doing is pointless. Yugi's already given up on himself.|1152
+wavs/138.wav|You're not gonna be able to keep fighting for him. He has to fight for himself! He has to stand up to anyone who dares to get in his way!|1152
+wavs/139.wav|And whatever's going on in his head, Tea, Yugi has to deal with it on his own. I surrender, Tea. I don't have the cards to win.|1152
+wavs/140.wav|Face it, Tea, Yugi's checked out! He's given up! He doesn't care about this match and he doesn't care about you! Nothing's worth the humiliation you're going through.|1152
+wavs/141.wav|You may have a tendency to run at the mouth, but you've got a lot of spunk. Give me your best shot! Whatever. I didn't need these anyway.|1152
+wavs/142.wav|Don't rub it in, Tea, Harpy Lady was the best monster I had and seeing as how you beat her, there's really no point in me going on.|1152
+wavs/143.wav|Some cards just aren't worth playing, huh, Yugi? It's all because of that obnoxious punk Joey! I can't believe such an amateur beat me!|1152
+wavs/144.wav|I don't get it. Trashing hotshot duelists is usually as fun as a fall clearance sale. Why can't I enjoy it anymore?|1152
+wavs/145.wav|I've got to get even with that grinning gutter punk! Bon voyage, loser! Funny, I thought I already knocked you on your Jurassic butt.|1152
+wavs/146.wav|You think I'm gonna waste another minute with a pea brain like you? Beat it, dino breath! From one of these like you who think that by dueling a chick, they'll score some easy stars.|1152
+wavs/147.wav|I've only lost once, but once I find that punk kid Joey, it's pay back. I'd love to see you try and. Okay, Rex, I'll duel you.|1152
+wavs/148.wav|If you do something for me first. How are you, Joseph? Glad to see me? So Joey, is Yugi still fighting all your battles for you?|1152
+wavs/149.wav|Everyone knows if Yugi wasn't there to hold your hand, you wouldn't have beat me. Isn't that right, Yugi? I'm waiting for your answer, Joey.|1152
+wavs/150.wav|Oh really? Then I propose he steps out of your shadow here and now! if Joey thinks he's so tough, let's see him play for himself!|1152
+wavs/151.wav|Think you have the guts to step up and face the duelist I've arranged for you?|1152
+wavs/152.wav|If Little Yugi does any of his back seat dueling, then Joey is disqualified and the match automatically goes to.|1152
+wavs/153.wav|What do you say, Joey? This is your big chance to prove yourself. Or are you going to back out? So what's it gonna be?|1152
+wavs/154.wav|You going to run off with your friend or start acting like a real duelist? Raptor, watch that Time Wizard!|1152
+wavs/155.wav|Rex, you big dino dummy! You're either a champ or a trump. Cut this guy loose, he's fashion challenged and deserves to be crushed in the games.|1152
+wavs/156.wav|I'll crush you all eventually. The name's Mai. Call your superior! Get him on the phone right now!|1152
+wavs/157.wav|This is truly truly outrageous. You expect a lady like me to stay in this dump without even a shower?|1152
+wavs/158.wav|Who do you think you are? Really? Could I see it? It's beautiful! You must be quite a strong card player.|1152
+wavs/159.wav|Really? I love duel monsters. How about we play a game? Okay, then cut the cards.|1152
+wavs/160.wav|Please? Let me try. Tell you what, If you win, I'll give you a kiss.|1152
+wavs/161.wav|If I win, you agree to clear out of the room for the rest of the trip. Okay? The first card is Shadow of Eyes.|1152
+wavs/162.wav|The second card is Harpy's Lady, then Elegant Egotist, followed by Cyber Shield.|1152
+wavs/163.wav|This is my own card technique. I always know what cards I have and can pick any one I like at any time. So, go ahead and deal 'em, Rex.|1152
+wavs/164.wav|Pretty big turnout for this thing. Oh, this is so exciting! I wonder whose butt I should kick first in this tournament?|1152
+wavs/165.wav|If it isn't Rex Raptor and Weevil. I thought I smelled something. Some duelists just never change.|1152
+wavs/166.wav|Hmph. So you finally came, Yugi. Very funny, Yugi, but you should know by now that I don't need to use tricky tactics to win.|1152
+wavs/167.wav|I've been studying this new game just so that I can defeat you. Let's duel, Yugi! No mercy, Yugi.|1152
+wavs/168.wav|There's no holding back. You'll see that I've got much better. Are you thinking of taking it easy on me?|1152
+wavs/169.wav|I'll show you techniques that you haven't even imagined! Is this the best you can do?|1152
+wavs/170.wav|Ha ha ha ha! Prepare to lose! There's nothing I hate more than weak losers, Yugi.|1152
+wavs/171.wav|Aren't you going to attack me? You're no fun. Failure's calling. Will you accept the charges? Don't think I'll give up that easily.|1152
+wavs/172.wav|Huh, this is nothing. I'm not backing down from any challenge. Did you really think I was going to submit?|1152
+wavs/173.wav|I never give up no matter how bad it looks. Yugi, my dream is to defeat you.|1152
+wavs/174.wav|I'll see how good you are at this new game. Ha ha. Let's hope this is an honorable duel. Just what do you think you're doing?|1152
+wavs/175.wav|Take it easy, will ya? Oh! I can't believe this is happening! Nice attack! A critical hit!|1152
+wavs/176.wav|Oh, spunky, That's beginner's luck, that's all. La de da! There's no problem if you don't destroy my monster.|1152
+wavs/177.wav|Now you're getting serious. That's no way to treat a lady. You're starting to annoy me. Take it easy, will ya?|1152
+wavs/178.wav|Ha ha. Don't think I'll forget this. Ha ha! This duel's practically over! You don't crack easily, do you?|1152
+wavs/179.wav|Too bad, Yugi, but it looks like I am going to win this duel. Can you survive this? Ha ha! I hope you love surprises!|1152
+wavs/180.wav|Defeat or be defeated. Those are the only two options. Why let up when I'm having so much fun? Ah ha ha ha ha!|1152
+wavs/181.wav|I'm one with my monsters! Ha ha ha, feast on this! You shouldn't have taken me so lightly!|1152
+wavs/182.wav|Perish! Fall before my power! I'll win with this technique! Slice him to pieces, my Harpy!|1152
+wavs/183.wav|Ha ha ha. I hope you don't get whiplash! My Harpy Lady's sisters, unleash your fiery blast!|1152
+wavs/184.wav|Ha ha ha ha. You will be punished! My dear pet, get rid of him for me!|1152
+wavs/185.wav|Against my servants overwhelming strength. What can you possibly do? I'll show you what fusion can do!|1152
+wavs/186.wav|I'll defeat you with the combined power of my monsters! My monster becomes more beautiful after it evolves!|1152
+wavs/187.wav|Now, taste the power of my evolved monster! You should never underestimate an evolved monster!|1152
+wavs/188.wav|My my your monsters are weaker than I expected. Like taking candy from a baby. Ha ha ha. You're such a fool!|1152
+wavs/189.wav|You've lost half your monsters! Isn't it time to call it quits? Ha ha. You can't stop me!|1152
+wavs/190.wav|That's what you get for thinking you've won! Ah, how disappointing. I thought you were much better than this.|1152
+wavs/191.wav|What a pathetic way to lose, Yugi! Ha ha ha. What a wonderful duel it was! This duel is mine!|1152
+wavs/192.wav|Didn't think you'd let me attack your symbol so easily! Did you get a lobotomy and lose all your skills, Little Yugi?|1152
+wavs/193.wav|Yes, chalk one up for Mai! Oh, tough! But things will only get tougher for you.|1152
+wavs/194.wav|I'm just testing you out. Huh. I'll still get you, Yugi. That's what you think. I'll regain the advantage soon enough.|1152
+wavs/195.wav|Ha ha. Ah! Yugi's in the lead! All my lovely creatures are destroyed!|1152
+wavs/196.wav|No way! They're all gone! Yes, it was even though I lost, I don't regret anything.|1152
+wavs/197.wav|Am I going to lose? My symbol? Oh no, I completely forgot about it!|1152
+wavs/198.wav|Can't be! You are aiming directly for it! Oh my. I didn't know this could happen. I guess tonight is ladies night.|1152
+wavs/199.wav|Wait, what's going on? I didn't hear anything about this! Ouch! What is that? This is horrible! What Is this?|1152
+wavs/200.wav|Wait a second! Give me time to think! So I take damage there. I'd better be careful. Damage? Is it because of that location?|1152

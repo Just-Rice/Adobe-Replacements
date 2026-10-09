@@ -1,0 +1,5 @@
+*.onnx
+*.wav
+*.pt
+*.pth
+env/

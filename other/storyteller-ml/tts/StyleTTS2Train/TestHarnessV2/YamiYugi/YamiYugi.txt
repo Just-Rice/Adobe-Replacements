@@ -1,0 +1,578 @@
+wavs/1.wav|I can see that you'll make an excellent duelist. No, I lost! I guess you wanted to win much more than I did.
+wavs/2.wav|That was to come from behind victory! Unfortunately for you, in the end, I emerged victorious. I destroyed your symbol! You lose!
+wavs/3.wav|I activate my spell, Mystic Box! I activate Multiply! One Kuribo becomes many!
+wavs/4.wav|Ishizu! How lucky, I didn't think I would ever see you again. Actually, with you, there's never such a thing as luck.
+wavs/5.wav|This number must be the amount of A P that increases on my turn. When thinking about how to move my pieces, but we're traveling on our own road right now.
+wavs/6.wav|Kaiba! I may have won this time, but our skill levels are exactly the same. No, I just know how tough you really are.
+wavs/7.wav|I will turn the tide! I have to win! My pride and honor are on the line! You made a mistake. The difference between you and me.
+wavs/8.wav|This is far from over! I cannot afford to lose! My cards will not fail me! I can still turn this duel around! I win!
+wavs/9.wav|Thank you. Kaiba, You will never win if you give in to hatred. I lost. I may have lost, but I have no regrets.
+wavs/10.wav|Feel the fury of Gaia the Dragon Champion's! Bear witness to its blazing blast! Molten fireballs!
+wavs/11.wav|I am! Victory is a fickle creature. She may smile upon you again some day. Right! Good bye, Pegasus!
+wavs/12.wav|The great Dark Magician has a disciple who can more than hold her own! Say hello to Dark Magician Girl!
+wavs/13.wav|Kuribo explodes at the slightest touch! Your attacks will never reach me! I summon a monster in attack position!
+wavs/14.wav|I lose. I've lost everything? Why did I let my guard down? My counter attack failed! I totally lost!
+wavs/15.wav|No! He's powerful! You may be right, but I'm not giving up! It's not going to end like this!
+wavs/16.wav|The spell card, Black Luster Ritual! The spell card, Thousand Knives!
+wavs/17.wav|Obelisk's affect activates! Fist of Fury! I X Zee summon Ebon Illusion Magician! I I X Zee summon Legendary Magician of Dark!
+wavs/18.wav|Activate Field Spell! I activate Mirror Force! Chain! I activate Multiply!
+wavs/19.wav|Thank you! Grandpa! What are you doing? That's my grandpa! Monster points? But I haven't battled even once yet!
+wavs/20.wav|This has created an opening! In a duel, no one should ever hold back. I will not hold back! Here I go!
+wavs/21.wav|That best suit your dueling style. When you betray the trust of your monsters!You will never be able to beat me! No matter how bad the duel looks.
+wavs/22.wav|I don't think you're taking our duel seriously, Mako! I'll prove that I'm not afraid of creatures that lurk beneath the surface.
+wavs/23.wav|I lost. I'm so sorry. Okay! I'll select my monsters to play with. What's wrong, Yugi? You mean, the points I paid?
+wavs/24.wav|Marik, in this battle, I will defeat the evil that is feasting on your soul! It's okay. He only destroyed one monster.
+wavs/25.wav|And we'll do it together! That's our first victory. Of course. It seems that if I defeat every one in this area, then I can go to the next area.
+wavs/26.wav|And I knew the only way to win was using this strategy! Created the opening I was waiting for!
+wavs/27.wav|And I will not stop until I win! With this attack, I will destroy your last monster! Marik, you lose!
+wavs/28.wav|The new path is hidden in this Colosseum! It seems this duel is unavoidable. Shadi!
+wavs/29.wav|I attack with a monster! My monster attacks your life points directly! Go, Dark Magician! Dark Magic Attack!
+wavs/30.wav|All your monsters are destroyed! You lost any chance of winning! There's always a chance of winning as long as you never give up!
+wavs/31.wav|You're running out of monsters! I will use all my skills until the last moment of the duel! Your defences are weakening!
+wavs/32.wav|I'll win with this! I'll defeat you quickly! I'll bet you won't forget my monster's technique! You're a skilled opponent!
+wavs/33.wav|Chaos Blade! Feel the magic of my ultimate spell caster! Dark Magic Attack!
+wavs/34.wav|My quick play spell activates, Berseker Soul! I activate the trap card, Relay Soul!
+wavs/35.wav|Your forces are down to half their strength, Joey! Joey, this was an excellent battle. Joey, I'll end this with one final attack!
+wavs/36.wav|Here I go! This is my monster's special ability! I will defeat you with all my might! There is no one who can defeat me and my monsters!
+wavs/37.wav|Its ability increased. If the terrain is favorable, then the ability increases. But if it's unfavorable, then the ability decreases, right?
+wavs/38.wav|Lightning Strike! Dark Magician Girl, Dark Burning Attack! Forged from the mystical energies of chaos, comes!
+wavs/39.wav|This is not just a simple fusion! You don't believe me? Then witness it for yourself! Now is the time for evolution!
+wavs/40.wav|I Don't think so! I'll be victorious again! It's time to duel, Pegasus! I lost when it counted the most!
+wavs/41.wav|Don't get over confident! This duel will not end quickly! I think you should celebrate only after you win this duel!
+wavs/42.wav|I finally broken all the magical seals! I call forth the unstoppable Exodia!
+wavs/43.wav|For it was a fantastic duel. Congratulations, you win. You have defeated me, my friend.
+wavs/44.wav|I will use all my strength to defeat you. It's my turn! I will duel with honor, and I hope you will do the same.
+wavs/45.wav|I lost! It was a close match, Rex Raptor, but I'm the winner. Good bye, Rex Raptor. Mai, just to let you know.
+wavs/46.wav|Or I summon so that I can move more pieces. That's something I need to think about. What's wrong, Joey? That means, a new path? What's that?
+wavs/47.wav|All right, Mako, I'm looking forward to it! So my opponent here is you, Rex Raptor! Go ahead and try. It's time to duel!
+wavs/48.wav|It seems there's still much I need to learn. So only having monsters of a single attribute is dangerous! I understand. Can you show me the monsters?
+wavs/49.wav|Kaiba! You've lost! Kaiba, one mistake is the difference between victory and defeat! Good bye, Kaiba!
+wavs/50.wav|Keep talking, Weevil! Those words will eventually come back to haunt you! A duel is never over until the very end!
+wavs/51.wav|Kaiba, I will defeat you! Duel, okay. Here I go. My turn! Now isn't the time to let up!
+wavs/52.wav|Okay, I'll select my monsters to play with. I see, each piece has a set requirement of A P.
+wavs/53.wav|Not bad. You're better than I thought. I still have many strategies I can utilize! I knew I would not escape from this duel unscathed.
+wavs/54.wav|If the terrain is unfavorable, then its ability decreases. All the skills I sensed in you before the duel, I felt their power during the fight.
+wavs/55.wav|And if I move it, then the A P on the screen decreases, correct? So I have to be careful about the amount of A P.
+wavs/56.wav|Your momentary lapse in concentration! You must guard your symbol more carefully! Next time, be more careful where you tread.
+wavs/57.wav|I doubt that's the end of it, but our main priority is to keep going. Exactly! Let's do it, Yugi!
+wavs/58.wav|It was the best I could do. I couldn't stop the attack! Well, that doesn't affect me much at all.
+wavs/59.wav|I did my best and I know you did also, Mai. This was an honorable duel. I'll destroy your symbol! The only way to win, is this!
+wavs/60.wav|I can't fight anymore! Was this the best I could do? Wait, where are you going? It's you, Kaiba!
+wavs/61.wav|Swords of Revealing Light! Now you can't attack for three whole turns. I see what you're trying to do. Unfortunately, it's not going to work.
+wavs/62.wav|There's still plenty left. My entire team is gone! Oh no! Yes! I've destroyed your monster!
+wavs/63.wav|All right, Ishizu. But I will defeat you next time, I promise. I refuse to believe that. I will never give up challenging destiny!
+wavs/64.wav|All the skills I sensed in you before the duel, I felt their power during the fight. Odion, I too share the same sentiment.
+wavs/65.wav|This battle is still far from over! I won't survive another attack like that! The duel's only just begun! I have to protect my symbol!
+wavs/66.wav|But I can end this now! All right, it's time to deal the finishing blow!
+wavs/67.wav|Then that's what I'll do, Weevil! I'll take you on any time, any place. That's fine with me! It's time to duel!
+wavs/68.wav|Maximilian Pegasus, this will not be an easy duel. Fine, Pegasus, let's duel! Pegasus, I didn't think I'd be facing you again.
+wavs/69.wav|Show your hidden strength! I'm going to evolve this! If you underestimate this monster. All the requirements have been met! Evolve!
+wavs/70.wav|Grandpa. Duke Devlin. Mako! Weevil. Rex Raptor. Bandit Keith. Mai! Bakura.
+wavs/71.wav|I just defeated you, Joey, so I have to defeat four more opponents. Is my attribute as much as possible. That may be. But no matter who stands in my way.
+wavs/72.wav|Sweating already? The game's only just begun. You are a dualist of remarkable skill, but I never back down from a challenge!
+wavs/73.wav|Thank you! Grandpa! I won't be able to let my guard down for a second. All right, it's time to duel!
+wavs/74.wav|Don't think I'll get discouraged so easily! I'm not planning to lose either. It's the end of the line. I never imagined my symbol would be destroyed!
+wavs/75.wav|Now the true battle begins! This opens a gateway to victory! I will rely on my own strength to open the road to the future.
+wavs/76.wav|Is that so, Bakura? Oh really? Then let me put your abilities to the test! It's all over. This duel is over, Bakura!
+wavs/77.wav|Thank you, Tristan! Okay, let's duel! No, I've been defeated! I've taken great damage!
+wavs/78.wav|Dark Energy Burst! I attack with Amulet Dragon. Magic Distortion! I attack with Legendary Knight Timaeus!
+wavs/79.wav|In order to get monsters. I see. That means, if the monster point limit of the stage is one hundred.
+wavs/80.wav|I'll resurrect the monster's soul from the graveyard! Monster Reborn! I will not allow you to hurt my monsters.
+wavs/81.wav|I ritual summon a monster! I syncro summon a monster! My ever faithful companion, Dark Magician!
+wavs/82.wav|Kaiba! You're running out of monsters. I will destroy them all! You're down to half your monsters! It's over, Kaiba!
+wavs/83.wav|I win. Marik! I'm the winner. You're the one who's going back into the shadows, Marik!
+wavs/84.wav|You're right! Okay! Yes, you are correct. Yes, that means either I move a summoned monster.
+wavs/85.wav|Go, Dark Magician Girl! Dark Burning Attack! Slifer Attack! Thunder Force Attack!
+wavs/86.wav|You finally revealed your weakness! If you think you can withstand this attack, go ahead and try! I will show you my true strength!
+wavs/87.wav|The duel was evenly matched. You were close to winning. In the end, you weren't able to stop my monsters.
+wavs/88.wav|Mai, you taught me a lot to day and for that I thank you. I wouldn't have been victorious had it not been for the help of my cards and my friends.
+wavs/89.wav|That was an excellent duel. I'm lucky I was able to draw the right cards at the right time.
+wavs/90.wav|Too bad, Kaiba! That's number one! What are you going to do now, Kaiba?
+wavs/91.wav|It's dangerous to attack head on! I'll stop you right here, right now! This hurts my chances greatly. If the tide of battle turns against me.
+wavs/92.wav|Tristan, you need to guard your symbol more closely! Yes, you played expertly! You won fair and square.
+wavs/93.wav|I have to keep my fighting spirit alive! That was a complete mistake on my part. But I'm not running out of momentum!
+wavs/94.wav|Let's battle! Let's do this! Here we go. It's over! You're finished. I attack with a monster. My monster attacks!
+wavs/95.wav|I see. Then, its ability decreased! If the terrain is unfavorable, then its ability decreases.
+wavs/96.wav|Okay! Thanks, Yugi! How should I attack? I see. Each piece has a set requirement of A P.
+wavs/97.wav|You should have used monsters. This is the end! I won't lie to you. You will never be able to defeat me! I will not lose!
+wavs/98.wav|Our future is waiting for us. Now is not the time to succumb! Legend of Heart, reveal my Dragon's true form!
+wavs/99.wav|Activate a ritual spell! My trap activates! My continuous trap activates! My counter trap activates!
+wavs/100.wav|It's time to start! Let's do it! Not bad! It's not over yet! This will finish you! Joey! Tea! Tristan!
+wavs/101.wav|It seems you've let your concentration lapse. I'm not giving up! You're down to half, but now is not the time to celebrate.
+wavs/102.wav|This was an excellent match! I win this duel! I fought with all my strength and I know you did the same. It's over. Excellent duel!
+wavs/103.wav|Advance to the next stage of evolution! Show us your new powers! I've eliminated your first monster.
+wavs/104.wav|I wasn't able to stop his attacks! Is this as far as I can go? With this attack, I destroy one of your monsters!
+wavs/105.wav|There's no need to diminish your achievement in any way, but it was an excellent duel, so I have no regrets. Let's duel again some time, Tea.
+wavs/106.wav|Of course! I won't let you down! I know! That's why I'm going to use all my skills to defeat you.
+wavs/107.wav|With the magic of her Millennium Necklace, she will prove most formidable. It's time to duel, Ishizu! You knew we would meet again.
+wavs/108.wav|I have to hand it to you, Pegasus. You read all my strategies correctly. This was an incredible duel. I didn't know how to react to many of your attacks.
+wavs/109.wav|Mokuba! Pegasus! Odion! Marik! Bakura! Kaiba! Ishizu! Marik! Shadi!
+wavs/110.wav|Yes, you did, Joey. No. Joey, you defeated me because you were the better duelist. But Joey, you fought valiantly.
+wavs/111.wav|I set a card. I set this card face down. I set this monster face down. I end my turn.
+wavs/112.wav|Wing Guardian incinerate with your fiery flame! Fireball Attack! Spiral Shaver!
+wavs/113.wav|I activate Magic Cylinder! Not bad. That was a good attack. There must be something I can do! But what?
+wavs/114.wav|No matter how this duel twists and turns.
+wavs/115.wav|You've revealed your weakness! My attacks won out in the end! You read me incorrectly. If you do not look at the big picture.
+wavs/116.wav|It seems I'm one step ahead of you! I'll carry the momentum to finish you off! I'll keep attacking. To destroy all your monsters!
+wavs/117.wav|I special summon a monster. I tribute a monster! I tribute summon a monster. I fusion summon a monster!
+wavs/118.wav|It was a great duel. You still need a lot of work to hone your dueling skills. You should start over and reconstruct your deck.
+wavs/119.wav|I activate my spell, Swords of Revealing Light! My trap card activates, Dark Renewal! I activate The Eye of Timaeus!
+wavs/120.wav|During its activation turn, it protects spell casters on the field from your effects. Black Magic Ritual!
+wavs/121.wav|If that's all the damage you can deal! I wasn't concentrating and I paid for that. That was a lot of damage, but it survived.
+wavs/122.wav|I summon an Egyptian God! I call forth Slifer The Sky Dragon! Player's effect activates Lightning Blast!
+wavs/123.wav|But it's not an honorable duel if I don't treat you with respect. Right! You win, Bakura. You were an excellent duelist, Bakura.
+wavs/124.wav|It's not whether you win or lose, it's how you play the game. And for that, this was a great duel. That was an excellent duel!
+wavs/125.wav|Fine, I accept your challenge. It's much too early to underestimate me. I don't plan on giving up yet!
+wavs/126.wav|It seems you couldn't keep up with my dueling style! I analyzed the entire situation. The reason I won was because I never give up.
+wavs/127.wav|But when we played before, didn't I defeat you? Okay, I believe you. There's no need to yell. I accept, Mokuba!
+wavs/128.wav|So you're my next opponent! Ishizu! And I assume you'll tell me that no one can escape their destiny.
+wavs/129.wav|If I don't do something soon, there's no way I can win! I've assembled all the pieces for victory! I'm impressed that you can hold your own against me.
+wavs/130.wav|Wow, you won! Barely, but you pulled it out in the end because you never gave up. I'm proud of you! Your skills have greatly improved!
+wavs/131.wav|Now is the time. Here I go. All right, I'm counting on you. I summon a monster in defence position!
+wavs/132.wav|I believed in myself and my monsters, and that was what showed me the light. Maybe, but I never believed the future was set in stone.
+wavs/133.wav|I was waiting for this moment! I fuse my two monsters! I fuse my three monsters! I fuse my five monsters!
+wavs/134.wav|And that was what led me to victory. Take care. Good bye, Ishizu. Marik! What do you want? The title as Capsule Monster's Champion?
+wavs/135.wav|I knew mine was good, but I never expected this! Thank You! If you're the former American champion? How dare you call yourself a champion!
+wavs/136.wav|Odion. I feel overwhelming strength from him. We'll see about that! Here I come, Odion.
+wavs/137.wav|Stone Splitter Sword! Celtic Guardian, slash with your Stunning Sword!
+wavs/138.wav|Chaos Scepter Blast! This attack will erode your squadron! Its sword will erode your army!
+wavs/139.wav|I call upon Magician of Black Chaos! I discard one card to special summon, The Tricky! I X Zee summon a monster!
+wavs/140.wav|Kaiba! I lost. Fine, Kaiba, fine. Kaiba. Our skills were even, but my strategies were a little better.
+wavs/141.wav|My symbol! It's all over! What? Oh no! I was winning, but I lost. My symbol's destroyed!
+wavs/142.wav|I activate my spell, Magical Dimension!
+wavs/143.wav|I lost! Oh no! No! You lost your monster. You can't stop me now, Mai! I win this duel!
+wavs/144.wav|It's time to duel! Marik. I will never allow you to win. Pegasus, I promise to win this duel.
+wavs/145.wav|Come on, Joey! Joey! Then let's get started, Joey. You're doing better than I thought, Joey!
+wavs/146.wav|Buster Blader! My magnet warriors unite to form the mighty Valkyrion The Magna Warrior!
+wavs/147.wav|That turns the battle in my favor. Luck is not on my side! I took damage! Oh no! This is bad.
+wavs/148.wav|Created from the chaotic union of light and dark energies, I summon Magician of Black Chaos! I summon The Dragon Slayer!
+wavs/149.wav|This duel was over before it began! When you decided to fight without honor! Good bye and good riddance, Bandit Keith.
+wavs/150.wav|And if I move it, then the A P on the screen decreases, correct? If the terrain is favorable, then the ability increases.
+wavs/151.wav|I understand. I won't lose next time! But you held your own extremely well! I know, but I promised to defeat my opponents and win the tournament.
+wavs/152.wav|I wonder how strong your deck is? Actually, it doesn't matter because I'll use all my skills to defeat you no matter how many powerful cards you have on your deck.
+wavs/153.wav|Your own attack will be your downfall. I activate Mirror Force!
+wavs/154.wav|Holactie the Creator of Light! Darkness Bygone! Meet Dark Magician Girl. The Dragon Knight! Arise, Amulet Dragon!
+wavs/155.wav|Ishizu, there is no future for some one who cannot think on their own. Every person can do anything he wants, as long as he truly believes.
+wavs/156.wav|If this keeps up, this duel is not in my favor! What can I do? I can't take much more of that! This has been a difficult duel!
+wavs/157.wav|No, I didn't let you win. I tried my best. Well, you were quite the expert yourself.
+wavs/158.wav|That's not good. I take damage at that location. I take damage there! I can't let that happen again! I take damage at that spot?
+wavs/159.wav|This duel of destiny was in my favor, Marik. As long as you are controlled by the shadows, you will never be able to defeat me!
+wavs/160.wav|No matter how many monsters you have remaining, they're worthless if your symbol is destroyed! I turn the tables! My monster! Oh no!
+wavs/161.wav|My furry friend may appear weak, but you should never judge a book by its cover. I summon Kuribo! I call forth Obelisk The Tormentor!
+wavs/162.wav|Grandpa! True, but I do not back down from a duel. We can win if we work together, Yugi. Please forgive me. I can't duel anymore.
+wavs/163.wav|It's time to reveal my true power! This will prove my bond with my monsters! I'll use this power to defeat you!
+wavs/164.wav|Victory's in my reach! Now is not the time to let up! I'm ahead. I'll finish this duel quickly.
+wavs/165.wav|Obelisk's affect activates! Fist of Fury! Immortal Phoenix! Ra's effect activates!
+wavs/166.wav|So you won't have a chance at a comeback! So I can't let you off the hook for even a second! Comes from a long line of powerful spell casters!
+wavs/167.wav|I call forth my Summoned Skull! I summon Curse of Dragon! Flip!
+wavs/168.wav|Yes, I won a few battles and accumulated monster points. Okay. So which monsters should I get? I see, of course.
+wavs/169.wav|Then this duel will become even more difficult.
+wavs/170.wav|Let's finish this! I can't let this duel continue much longer! It's all over! Exodia, obliterate!
+wavs/171.wav|This is going to be my toughest duel yet! I don't think you can put perfume on your pieces to help you like you did at Duelist Kingdom.
+wavs/172.wav|This battle will determine my destiny. Let's duel, my friend! Let's duel, Joey! Your evil comes to an end, Bakura.
+wavs/173.wav|Oh no! With this card, I can't fail. Yes! This was the card I was waiting for! Luckily, I have this card.
+wavs/174.wav|Maybe. I can't believe I've lost! Yes, unfortunately, you're right! Yes, it was an excellent duel. What is it, Tea?
+wavs/175.wav|I activate Spell Binding Circle! Now I activate my trap card, Trap Hole! I activate Mirror Force!
+wavs/176.wav|That was your first, but it will definitely not be your last. Yes, I've destroyed the first monster! This is only the beginning!
+wavs/177.wav|I tribute summon! No! Fusion! What? Can't be! You're going to activate a spell card? You're going to special summon?
+wavs/178.wav|I took a lot of damage from that one attack! That blow was heavy! If this continues, I'll be finished! I can't lose! I refuse to lose!
+wavs/179.wav|Thanks, Joey. That's exactly what I'll do. I don't know what the new path is. No matter who we face on this road, we must win.
+wavs/180.wav|Yes! Now you only have half your monsters left! All your monsters are destroyed! You're finished, Shadi.
+wavs/181.wav|Black Luster Soldier! Magician of Black Chaos's spells of destruction, Double Dragon Lance!
+wavs/182.wav|Your symbol and your last monster. That's all you have left. After I destroy one more monster, it's all over! You weren't concentrating.
+wavs/183.wav|I lose, Mokuba. I've defeated you many times. I doubt it was just luck. Seto Kaiba. Mokuba's older brother.
+wavs/184.wav|You've lost your mind. I will stop you! No matter what it costs. Marik, I assume you want to duel me again.
+wavs/185.wav|This duel isn't over until the very end! My defenses are falling! Oh no! My monster! I'm sorry.
+wavs/186.wav|Grandpa? Yes, but I know we can win if we work together. You're still as great a dualist as ever, Grandpa!
+wavs/187.wav|Curse of Dragon! Burn everything to ashes! Dragon Flame! Go, Summon Skull!
+wavs/188.wav|Thank you, Ishizu. Ishizu, I win! I am not guided by destiny. I only did what I believed was right.
+wavs/189.wav|You have shown that you are a true duelist. What's wrong? Done already? Lost your nerve?
+wavs/190.wav|I'm far from surrendering! That hasn't hurt my will to fight at all! It seems you won't give up without a fight. No matter what the situation.
+wavs/191.wav|I activate my trap, Magic Cylinder! I activate my spell, Monster Reborn!
+wavs/192.wav|It's time for me to use a spell card. I activate Polymerization! Fiend's Sanctuary!
+wavs/193.wav|The tide is turning in my favor! Can I do it? It doesn't matter. I must win. I finally tore down his army.
+wavs/194.wav|I can't let any more attacks succeed! I'm being overwhelmed! Don't give up! There's always something I can do! This is the end of the line.
+wavs/195.wav|You may think your strength is infinite, but that's still not enough. Joey, I can use your help! Goddess Bow! Time to battle.
+wavs/196.wav|I will never give up! I know a chance will present itself! Things are not looking good. There's always an opportunity as long as I believe in my monsters.
+wavs/197.wav|My summon dice! I believe in you! It's my turn! What is both visible and invisible?
+wavs/198.wav|My monsters, go! I think I've warmed up enough. It's time to get serious. No matter who my opponent is.
+wavs/199.wav|You still haven't figured out my strategy, have you? You will pay for your misdeeds.
+wavs/200.wav|Your monster's attack triggered my effect! Flip Summon! The effect activates at the same time! I fuse two of my monsters together.
+wavs/201.wav|Can't let my symbol be attacked anymore! I'm not defeated yet! I still have a chance! My monster's not beaten yet!
+wavs/202.wav|Fusion! I summon Gaia, the Dragon Champion! I offer a monster on my field as a tribute. I offer two of my monsters as a tribute.
+wavs/203.wav|This is it. The real fight is about to begin! Now is the time to unleash my counter attack! I must tread carefully if I'm to win.
+wavs/204.wav|You've had your fun. I'll put a stop to it immediately! So you're trying to pressure me? It's much too early to underestimate me.
+wavs/205.wav|I use my face down card! I reveal my face down card! My monster's effect activates!
+wavs/206.wav|The forces of light and darkness intertwine. I open the gates of chaos! Bring forth Black Luster Soldier!
+wavs/207.wav|This is what I need to achieve victory. I will fuse my monsters! Now show yourself! I will fight with this.
+wavs/208.wav|You've fallen far, Bandit Keith. So far that you're nothing more than a failure. How could I lose to him?
+wavs/209.wav|I will win! Is that so? It's time to duel, Shadi! This is only the beginning! I have to put an end to Shadi's attacks!
+wavs/210.wav|True, but I feel this is the beginning of something. Shadi. Goodbye. Yami Bakura. Yami Marik.
+wavs/211.wav|I switch it to attack position! I switch it to defense position! Now, I'll set a card. I end my turn.
+wavs/212.wav|It's time for my counter attack! You may be my friend, Joey, but in a duel I will fight you to the very end.
+wavs/213.wav|I will use all my strength to defeat you. I can't let my guard down for even a moment! But I will be the one to come out victorious.
+wavs/214.wav|When you couldn't stop my final strategy, that's when you lost. You chose the wrong pieces to play with. You cannot beat me.
+wavs/215.wav|To avoid Gaia the Fierce Knight's charging spear! You will pay an unbelievable price! And conjures the most potent spells!
+wavs/216.wav|Is it a new monster? Of course, if I can't master every monster. You're not going to give it to me for free?
+wavs/217.wav|Exactly what I was waiting for! From my hand. I activate a quick play spell. I activate a continuous spell.
+wavs/218.wav|I will not let you have the title of King of Capsule Monsters! It's time to duel, Kaiba! Where are you, Kaiba! It's time to duel, Kaiba!
+wavs/219.wav|That means you're not the champion any more, right? You've always dueled without pride or honor, cheating every chance you get!
+wavs/220.wav|She herself has become a formidable spell caster! I summon Dark Magician Girl! I activate my spell card!
+wavs/221.wav|What? No way! Here I go! This is my key to victory! I challenge you to a duel. This will be fun!
+wavs/222.wav|I don't need the ability to tell the future to know that this duel will be even more difficult than the one before. Everything I require is gathered on my field.
+wavs/223.wav|I call forth the Winged Dragon of Ra! In the name of the Pharaoh, the three Egyptian Gods become one.
+wavs/224.wav|But if the terrain is favorable then the ability increases. What's going on? A tower! I think so. That may be.
+wavs/225.wav|My monsters have fought with me side by side since the very beginning, and you cannot break our bond of trust!
+wavs/226.wav|Your defenses are crumbling! This is an excellent duel! The battle is turning in my favor! Just because your down to half doesn't mean I can relax!
+wavs/227.wav|I'll use all my skills until the very end of the duel! I won't let you stage a comeback! Every move is another step in achieving my future!
+wavs/228.wav|Raigeki! Change of Heart! Card Destruction! I'll use this card to bring a monster back on to the field!
+wavs/229.wav|Marik Ishtar. I sense an unbelievable force within his soul. I see. If this is a duel that's been destined since the ancient past.
+wavs/230.wav|Right. We'll meet again, Kaiba. You have my word. Here I go! I'll tear down your defenses!
+wavs/231.wav|You lose, Shadi! I never had a chance! There is no need for me to make excuses. I lost. That is all that needs to be said.
+wavs/232.wav|But no matter who stands in my way, I mean our way. We will not be defeated! Right, Yugi? Let's go!
+wavs/233.wav|I'm counting on you! I summon Dark Magician! Also, learning Arcane Magic from her mentor, Dark Magician.
+wavs/234.wav|Kuribo's self destruct one after another! But that's bad news for you! I have everything I need to win.
+wavs/235.wav|If I face him in this tournament, he will pose a formidable challenge. And duel to the best of my abilities, Bakura.
+wavs/236.wav|This battle is only getting started, Joey! Where did my strategy go wrong? Oh no! I destroyed your first monster, Joey!
+wavs/237.wav|My turn! Here I go! My turn. It's my turn. I will not lose. My turn!
+wavs/238.wav|This is bad! It's not over yet! Whoever gives up will lose. I will find a way to turn the tables. It will not end like this!
+wavs/239.wav|The space is dangerous. Remember, you can't win if your heart is filled only with hate and revenge. I did it! Yugioh!
+wavs/240.wav|It's a draw! Well then, why waste time? Let's duel again!
+wavs/241.wav|Then there is no way I can avoid this duel, even if I wanted to. Then I don't deserve to be a champion. Then my monster will not fall!
+wavs/242.wav|Sword of Justice! Magician of Black Chaos will take you down! Chaos Scepter Blast!
+wavs/243.wav|That is my proof as a true duelist. This will lead me to victory! I'll begin my counter attack! Yes! This is only the beginning.
+wavs/244.wav|I refuse to lose! My turn! I draw! I draw a card! I still believe in my cards. I draw!
+wavs/245.wav|Every deck has a chance to win. As long as you believe in the heart of the cards. Let's duel! I hope you've come prepared, because it's time to duel!
+wavs/246.wav|Meet the instrument of your destruction, the Seal of Orichalcos! I activate my spell, Magical Dimension!
+wavs/247.wav|Now I have to turn the battle in my favor. And that'll prove costly when I begin my counter attack! Is that I believe in my monsters while you do not.
+wavs/248.wav|Obelisk, attack! Fist of Fate! Ra, attack! Blaze Cannon! Summoned Skull, attack! Lightning Strike!
+wavs/249.wav|You may be disappointed, but realize that all decks have a chance to win. As long as you never give up, your opportunity for victory will arrive.
+wavs/250.wav|Then I can use ten monsters that are ten monster points each. Or I can only use five monsters if they are twenty monster points each.
+wavs/251.wav|Heart of the cards, guide me! I draw! Now's my chance! Now! I expected you to do that.
+wavs/252.wav|I activate, Magical Hats! I activate, Chain Destruction! Big mistake! I'm sending your attack right back at you!
+wavs/253.wav|I accept your challenge, Duke Devlin. It's time to duel! You won, Duke, fair and square. You're not too bad yourself. Thanks.
+wavs/254.wav|Never! I will not stop until the title is in my hands! Right! It's time to duel, Marik.
+wavs/01.wav|Give me back the God cards! Save the world. Don't you see that what you're doing is going to destroy the world?
+wavs/02.wav|You know what that means! Dark Magician attack his life points directly! Noah, I've cleared out your monsters and taken a bite out of your life points.
+wavs/03.wav|And starts mine. First I summon Mystical Elf in defense mode! Now let's see what you can do! Excellent move, Joey!
+wavs/04.wav|Although my monsters are destroyed after the attack! So watch as my three monsters joined together!
+wavs/05.wav|Choose a card! Monster Reborn to bring back Queen's Knight! And then I shall summon my King's Knight!
+wavs/06.wav|And since you move your Jeck master to the field! But how were you able to escape the destructive power of Cyber Jar?
+wavs/07.wav|These corporate tycoons can't be trusted! And I summon Gazelle The King of Mythical Beasts! Yes, they've switched control.
+wavs/08.wav|I didn't choose you, but now we must win this together. I'm glad that's over with, at least for now. It's time to find our friends.
+wavs/09.wav|And they possess a power far more dangerous than you could ever understand. I'd suggest you hand them over before someone gets hurt.
+wavs/010.wav|It's how skillfully you use them that counts. We'll see about that. Don't worry, Kuribo, I believe in you. You and I can defeat him.
+wavs/011.wav|You fought with honor under the toughest of circumstances, and you never gave up. Listen, Gansley, you and your partners won't succeed in trapping my friends here.
+wavs/012.wav|Since Slifer destroyed your four new monsters, my Necromancy Magic Card weakens your one remaining monster!
+wavs/013.wav|I summon a face down monster in defense mode! And with that I and my turn. They have you trapped in their unbreakable grasp!
+wavs/014.wav|This duel's not over, Lector, and it's our move. We'll show you what real team work can do Yes, but I can summon a monster that's just as powerful.
+wavs/015.wav|Looks can be deceiving, Joey. That maneuver costs you more life points. Her special ability allows him to raise her attack points higher than any other monster on the field!
+wavs/016.wav|But my Dark Magician is more powerful than your Lord of Dragon! And end my turn. Your move, Kaiba! This can mean only one thing!
+wavs/017.wav|So I'll take Big Shield Gardna! And then thanks to my sacrifice, I'll summon this! Dark Magician in attack mode!
+wavs/018.wav|That card belongs to me and I'm quite familiar with its strength and its weaknesses! Now I have one more card to activate!
+wavs/019.wav|Nice try, Rafael! my move. Now it's time to take on a new form! The last thing I'd be doing is laughing!
+wavs/020.wav|And that you in turn deserted. One more thing! And now Hermos and Queen's Knights!
+wavs/021.wav|All right, Noah! First, I place one card face down on the field. In order to summon Dark Magician Girl!
+wavs/022.wav|When the Eatos was destroyed, you unleashed your anger on your other monsters. You let the Orichalcos feed on your rage. Like I did.
+wavs/023.wav|So your life points are wide open! To stand back, Noah! Prepare to release me and my friends from your twisted game.
+wavs/024.wav|And since monsters have been played on your side of the field, my Slifer's special effect has been triggered!
+wavs/025.wav|You're risking your fate on one move! This magic card was given to me by a friend to help me take you down!
+wavs/026.wav|When King's and Queen's Knight are in play, their special ability allows me to summon this! Jack's Knight!
+wavs/027.wav|Last I checked it was still your move, Kaiba! I summoned Gazelle The King of Mythical Beasts in defense mode! Behold the truth!
+wavs/028.wav|Some things are more powerful than the first appear. No, this duel has affected you too. Let me finish this.
+wavs/029.wav|Now I have both King's and Queen's Knights, which means I can now summon Jack's knight to the field! I see you're paying attention, Kaiba!
+wavs/030.wav|Why try to end it so soon? Your soul exchange card is no longer in effect! Which means you're not able to sacrifice my monsters!
+wavs/031.wav|Or are you so insane that you can't tell the difference? Explain yourself! Your defensive monster won't stand a chance against Chimera!
+wavs/032.wav|The special ability of our Mirage Knight is about to seal our victory! You see, it is able to absorb all of the attack points of the opposing monster!
+wavs/033.wav|Obnoxious Celtic Guardian's special effects protects it from all monsters with nineteen hundred attack points or more, and yours has over three thousand!
+wavs/034.wav|You activated my trap, Rope of Life! It brings back the monster that you just destroyed! After I discard my hand.
+wavs/035.wav|This magic card can only be used on Dark Magician Girl! It protects her from an attack by transforming her into a pigeon for one turn.
+wavs/036.wav|So Obelisk loses twenty four hundred attack points! The tables have turned once again and your monsters strike pails in comparison to mine!
+wavs/037.wav|And unless Joey stops it, the seal will consume him. Great move! Now you can strengthen your Wind Guard and take down Kaiba's Knight!
+wavs/038.wav|Not about business skills and making deals. So save your corporate speeches for the board room and stop wasting my time.
+wavs/039.wav|Slifer's attack points now rise to five thousand! More than enough to take down your Obelisk! And wipe out half your life points, Kaiba!
+wavs/040.wav|It allows me to summon a four star monster from my deck! As long as I'm willing to give up one thousand of my life points!
+wavs/041.wav|I guess they never taught you that on your way up the corporate ladder. So Kuribo and I will just have to teach you this lesson the hard way.
+wavs/042.wav|Fine, I'll place one carried face down! Very well! Stand back! I summon Big Shield Gardna in defense mode!
+wavs/043.wav|You're a weak boy. Well, not strong enough. Just look. That's right. It's a card known as Nutrient Zee!
+wavs/044.wav|Now it's my turn to give the advice. Misjudging the power of the small can be a big mistake in business and in duel monsters.
+wavs/045.wav|Great Dueling! Now attack! For Tristan! Are you sure? Yes. And together we'll save Tristan.
+wavs/046.wav|Thank you! Destroying one of my defensive monsters is exactly what I was hoping you would do, Kaiba.
+wavs/047.wav|I choose this monster, Dark Magician! Be careful, Joey. As long as that card is in play, he's at a dangerous advantage.
+wavs/048.wav|Let's just hope we're not too late. That's true. Joey has certainly come an extremely long way to get where he is today.
+wavs/049.wav|Oh no! Slifer's ability didn't work! I've placed my chosen card face down. My turn is now over!
+wavs/050.wav|That's eight. Which means my Amulet Dragon gets an extra twenty four hundred attack points!
+wavs/051.wav|All right, let the duel continue! The Egyptian God card I won from Kaiba!
+wavs/052.wav|Look, Noah, you overpowered Kaiba using deceit and betrayal! If you think that makes you a superior dualist, you're sadly mistaken!
+wavs/053.wav|And since I have a Dark Magician card in my graveyard, she gains an additional three hundred attack points now! I can't. I have to end my turn now.
+wavs/054.wav|I have access to every monster in my card graveyard now, but your graveyard is off limits thanks to your dread sight!
+wavs/055.wav|Now when I send one monster from each of the first five levels to the graveyard, Slasher destroys every card on my opponent's side of the field!
+wavs/056.wav|Yugi, destroying the Winged Dragon of Ra should have destroyed Marik's dark side as well.
+wavs/057.wav|Her top card. It's either Phoenix or Sparrow Formation. Just as I was given The Eye of Timaeus, Joey was chosen to wield the Claw of Hermos.
+wavs/058.wav|With only one life point to protect you! I'm afraid you don't have much of a choice in the matter now! Impossible!
+wavs/059.wav|When my opponent's monster attacks, Dark Magic Retribution allows me to bring one spell caster back from my cared graveyard!
+wavs/060.wav|Is that clear? I joined this to help save mankind and nothing will stand in my way. That includes you, Kaiba!
+wavs/061.wav|So I need fifteen hundred more points to beat him. And that's exactly what I have left. Thanks to this card.
+wavs/062.wav|Pot of Greed lets me draw two cards from my deck! Then I sacrifice this new beast! Say hello to my new monster!
+wavs/063.wav|Now I can combine my Magnet Warriors together! Since your graveyard is empty, you have no monsters to bring back!
+wavs/064.wav|I know you didn't mean to trigger that virus, Leon, but with your help I think we can stop it. Then let's duel.
+wavs/065.wav|Both of us must draw from our decks until we have six cards in our hands! Now I activate the seal of Orichalcos!
+wavs/066.wav|Pay attention! Now I summon Kuribo! I summon Big Shield Gardna in defense mode. Now, go ahead and make your move, Noah.
+wavs/067.wav|This isn't who you really are. The darkness within you has taken control and now you must face that darkness head on!
+wavs/068.wav|Knowing how greedy you are, Kaiba, I suspected you might try to take my Sky Dragon, so I was ready.
+wavs/069.wav|And it has quite a unique special ability! When this monster is sent to the graveyard, it leaves a small electrode attached to one of my monsters!
+wavs/070.wav|Necromancy! Special effect brings back four random monsters from your graveyard! Then they're summoned to your side of the field in defense mode!
+wavs/071.wav|Trust, conviction and heart. I don't think Joey is trying to win. I believe he has discovered the secret.
+wavs/072.wav|True, but my monster has a special ability! By discarding one card to my graveyard. What ancient stone are you talking about?
+wavs/073.wav|If you think you can win this duel by playing your little head games, than you're sorely mistaken, Weevil! I'm too smart for that.
+wavs/074.wav|Leon, we can't give up! Every card has a weakness, and as long as we continue to due to the very end we'll find a way to tear that castle down!
+wavs/075.wav|And now Slifer the Sky Dragon is in my hand waiting to be summoned to the field so we can destroy you because you allowed me to play this!
+wavs/076.wav|To the power of my trap card, every monster on the field an attack mode automatically switches to defense mode!
+wavs/077.wav|Thanks to my Change of Heart magic card's effect, you no longer have three monsters to sacrifice. Kaiba!
+wavs/078.wav|Now there is only one part left! I must sacrifice two of my monsters. Yes, Obelisk has served me well, but I must give him up!
+wavs/079.wav|Fine, just hand me your card so we can continue. What is it you find so amusing?
+wavs/080.wav|Now I have three monsters on my side of the field, Marik, and you have only one! I'm afraid you're about to regret that move.
+wavs/081.wav|How right you are! I've drawn the Eye of Timaeus! No, he's abandoned me!
+wavs/082.wav|For bringing out this card, which is a gift from a very close friend of mine, Kaiba! Not so fast, Kaiba! Activate trap!
+wavs/083.wav|Now I activate this, Magical Dimension! I need a spell caster to activate it. My Dark Magician Girl will do.
+wavs/084.wav|Now, my fierce knight, attack! Follow the path of the rainbow arch and attack his life points directly!
+wavs/085.wav|First, I'll use the magic of Underworld Circle to bring my Big Shield Gardna back to the field! Then I'll activate my Pot of Greed!
+wavs/086.wav|Slifer, destroy his Obelisk! Now end this! Slifer's not going anywhere!
+wavs/087.wav|Your acting was key that. Made it convincing. And I know what I need to do. I'm sorry, Tristan, but I must attack directly.
+wavs/088.wav|Yes, the future of so many depends upon our victory. We can't let them down. Then why don't you choose a car to dispose of so we can move on!
+wavs/089.wav|By discarding two cards from my deck, I can rescue another monster from my graveyard! And the card I choose is Eye of Timaeus!
+wavs/090.wav|I'm becoming evil, Yugi. I'm beginning to believe that what Rafael said about me is true. Perhaps, I was a wicked Pharaoh.
+wavs/091.wav|Hello and good bye! But why? I thought you despised having monsters in your graveyard? Don't do it!
+wavs/092.wav|Six years may have passed, but I'm afraid you haven't matured at all.
+wavs/093.wav|Hold on! Only certain duelists can use the Gods. Please stop! This lets me draw three cards as long as I discard two.
+wavs/094.wav|And since Eatos has been removed from your graveyard, your Dread Scythe  gets weaker! We'll see about that! I have a few more surprises planned.
+wavs/095.wav|Since my Jack's Knight is a five star monster, I can sacrifice him to call forth the Five Kuribo Brothers!
+wavs/096.wav|Next, I'll switch my Dark Magician into defense mode! All right, one of these three remaining hats is concealing my monster. So go ahead!
+wavs/097.wav|I'm well aware that the odds are in your favor, but that's no reason to give up. Rafael, you may have the magic of the Orichalcos.
+wavs/098.wav|Next, I'll reveal my trap card! Kaiba, now we must redraw the cards we just threw out, giving me a grand total of six cards in my hand!
+wavs/099.wav|This lets me drop two cards! Time to face what you did when you betrayed your heart!
+wavs/0100.wav|But just don't say I didn't warn you. I'll start things off my Beta the Magnet Warrior! Come forth in defense mode!
+wavs/0101.wav|Now we both draw from our decks until we're holding six cards! Now then, I summon Watapon to the field! Next, I'll sacrifice Watapon!
+wavs/0102.wav|But Rafael was able to conquer that darkness. Very well. But now the duel must go on. Well done, Leon, I'm impressed.
+wavs/0103.wav|Dark Magician Girl the Dragon Knight! Thanks to my all powerful Dragon, I'm in control of this duel now!
+wavs/0104.wav|Perhaps you should have thought twice before you poisoned your own monsters with the dark powers of the Orichalcos! Taken from someone with experience.
+wavs/0105.wav|Now, I play Polymerization! You haven't put me out of business yet, Gansley.
+wavs/0106.wav|Once Raw is gone, he'll still have one life point left! Who's there? Show yourself! You've triggered my trap!
+wavs/0107.wav|I'm afraid so. Thanks to Dark Flare Knight's second effect, whenever that card's destroyed, Mirage Knight is then summoned to take its place!
+wavs/0108.wav|First I'll place one cart faced down and then I'll active this card! Emergency Provisions!
+wavs/0109.wav|All right, the only way to get through to you is to duel you with all of my strength. Here goes!
+wavs/0110.wav|Disappointed with your draw? I guess that means my Gazelle isn't going anywhere, is it now?
+wavs/0111.wav|Both the power to access any monster we choose from our graveyard and summon it back to the field! And you know what that means!
+wavs/0112.wav|Monster Reborn! It can revive any monster you sent to the graveyard. Oh yes it can. Remember, Noah, this duel began as you against Kaiba!
+wavs/0113.wav|I'm afraid your monsters are not my targets! I'm aiming directly for your life points! Well, you seem to have missed this one.
+wavs/0114.wav|With everything Joey's learned from this Battle City tournament, I'd say he has a good chance at finally defeating Kaiba.
+wavs/0115.wav|Now Timaeus and Dark Magician Girl merge together. Now, Dark Magician Girl the Dragon Knight, destroy his Dread Scythe!
+wavs/0116.wav|I just activated my Dark Magic Curtain! This card allows me to summon my ultimate monster, Dark Magician!
+wavs/0117.wav|It'll be all right, Joey, we'll rescue Mai. Pot of Greed! You should wake up! Kaiba, you have one of these two.
+wavs/0118.wav|Jack's Knight from my deck to join them! Now I activate my Royal Straight!
+wavs/0119.wav|I'll place one card face down and end my turn. Don't you understand what's going on here? As long as you're loyal to Dartz, you'll never be true to yourself!
+wavs/0120.wav|Yes, but I've decided to give my Magna Warrior a second chance! So say goodbye to your God card.
+wavs/0121.wav|You seem to have overlooked Slifer the Sky Dragon's special ability! Perhaps, but I've still prevented you from attacking me this turn, Kaiba!
+wavs/0122.wav|I believe you owe me a card, so give Slifer back to me. I appreciate your help. Slifer's in my hand thanks to you.
+wavs/0123.wav|It's true! Look! I used Monster Reborn to bring back a bunker from my graveyard! Fate has led us to battle again!
+wavs/0124.wav|Now attack his Forest Hunter with Majestic Sword Swipe! Next I'll place one card face down and that ends my turn.
+wavs/0125.wav|The Orichalcos is clouding your mind! Don't you understand what you've just done? All right. My move! First I activate Card of Sanctity!
+wavs/0126.wav|I'm wide open. You can attack me with your cannon, right, Kaiba? Unless you're afraid to attack?
+wavs/0127.wav|The safety of all my friends depends on my victory. So let's get on with this duel. It's my move now! Swords of Revealing Light!
+wavs/0128.wav|You have too much respect for your cards to use them for such an evil purpose. But Dartz has brain washed you into believing you're someone else!
+wavs/0129.wav|If I do, then I can't set you free and two worlds will crumble! Just think of how many innocent lives have been destroyed. You may be next!
+wavs/0130.wav|I still plan to win! You haven't won this yet, Noah! I activate Card Destruction!
+wavs/0131.wav|Wait, he's right! It's been three turns since he played Altar of Mist! Now he can summon almost any monster he wants!
+wavs/0132.wav|Slifer automatically strikes every monster you summon! Just try it!
+wavs/0133.wav|You'll do nothing of the sort, Weevil. This duel's not over! so I call forth Breaker the Magical Warrior!
+wavs/0134.wav|Mirage Knight is a creature of light and you know what that means, Lecter. It's exactly the kind of monster I need to destroy your dragon!
+wavs/0135.wav|Then again, attack points aren't everything. Time to take you down! Your life points are wide open!
+wavs/0136.wav|Kaiba! You may want to keep a close eye on your tool disk! My card has an unfortunate side effect too.
+wavs/0137.wav|And once you're out of my way, I can go straight for darts. It's just a shame that a dualist with your talents has to throw it all away by following a mad man.
+wavs/0138.wav|I choose my dark magician girl. She only remains on the field for the duration of the battle, but that's long enough for me to defend the remainder of my life points.
+wavs/0139.wav|Little Red Riding Hood with Celtic Blade slash. I'll get to the bottom of this. I'll begin by playing my queen's knight in attack mode.
+wavs/0140.wav|Whoever told you that story is lying to you. The only evil is around your neck. That Stone is nothing but bad news.
+wavs/0141.wav|We make a great team Joey. My move! And now Dark Magician knight attack their berserk dragon!
+wavs/0142.wav|I play brave Attack. Yes, Brave Attack lets me add the attack points of all three of my monsters together.
+wavs/0143.wav|Mirage knight only stays in play for one attack joey, then it splits into the two original monsters that were used to summon it. All right Lecter.
+wavs/0144.wav|But I'll spare your good side from the shadow realm. All right. Now It's my move, Marik.
+wavs/0145.wav|When this monster was destroyed, it created an electromagnetic barrier shielding my magician from your attack.
+wavs/0146.wav|That means you can't use it to attack me for the rest of the duel. Now, thanks to the second effect of my cyber jar, we must each draw five cards.
+wavs/0147.wav|But your hextrude will lose six hundred attack points for every one of these monsters that's destroyed. Now I reveal my next face down car.
+wavs/0148.wav|If any of these monsters are destroyed, my necromancy will weaken your remaining beasts by six hundred points Kaiba.
+wavs/0149.wav|The Power of Underworld Circle lets me bring back my dark magician! Not as long as my magic card's in play.
+wavs/0150.wav|Happy Lady Phoenix formation and Harpy Sparrow Formation.
+wavs/0151.wav|It's the only way for you to save yourself. If you don't believe my words, then maybe this will convince you.
+wavs/0152.wav|And my magic card allows me to bring back my dark magician girl! Next, I'll activate my alter of restoration!
+wavs/0153.wav|Noah, You wouldn't be so surprised if you had been given the chance to experience true friendship.
+wavs/0154.wav|Your Egyptian god slime is made up of two monsters, so I'll be making a double sacrifice. Yes, to wipe you out!
+wavs/0155.wav|Now I summon my king's knight in attack mode. And since king's knight and queen's knight are both on the field.
+wavs/0156.wav|It's not always about being number one, and that's something Joey Wheeler did every day of his life.
+wavs/0157.wav|It's my move! I play my queen's night in attack mode. I'll play two cards face down.
+wavs/0158.wav|And since my Mirage knight had seven thousand, eight hundred attack points, your life points are gone. His life points didn't drop to zero.
+wavs/0159.wav|Yugi, We have no choice. We must trust him.
+wavs/0160.wav|You think you can control us like pawns! But I'm about to end your game. Now I play!
+wavs/0161.wav|If you recall, you used your flute of summoning dragon to summon your blue eyes to the field, so I owe you a thank you.
+wavs/0162.wav|Just try me! All right. let's begin this Duel. Kuriboh? Hold on. I didn't choose him. Great.
+wavs/0163.wav|Can't you see that your so called Master Darts is just using you to satisfy his own selfish needs?
+wavs/0164.wav|Marik! You wouldn't understand. What's happening to your body? And you think it's wise to weaken yourself like this?
+wavs/0165.wav|Under world Circle magic card should have destroyed every single monster on the field. It also forces us to remove every monster card from our decks for the rest of the game.
+wavs/0166.wav|In a unified effort to destroy your beast! I'll end my turn. It's my move and I activate the magic card at Five Star Twilight!
+wavs/0167.wav|I think you know what happens now. My Slifer gains three thousand points for a total of six thousand! Explain!
+wavs/0168.wav|Enabling them to bring down obelisk as a team. Your Obelisk has a strength of forty five hundred.
+wavs/0169.wav|This magic card allows me to summon an extremely powerful monster from either my deck. So behold. Royal Straight Slasher!
+wavs/0170.wav|I'm using my spider web to bring back your Monster Reborn card and I'm planning on using it to save you.
+wavs/0171.wav|I know first hand what the orichalcos does to a person's heart and I can help you. Think.
+wavs/0172.wav|Don't! It's too risky! Calm down Crump. This duel is still on. now. It's about time someone put you in your place.
+wavs/0173.wav|My new dragon gets three hundred points for each magic card in my graveyard. The time has come.
+wavs/0174.wav|I'll fight till my last point is gone! And that's a promise Raphael. You've been brain washed, blinded by your own darkness.
+wavs/0175.wav|Activate face down card. Maybe you should check your deck master rule book. First, I shall summon Swift Gaia the fierce knight in attack mode!
+wavs/0176.wav|Now do you understand what you've done? You turned your back on your monsters. At one time. They meant the world to you.
+wavs/0177.wav|Anything's possible Marik! I never said that I was targeting your dragon.
+wavs/0178.wav|I'll never give up hope! I trust my deck. Never! You heard me. I'll never give up.
+wavs/0179.wav|And I have you to thank for giving me the ability to protect my Egyptian God card from yours.
+wavs/0180.wav|Very well. I summon obnoxious Celtic Guardian. Then I'll place one card face down. Now my Guardian.
+wavs/0181.wav|Then I'll place one card face down on the field. Obelisk is powerful, but not unbeatable, and I intend to prove it.
+wavs/0182.wav|I'm using my Underworld Circle card to bring back my Queen's knight. I've activated my reduction barrier.
+wavs/0183.wav|Oh No! I can't use this! Not the seal of Oricalcos! Dark Magician Girl The Dragon Knight.
+wavs/0184.wav|No wait, what are you planning to do? And I'll use it to use two of my monsters together!
+wavs/0185.wav|He must find a way to break the seal of Oricalcos. The magic within that card has infused Mai with a powerful force.
+wavs/0186.wav|Kaiba! Acknowledge the truth. This is fate. I'm dueling for So much more than a mere tournament victory.
+wavs/0187.wav|And this duel's done. I choose my very own dark magician girl! Go on, What are you doing here? Yugi!
+wavs/0188.wav|I happen to have a magic card that will turn things around! Now I activate my necromancy card!
+wavs/0189.wav|And next, I'll activate my Royal Straight Slasher's Special ability. Not if I activate this card. Time Travel!
+wavs/0190.wav|Make your move and then I'll sacrifice my big shield gardna! We'll see about that!
+wavs/0191.wav|Very well. it's my move, observe my face down card! Thanks to the effect of this magic card, I can now draw two more cards from my deck.
+wavs/0192.wav|My Egyptian god card is still more powerful than yours. Now feel free to attack me Kaiba. Hold on Kaiba.
+wavs/0193.wav|I'll play Kuriboh in Defense mode. Next I'll activate card Destruction. Now it's time for all of us to redraw a brand new hand.
+wavs/0194.wav|Now your ex head cannon belongs to me for one turn, you won't summon obelisk that easily. Now go!
+wavs/0195.wav|And now that you have a monster in your graveyard, my dark magician hasn't had his chance to make you suffer.
+wavs/0196.wav|Very well. I'll start with this, the magic card pot of Greed. This allows me to draw two more cards from my deck.
+wavs/0197.wav|By combining our two deck masters together, this is the monster that will bring about your destruction!
+wavs/0198.wav|Your planning to call forth two more blue eyes White dragons aren't you? But you may have forgotten that your flute works on my hand as well.
+wavs/0199.wav|After that, the only creatures we're allowed to use are the ones in our graveyard thanks to the effect of my magic card.
+wavs/0200.wav|That card only saves weak monsters. That was an excellent move Joey. You managed to save us both. Joey, did you see that?
+wavs/0201.wav|And Joey and I have faith in our deck masters. Dark flare knight, Prepare to attack. Now your target is their five headed dragon.
+wavs/0202.wav|The secret to ending this duel without either of them losing.
+wavs/0203.wav|Were you expecting me to go somewhere? Don't you know that discarding Kuriboh from my hand protects my life points. Kuriboh.
+wavs/0204.wav|By setting you free from the darkness! I use Monster Reborn to revive a creature that once saved your life.
+wavs/0205.wav|Don't you? I believe the only way to defeat this great leviathan is to use these three cards together.
+wavs/0206.wav|I now have the ability to sacrifice one of your monsters in addition to mine. Attack! Dark Magician! Wipe out his life points!
+wavs/0207.wav|Now it's time for me to destroy your Egyptian God card impostor Marik! Obelisk the Tormentor!
+wavs/0208.wav|By sacrificing one thousand of my life points, Diffusion Wave motion allows me to use my dark magician to attack every one of your monsters.
+wavs/0209.wav|Behold! I reveal my face down card. At a cost of one thousand of my life points And I choose.
+wavs/0210.wav|First I'll place two cards face down. While you were calling out your attack, I was activating a magic card to stop it from destroying Obelisk the tormentor.
+wavs/0211.wav|But I could tell the real you was still in there fighting to break free and I knew what I had to do. Force you to face the darkness.
+wavs/0212.wav|My spell binding circle card puts an end to your blue eyes attack and lowers its strength by seven hundred. Nice try Kaiba!
+wavs/0213.wav|Card Destruction! Now we must both discard every card in our hand. But that's not all! Next, we must replenish our hands.
+wavs/0214.wav|I have to disagree. When Curry Bandit is sacrificed, I can draw five more cards. However, I'm only allowed to keep the magic and trap cards.
+wavs/0215.wav|Yes, because right now Mai is driven by anger, jealousy, and hatred.
+wavs/0216.wav|You can't tempt me with that again Raphael. I know what you're trying to do and it won't work. I won't give in to my dark side. Very well then.
+wavs/0217.wav|But I know that I once saved man kind. I'm telling you, you've been brain washed. Enough! I'm sick of hearing you justify your evil plan!
+wavs/0218.wav|So I suppose your Golden Castle of Strong burg has to go. Now that your brother's castle is one, the real duel can begin.
+wavs/0219.wav|Unfortunately, every monster with fifteen hundred attack points or more in Joey's hand and deck will be destroyed by Kava's crush card trap.
+wavs/0220.wav|In this case, Slifer! Now I must discard every card in my hand. I can then play the card immediately.
+wavs/0221.wav|All right Gansley, this duel's not done. Last I checked, it was still odd. You like to do a lot of talking, Gansley,
+wavs/0222.wav|Kuriboh is now my Deck Master. Listen, Gansley Duel Monsters is about honor, trust, and respect.
+wavs/0223.wav|Here goes. Why have you taken over for me? You're very brave. That's true.
+wavs/0224.wav|Destiny's on my side today. Let this madness continue Marik! Yugi! I won't do. You'll pay for what you've done.
+wavs/0225.wav|I would have lost this duel without you very well. Sorry Kaiba, but since I've drawn a card, slifer's attack post's increase to six thousand.
+wavs/0226.wav|Of course I wanted to say how sorry I am. It's my fault. I surrendered to my inner darkness.
+wavs/0227.wav|So trust what's inside your heart and join us. All right! Then prove it! You're a greedy, power hungry worm.
+wavs/0228.wav|Time for red eyes to fight back! Marik! Not only will I defeat you, I'll free you from the darkness that controls you.
+wavs/0229.wav|How could you! Just using you. He reprogrammed Kaiba corp's dueling system, forcing our duel disks to accept an illegal card.
+wavs/0230.wav|Now it's my move! then I shall end my turn Noah. a spirit monster.
+wavs/0231.wav|Time to slay his face down beast. I have plenty of other cards left. I'm not done. No! Just what I needed.
+wavs/0232.wav|You may have built a powerful defence by creating a clone of my obelisk the Tormentor, but I'll break through. Yes!  And not only will I defeat you.
+wavs/0233.wav|It can't be! I know I was a worthy pharaoh. I'm the one who locked the dark magic away! Then let's get on with it.
+wavs/0234.wav|My all powerful Valkyrion the Magna Warrior! Valkyrion be gone! Well it looks like I've got some disappointing news for you then.
+wavs/0235.wav|I call forth my Queen's knight in defense mode. Then I'll activate my Monster reborn card and I'm using it to bring back my Queen's knight.
+wavs/0236.wav|So I played surprise attack from beyond. Soul taker! You do realize that I can sacrifice any monster I wish.
+wavs/0237.wav|My magical dimension card also allows me to summon any spell caster from my hand. Now I play my dark magician!
+wavs/0238.wav|I also share a bond with my deck. I trust and respect every one of my cards. Looks can be quite deceiving.
+wavs/0239.wav|This allows me to draw three new cards as long as I discard two. I'm afraid it's true! I've drawn the eye of Timaeus!
+wavs/0240.wav|In order to play my dark magician girl! Then I'll play this. And I end my turn. are you confused?
+wavs/0241.wav|Now watch as my Egyptian god card weakens yours with the incredible power of its second mouth.
+wavs/0242.wav|Thank you Kaiba! My Egyptian God card was buried deep in my deck until your magic card brought it out.
+wavs/0243.wav|Now you're only one attack away from defeat. I know. But if his evil side prevails, the whole world will be destroy.
+wavs/0244.wav|Yet you've allowed your competition to get the best of you. But how can you summon a monster if my turn's not over?  it's not how many monsters you have.
+wavs/0245.wav|And now Timaeus! Now I merge my dragon with my dark magician! Amulet dragon attack!
+wavs/0246.wav|Hit me with your best shot. What a shame! Looks like you used up all of your chances. Let's move on. First! Graceful Charity.
+wavs/0248.wav|And in a moment of weakness, you allowed your heart to become consumed by the dark magic of the Oricalcos.
+wavs/0250.wav|How can you continue to deny your ancient past? The time has come to accept your destiny Kaiba!
+wavs/0251.wav|I won't stop until you're defeated Noah. I feel sorry for you. Thanks to the support of my friends, I'm about to defeat you.
+wavs/0252.wav|If you really want to save the world then stop fighting me and join my side! If that's what it takes to set my friends free, then let's duel.
+wavs/0253.wav|Because you don't control them any more! Reveal magic car.
+wavs/0254.wav|Yes, But now the tables have turned. Marik's good side is in control and the evil has become the victim. It's all thanks to the power of the Oricalcos.
+wavs/0255.wav|May the magic of Ragnorak Rid the field of your winged dragon of ra.
+wavs/0256.wav|Joey's hammer was created from Time Wizard, so I have a feeling it didn't destroy May's monsters at all, but rather sent them into the future.
+wavs/0257.wav|Humiliate you. You must earn respect Noah, not demand it. It's true, perhaps your father should have recognized your talents.
+wavs/0258.wav|No one deserves to be locked away in isolation the way that you were by your father. However, that's still no excuse for the way you've been treating us Noah.
+wavs/0259.wav|Hold on, you have six monsters! So I place two cards face down. This great storm can wipe out any magic or trap card I choose.
+wavs/0260.wav|Oh well, unfortunately for you, I drew this. Yes and since I moved it from my deck to my hand using a magic card.
+wavs/0261.wav|Then every monster we pick must be summoned to the field. And now you must summon every monster that you've drawn Noah. This activates Sangan's special ability.
+wavs/0262.wav|My monsters go straight to the graveyard. I kept two and discarded three. That card was this.
+wavs/0264.wav|Thanks to my magic card, it's quite fair and now my dark magician girl shall rid the field of all your monsters and lead me to victory!
+wavs/0265.wav|Diffusion wave motion! I can and now I will! Dark Magician, attack!
+wavs/0266.wav|With sword of dark magic attack! It's not always about you. There's something going on here that's bigger than all of us, and you know it.
+wavs/0267.wav|Which means the number of life points I lose is reduced to ten percent. This duels still on.
+wavs/0268.wav|You've made the correct choice Raphael. The Darkness has lifted. The seal of Oricalcos is powered by the darkness within the person who plays it.
+wavs/0269.wav|Yes, good move. Why are you acting like this? What do you mean Yugi? Yugi Wait! Are you holding the card I think you are? Don't do this.
+wavs/0270.wav|Now my mythical beast! My monster may be gone now. I'm afraid you're mistaken.
+wavs/0271.wav|What happened to the Leon I met when this tournament first began? Now duel against me with everything you have and show Zigfried what the heart of the cards is all about.
+wavs/0272.wav|So you need to remind her what dueling is truly about.
+wavs/0273.wav|His arrival has triggered my track card. Once you summon a monster, Dark Renewal allows me to bring a spellcaster back from my graveyard!
+wavs/0274.wav|I'm afraid you're wrong! Reveal Exchange! This allows each of us to draw a card from the other's hand.
+wavs/0275.wav|Since my king's knight and my queen's knight are both in play, I'm able to complete my royal team with this, but I've not done yet.
+wavs/0276.wav|And once it's wiped out, this duel will finally be over. Your deck master is now gone.
+wavs/0277.wav|If you give up the duel, you're giving up on yourself and your friends. If you want to save Mai then keep fighting. Kaiba, have you experienced this card before?
+wavs/0278.wav|This card Pegasus sent us may be a clue. It seems to contain the image of a key. That's it!
+wavs/0279.wav|I'll place this card face down and end my turn.
+wavs/0280.wav|Now we must throw away all our cards which means your legendary ocean card is gone again. First I'll remove my buster blader from the game.
+wavs/0281.wav|This magic card allows me to summon a dark magical creature once I make a sacrifice. so I'll sacrifice this car.
+wavs/0282.wav|Since your attack was strong enough to wipe out two thousand of my life points, I was able to activate my nutrient Z trap card to protect me.
+wavs/0283.wav|Noah you're wrong! Thanks to the next magic card in my hand, and for all my other friends as well. More than you could ever know.
+wavs/0284.wav|Now I'll place this face down and end my turn. You and I can do this. Since three turns have passed since you played spinning wheel spindle. My queen's knight return.
+wavs/0285.wav|A few moments ago, I sent three monsters to my graveyard, one of which saved me. My electromagnetic turtle.
+wavs/0286.wav|Not if I play my trap first. You heard me Weevil. There's been a change of plan. My trap card creates a clone of one of your monsters.
+wavs/0287.wav|You owe it to yourself to fulfill your dream and see this duel through to the end. Then let's duel! I believe it was your move.
+wavs/0288.wav|There's no telling what kind of danger Noah may have put them in. You're right. Hopefully that's where it leads. Our friends could be in grave danger.
+wavs/0289.wav|Discard your entire hand including your white rabbit. I will save my friends! Just watch me!
+wavs/0290.wav|Underworld Circle activate! That's why my dark magician girl is gone now. So why is your dread scythe still on the field?
+wavs/0291.wav|I'll soon have exactly what I need to summon my Egyptian god card and preventing you from summoning your god card. Slifer Attack his Monster now!
+wavs/0292.wav|And now I can bring back a monster that you destroyed earlier in our duel and it looks to me like you have no monsters left.
+wavs/0293.wav|A card that forces you to take a closer look at yourself. It's time to take some responsibility for what you've done!
+wavs/0294.wav|The Magic card Brave attack! Sending my warriors in to battle. I think you need to take a closer look because I see a rather large scratch.
+wavs/0295.wav|We can do this Joey. Trust your deck master. Good work Joey! I know what I have to do. It's my move. Dark magician!
+wavs/0296.wav|Then I sacrifice my Watapon. Not if she destroys you first. Now dark magician girl, attack!
+wavs/0297.wav|I know you saw the same visions that I did and I am about to prove it Kaiba! And now destiny has brought us together once again.
+wavs/0298.wav|Combined together to form goddess bow! That double the attack points of Guardian Eatos!
+wavs/0299.wav|Oh no! you have two monsters left. How! You had that move planned all along didn't you? Taunt me all you want Gansley.
+wavs/0300.wav|Now I activate magical hats and next I shall activate my deck master's special ability.
+wavs/0301.wav|But then darts convinced you to abandon everything that was important to you. He fed you lies about your family and fueled your rage.
+wavs/0302.wav|I have plenty left! Look around. I still have every one of my friends to give me support. I'm afraid so!
+wavs/0303.wav|There is only one card left in my deck that makes it impossible for me to deposit half of it into the grave yar. Don't even think about it.
+wavs/0304.wav|I won't lose this duel! I'll take you down Raphael! So I activate my card of sanctity!
+wavs/0305.wav|You broke the rules again! You can't just call a card back to your hand! Yes it is Noah. Cyber Jar!
+wavs/0306.wav|Dark Magician Girl! Behold Raphael, my legendary dragon! The eye of timaeus! Timaeus, fuse with my dark Magician Girl!
+wavs/0307.wav|And if I remember correctly, you've given all but one of your life points to Raw. Which means you'll be wiped out by the hands of your own creature, Marik!
+wavs/0308.wav|For that task was only possible thanks to a trap card that you played. Including this.
+wavs/0309.wav|That's right. You and I battled each other five thousand years ago. The Dark magician!
+wavs/0310.wav|But I have something stronger. A belief in the heart of the cards and in myself. This duel is far from over Raphael!
+wavs/0311.wav|We'll be fine. Now, it's my card of sanctity. This magic card allows both players to draw until we're each holding six cards in our hand.
+wavs/0312.wav|As long as I have life points, it's on! All right.
+wavs/0313.wav|That magic card is an excellent way to increase the attacking power of your weak monsters. You can turn this tool around Joey!
+wavs/0314.wav|Its spell Sanctuary! Reveal my face down card! Change of heart! Yes, I'm afraid so Kaiba.
+wavs/0315.wav|My monster was in defense mode, which means I shouldn't have lost any life points. And Kaiba and I have something else in common. Something you'd know nothing about Noah.
+wavs/0316.wav|You're beginning to catch on Lector. Now Mirage knight, attack his dragon! However, first impressions can be deceiving.
+wavs/0317.wav|Remember Tristan, Thanks to the seal of Oricalcos, Mai is allowed to have up to ten monsters on the field at once. Forfeiting is not the answer!
+wavs/0318.wav|By eliminating you from this duel and then based on your own twisted rules, you'll be trapped in this world for eternity. I wouldn't be so sure.
+wavs/0319.wav|The Rock spirit! I'll sacrifice my spirit to summon this. Now I'll place a card face down. Fell for my real trap Nesbit.
+wavs/0320.wav|Dark Magician, destroy Guardian Elma! Dark Magic attack! Look what you've done to your guardian! It's been consumed by darkness.
+wavs/0321.wav|Yes, that's precisely what it's doing Marik. You know why? Because I am no longer the target of your Egyptian God Cards attack.
+wavs/0322.wav|Necromancy restores four monsters from your graveyard Kaiba and they each return to the field in defense mode. I'm glad that you asked Kaiba.
+wavs/0323.wav|Now I activate this card,  polymerization! I'm afraid there's more. Next I'll activate my quick attack magic card!
+wavs/0324.wav|Now your obelisk the tormentor is completely useless to you for three turns. Kaiba, What's your rush? This duel's just getting interesting.
+wavs/0326.wav|I plan to do more than try. Well, I also have a magic card to activate. Behold, my shallow grave.
+wavs/0327.wav|If you truly respect your cards then why do you use them for evil? Wrong, I'm not going anywhere. It's my move and now.
+wavs/0328.wav|I'll place One card face down and end my turn. All right. You should know I'm no stranger to ancient magic.

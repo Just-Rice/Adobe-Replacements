@@ -1,0 +1,54 @@
+/goku/0418.wav|Thanks! You know me, I'd never turn down food.
+/goku/381.wav|I thought that would do more damage than that. Has awakened the legendary warrior that lived in my heart! I am Goku and I am a Super Saiyan! So your finally going to fight with hundred percent of your strength.
+/goku/396.wav|Remember to use them, especially when you're fighting. Give me a break! Don't tell me that's all you've got?
+/baraka/5.wav|He offers less. I slit his throat. Don't need charity.
+/baraka/43.wav|You smell of roasted meat. I will gnaw your bones. Keeper of the dead. I do not fear your power, old fool. Pain befits a fallen Elder God.
+/baraka/63.wav|I'll pick your bones clean.
+/gohan/1.wav|Sir please just hurry.
+/gohan/99.wav|That's her. She's a classmate of mine at Orange Star High School. She's nice, always fighting crime like I am. She's a good girl.
+/gohan/122.wav|Ever since I showed up as Saiyaman she's been hounding me and saying that she wouldn't rest until she unmasked me!
+/vegeta/251.wav|Perfectly ordinary is more like it. That swatting that little pest make you feel all big and strong?
+/vegeta/259.wav|The world can burn for all I care, but I'm not about to let Cell get the better of me.
+/vegeta/0035.wav|A small number of people throughout the universe have the ability to transform when needed. Some camouflage themselves with it, while other beings use it to conserve their energy.
+/videl/71.wav|What's going on? It's Gohan versus Gohan! Who am I supposed to cheer for?
+/videl/84.wav|I got to tell ya! These attacks leave almost no room for counters! Hopefully an opening comes soon. I really wish I could make out all these hits but they're too quick for me!
+/videl/0104.wav|A black vest and red pants.
+/amy/10.wav|Now pretend this balloon is your self esteem. Tails, I think it needs some more work.
+/amy/51.wav|Are you helping Egg Man? Knuckles is there something you want to tell us? Thank goodness we've got Sonic back again.
+/amy/228.wav|I know you can do better Knuckles. Hey, that messed up my hair. Stay alert shadow. This sand's getting up my nose. No road's going to slow me down.
+/Padme/186.wav|Where are you from? Greetings from the Republic Senate. It's nice to see a friendly face.
+/Padme/326.wav|Good. In the meantime, I'll pay another visit to those still undecided. Thank you. This way, uncle. They are people! Is there anything we can do to get you to change your mind?
+/Padme/73.wav|That is why it was so urgent that I speak with you. The Republic Senate is holding a critical vote on whether or not to escalate the war effort.
+/JoeyWheeler/23.wav|Little Wing Guard's effect switches battle positions. Copy cat! Aw yeah!
+/JoeyWheeler/72.wav|Oh yeah, baby! I'm going to end this fight in a second. Special attacks are awesome! I'll finish ya quick.
+/JoeyWheeler/96.wav|If he's thinking this long. Ahh no! All right! I beat Yugi all by myself! Yugi, I won, but I'm sure it was just luck.
+/Kaiba/27.wav|I will catch up! It's game over, Yugi! I completely obliterated you!
+/Kaiba/71.wav|But that's the last move you'll ever make! I activate my trap! I activate my spell card! Raigeki! Change of Heart!
+/Kaiba/115.wav|Combine into one! X Y Zee Dragon Cannon! X Y Zee Dragon Cannons effect activates!
+/LisaLoud/182.wav|My lifestyle isn't really conducive to having friends.
+/LisaLoud/263.wav|Of course! I'll rip a hole in the space time continuum, construct a time machine out of Gramps boat, and, send us back thirty years to enjoy Camp Mastodon in days of yore.
+/LisaLoud/715.wav|Fascinating, a one hundred percent match, right down to father's secret ingredient in the mac and cheese bites.
+/NurseJoy/2.wav|Now get to bed this instant!
+/NurseJoy/8.wav|If we don't get the power back soon, well I just don't want to think about what would happen. I don't know what to do.
+/NurseJoy/78.wav|I absolutely can't stand the sight of those Pokemon! I can handle Electric Pokemon, Poison Pokemon, I even love Bug Pokemon! Just as long as I don't have to touch them!
+/PinkiePie/1.wav|Ooh! Ooh! Pick me! It's the crystal tree that holds the elements of harmony! I'll just be a second. And drink sarsaparilla!
+/PinkiePie/86.wav|It really seemed like she doesn't want us Cramping her saddle. Proud as pink punch. You care too much.
+/PinkiePie/362.wav|A party! You really need to get out more. You're right. Oh wait, There she is. I guess i wasn't. are your hooves dirty? Chimicherry, cherrychanga. In my secret party planning cave.
+/Sub-Zero/26.wav|your soul will never rest. that is called entanglement.
+/Sub-Zero/67.wav|was i such a poor mentor? you have been corrupted by power. what sort of ruler will you be?
+/Sub-Zero/73.wav|die a cold death! we are not enemies, then you require a lesson. you failed to protect earth realm. bi han, the lin quay do not worship the elder gods.
+/Tails/10.wav|So what do you say? Anyone? I'll distract it while you come up with a plan. Well, anyone. This is like the fourth time you've used it. Wait.
+/Tails/198.wav|Check it out. If you guys Ill excuse me, it's time for her propeller to tail. Thanks for talking me into coming along.
+/Tails/7.wav|Follow me. All right! Just one more energy signature left on my radar.
+/RainbowDash/10.wav|You've been doing great! You do realize he's not a bear right?
+/RainbowDash/283.wav|We're supposed to be hunting down the missing relics and catching the bad guy. And we're your friends. That's your answer for everything.
+/RainbowDash/603.wav|Weather for the coronation is sunny skies! That tickles. Bring them up here would ya? Sky needs to build his strength. air drills, wing lifts, All that boring methodical stuff.
+/TwilightSparkle/1.wav|the sirens will know what we're up to and make sure we don't get a chance to play it again! Sometimes friendships can be hard, and it takes work to maintain them.
+/TwilightSparkle/358.wav|What if now that i'm a princess Celestia expects me to lead a kingdom of my own? They can be complicated. They can be messy. And they never go the way you plan.
+/TwilightSparkle/959.wav|You all escaped without my help. It was too much to juggle. You went to an awful lot of trouble To switch it with the one that belongs here. It's said that that one great treasure is responsible For turning griffonstone into the most majestic kingdom of all the land.
+/Ventress/37.wav|do not ask, Jedi scum. I will die before I betray my Master! my loyalties are with the dark side and my Master.I will betray neither.
+/Ventress/81.wav|tenacious little Padawan. you've been holding back,
+/Ventress/186.wav|I sense the dark side in you, but you are too weak to embrace it. I tire of being your pawn.
+/YamiYugi/20.wav|This has created an opening! In a duel, no one should ever hold back. I will not hold back! Here I go!
+/YamiYugi/216.wav|Is it a new monster? Of course, if I can't master every monster. You're not going to give it to me for free?
+/YamiYugi/252.wav|I activate, Magical Hats! I activate, Chain Destruction! Big mistake! I'm sending your attack right back at you!

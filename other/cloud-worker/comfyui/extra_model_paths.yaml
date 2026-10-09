@@ -1,0 +1,7 @@
+# ComfyUI extra model paths — points at the RunPod network volume (1 TB) where
+# all MiniMax H3 weights live. Install to /ComfyUI/extra_model_paths.yaml
+minimax_workspace:
+  base_path: /workspace/minimax-h3/models
+  diffusion_models: diffusion_models
+  text_encoders: text_encoders
+  vae: vae

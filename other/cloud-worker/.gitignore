@@ -1,0 +1,7 @@
+pod-info.txt
+pod-info.md
+prompts/
+*~
+__pycache__/
+*.pyc
+*.pyo

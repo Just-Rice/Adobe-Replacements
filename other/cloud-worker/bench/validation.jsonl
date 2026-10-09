@@ -1,0 +1,12 @@
+{"label": "smoke_t2v", "file": "smoke_t2v_00001_.mp4", "valid": false, "error": "HTTP Error 404: Not Found"}
+{"label": "prunedint8_sweep_t2v_864x480_15s", "file": "prunedint8_sweep_t2v_864x480_15s_00001_.mp4", "valid": false, "error": "HTTP Error 404: Not Found"}
+{"label": "prunedint8_sweep_ref2v_864x480_5s", "file": "prunedint8_sweep_ref2v_864x480_5s_00001_.mp4", "valid": false, "error": "HTTP Error 404: Not Found"}
+{"label": "prunedint8_refheavy_4ref_match", "file": "prunedint8_refheavy_4ref_match_00001_.mp4", "valid": true, "bytes": 687266, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "pi8_key_ref2v_1ref_r0", "file": "pi8_key_ref2v_1ref_r0_00001_.mp4", "valid": true, "bytes": 826358, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "pi8_key_ref2v_8ref_max", "file": "pi8_key_ref2v_8ref_max_00001_.mp4", "valid": true, "bytes": 1007718, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "i8_key_t2v_5s_r1", "file": "i8_key_t2v_5s_r1_00001_.mp4", "valid": true, "bytes": 858674, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "i8_key_t2v_15s", "file": "i8_key_t2v_15s_00001_.mp4", "valid": true, "bytes": 3295798, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 15.08, "expected_duration": 15.08}
+{"label": "i8_refheavy_8ref_match_1344", "file": "i8_refheavy_8ref_match_1344_00001_.mp4", "valid": true, "bytes": 1523680, "video_codec": "h264", "audio_codec": "aac", "width": 1344, "height": 768, "duration": 5.17, "expected_duration": 5.17}
+{"label": "b16_key_ref2v_8ref_r1", "file": "b16_key_ref2v_8ref_r1_00001_.mp4", "valid": true, "bytes": 1117762, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "b16_refheavy_4ref_max", "file": "b16_refheavy_4ref_max_00001_.mp4", "valid": true, "bytes": 763758, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "pi8v2_key_ref2v_8ref_r2", "file": "pi8v2_key_ref2v_8ref_r2_00001_.mp4", "valid": true, "bytes": 1355173, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}

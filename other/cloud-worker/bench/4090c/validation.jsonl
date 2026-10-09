@@ -1,0 +1,5 @@
+{"label": "g4090c_smoke", "file": "g4090c_smoke_00001_.mp4", "valid": true, "bytes": 2090842, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "g4090c_rm_4ref_full", "file": "g4090c_rm_4ref_full_00001_.mp4", "valid": true, "bytes": 985716, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "g4090c_t2v_1x1", "file": "g4090c_t2v_1x1_00001_.mp4", "valid": true, "bytes": 1001584, "video_codec": "h264", "audio_codec": "aac", "width": 640, "height": 640, "duration": 5.17, "expected_duration": 5.17}
+{"label": "g4090c_t2v_r2", "file": "g4090c_t2v_r2_00001_.mp4", "valid": true, "bytes": 1478062, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}
+{"label": "g4090c_rm_8ref_ds020_v2", "file": "g4090c_rm_8ref_ds020_v2_00001_.mp4", "valid": true, "bytes": 3674764, "video_codec": "h264", "audio_codec": "aac", "width": 864, "height": 480, "duration": 5.17, "expected_duration": 5.17}

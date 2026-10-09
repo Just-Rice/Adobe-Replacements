@@ -1,0 +1,23 @@
+*~
+__pycache__/
+node_modules/
+target/
+
+# IntelliJ
+.idea/
+voder.iml
+realtime-voce-conversion.iml
+
+# Project specific ignores
+cycle_gan/python
+tacotron_melgan/python
+voice_converter_sidecar/cycle_gan/python
+
+# Secrets
+secrets.yaml
+
+# Models and data
+*.jit
+*.pt
+*.torchjit
+*.wav

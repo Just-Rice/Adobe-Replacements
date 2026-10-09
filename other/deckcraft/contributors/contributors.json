@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "repo": "storytold/deckcraft",
+  "branch": "main",
+  "head": "9da767d5f762119c9bad9deb94001de36fde01c9",
+  "head_date": "2026-10-08T00:23:52Z",
+  "commits": 22,
+  "unattributed_commits": 0,
+  "contributors": [
+    {
+      "login": "echelon",
+      "people_entry": true,
+      "github_name": null,
+      "prs": 1,
+      "commits": 22,
+      "lines_added": 123461,
+      "lines_deleted": 3662,
+      "binary_added": 47,
+      "binary_deleted": 12,
+      "first_commit": "2026-10-06T02:13:02Z",
+      "last_commit": "2026-10-08T00:23:52Z"
+    }
+  ],
+  "models": [
+    {
+      "id": "anthropic/claude-opus/5.5",
+      "company": "Anthropic",
+      "model": "Claude Opus",
+      "version": "5.5",
+      "commits": 21,
+      "lines_added": 123454,
+      "lines_deleted": 3662
+    }
+  ]
+}

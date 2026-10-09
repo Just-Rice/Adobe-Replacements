@@ -1,0 +1,28 @@
+:host {
+	display: flex;
+	flex-direction: column;
+	border-radius: 0.5rem;
+	padding: 0.5rem 0;
+	min-width: 220px;
+
+	background: var(--neutral-200);
+	overflow: hidden;
+}
+
+::slotted(sts-button) {
+	background: unset;
+	border-radius: unset;
+}
+
+::slotted(sts-button:not(.disabled):hover) {
+	background: var(--neutral-300);
+}
+
+::slotted(hr) {
+	display: block;
+	width: 100%;
+	border: none;
+	height: 1px;
+	margin: 0.5rem 0;
+	background: rgba(#FFF, 0.1);
+}

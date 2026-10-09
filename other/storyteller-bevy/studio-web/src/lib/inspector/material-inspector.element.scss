@@ -1,0 +1,34 @@
+@use "sass:math";
+
+:host {
+	color-scheme: dark;
+	font-family: "Fira Sans", sans-serif;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+h4 {
+	font-weight: 500;
+	margin: 0 0 0.5rem;
+}
+
+.fields {
+	display: grid;
+	grid-template-columns: min-content 1fr;
+	align-items: baseline;
+	row-gap: 0.25rem;
+	column-gap: 0.5rem;
+}
+
+label {
+	color: #FFF9;
+	font-size: math.div(14, 16) * 1rem;
+	margin-block-end: 0.333rem;
+}
+
+sts-text-field::part(input) {
+	flex: unset;
+	width: 100%;
+}

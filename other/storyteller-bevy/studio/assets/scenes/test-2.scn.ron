@@ -1,0 +1,210 @@
+(
+  resources: {},
+  entities: {
+    4: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+          ),
+          rotation: (
+            x: -0.27984813,
+            y: 0.36470518,
+            z: 0.11591689,
+            w: 0.88047624,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_core::name::Name": (
+          hash: 18065451097249435342,
+          name: "Directional Light",
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "bevy_pbr::light::DirectionalLight": (
+          color: Rgba(
+            red: 1.0,
+            green: 1.0,
+            blue: 1.0,
+            alpha: 1.0,
+          ),
+          illuminance: 20000.0,
+          shadows_enabled: false,
+          shadow_depth_bias: 0.02,
+          shadow_normal_bias: 1.8,
+        ),
+        "studio::anim::timeline_animation::AnimationTarget": Uuid("874db6bd-de61-4f9a-a931-5dc7d9a1cf18"),
+      },
+    ),
+    9: (
+      components: {
+        "space_prefab::sub_scene::CollapsedSubScene": ("(\n  resources: {},\n  entities: {\n    9: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 4651330846179949623,\n          name: \"Mannequin.gltf\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::component::GltfPrefab\": (\n          path: \"gltf/Mannequin.gltf\",\n          scene: \"Scene0\",\n        ),\n      },\n    ),\n    10: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: -4.2479,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          18,\n        ]),\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"ade422d0-7775-404c-a4a2-4d02ba693111\"),\n      },\n    ),\n    11: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          1,\n          0,\n          0,\n          0,\n          0,\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0000000000000018873791,\n            y: 0.0772129,\n            z: -0.0000000009313232,\n          ),\n          rotation: (\n            x: -0.02840662,\n            y: -0.00000017426322,\n            z: -0.00000005048938,\n            w: 0.9995964,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 10494895437773786916,\n          name: \"DEF-spine.006\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::anim::SkeletalJoint\": (Rgba(\n          red: 0.0,\n          green: 0.0,\n          blue: 0.0,\n          alpha: 1.0,\n        )),\n        \"studio::anim::BindPoseLocal\": ((\n          translation: (\n            x: 0.0000000000000018873791,\n            y: 0.0772129,\n            z: -0.0000000009313232,\n          ),\n          rotation: (\n            x: -0.02840662,\n            y: -0.00000017426322,\n            z: -0.00000005048938,\n            w: 0.9995964,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        )),\n        \"studio::anim::BindPoseGlobal\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: -0.00000004317161,\n              z: 0.0000002815904,\n            ),\n            y_axis: (\n              x: 0.000000043171664,\n              y: 1.0000001,\n              z: -0.000000007450581,\n            ),\n            z_axis: (\n              x: -0.00000028159027,\n              y: 0.000000029802322,\n              z: 1.0000001,\n            ),\n          ),\n          translation: (\n            x: -0.0000000098720045,\n            y: 2.1084576,\n            z: 0.009409847,\n          ),\n        )),\n        \"studio::anim::InvBindPose\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: 0.00000004317161,\n              z: -0.00000028159036,\n            ),\n            y_axis: (\n              x: -0.000000043171653,\n              y: 0.9999999,\n              z: 0.000000007450591,\n            ),\n            z_axis: (\n              x: 0.00000028159025,\n              y: -0.000000029802303,\n              z: 0.9999999,\n            ),\n          ),\n          translation: (\n            x: 0.00000009824788,\n            y: -2.1084573,\n            z: -0.009409862,\n          ),\n        )),\n      },\n    ),\n    18: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2255923429770983233,\n          name: \"Mannequin_gamerig\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          19,\n          20,\n        ]),\n        \"studio::anim::Skeleton\": (),\n      },\n    ),\n    19: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 5794164128714325705,\n          name: \"Mannequin\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          38,\n          39,\n        ]),\n      },\n    ),\n    20: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          1,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 1.1824518,\n            z: -0.0052269525,\n          ),\n          rotation: (\n            x: 0.018155448,\n            y: 0.000000119189586,\n            z: 0.0000000021643014,\n            w: 0.9998352,\n          ),\n          scale: (\n            x: 1.0,\n            y: 0.99999994,\n            z: 0.99999994,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 14743125227235264954,\n          name: \"DEF-spine\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          21,\n          14,\n          15,\n          32,\n          35,\n        ]),\n        \"studio::anim::SkeletalJoint\": (Rgba(\n          red: 0.0,\n          green: 0.0,\n          blue: 0.0,\n          alpha: 1.0,\n        )),\n        \"studio::anim::BindPoseLocal\": ((\n          translation: (\n            x: 0.0,\n            y: 1.1824518,\n            z: -0.0052269525,\n          ),\n          rotation: (\n            x: 0.018155448,\n            y: 0.000000119189586,\n            z: 0.0000000021643014,\n            w: 0.9998352,\n          ),\n          scale: (\n            x: 1.0,\n            y: 0.99999994,\n            z: 0.99999994,\n          ),\n        )),\n        \"studio::anim::BindPoseGlobal\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: 0.00000000865577,\n              z: -0.0000002382613,\n            ),\n            y_axis: (\n              x: -0.000000000000008881783,\n              y: 0.9993407,\n              z: 0.03630491,\n            ),\n            z_axis: (\n              x: 0.00000023841845,\n              y: -0.03630491,\n              z: 0.9993407,\n            ),\n          ),\n          translation: (\n            x: 0.0,\n            y: 1.1824518,\n            z: -0.0052269525,\n          ),\n        )),\n        \"studio::anim::InvBindPose\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: -0.000000000000008881785,\n              z: 0.00000023841848,\n            ),\n            y_axis: (\n              x: 0.00000000865577,\n              y: 0.99934083,\n              z: -0.036304913,\n            ),\n            z_axis: (\n              x: -0.0000002382613,\n              y: 0.036304913,\n              z: 0.99934083,\n            ),\n          ),\n          translation: (\n            x: -0.000000011480412,\n            y: -1.1814827,\n            z: 0.04815232,\n          ),\n        )),\n      },\n    ),\n    21: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          1,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0000000000000007771561,\n            y: 0.24725592,\n            z: -0.0000000013969839,\n          ),\n          rotation: (\n            x: 0.017829195,\n            y: -0.00000015639537,\n            z: -0.0000000337525,\n            w: 0.9998411,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0000001,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 6655260424214022128,\n          name: \"DEF-spine.001\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          22,\n        ]),\n        \"studio::anim::SkeletalJoint\": (Rgba(\n          red: 0.0,\n          green: 0.0,\n          blue: 0.0,\n          alpha: 1.0,\n        )),\n        \"studio::anim::BindPoseLocal\": ((\n          translation: (\n            x: 0.0000000000000007771561,\n            y: 0.24725592,\n            z: -0.0000000013969839,\n          ),\n          rotation: (\n            x: 0.017829195,\n            y: -0.00000015639537,\n            z: -0.0000000337525,\n            w: 0.9998411,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0000001,\n            z: 1.0,\n          ),\n        )),\n        \"studio::anim::BindPoseGlobal\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: -0.00000007567748,\n              z: 0.00000007041797,\n            ),\n            y_axis: (\n              x: 0.00000007041773,\n              y: 0.99741113,\n              z: 0.07191105,\n            ),\n            z_axis: (\n              x: -0.000000075677704,\n              y: -0.071911044,\n              z: 0.997411,\n            ),\n          ),\n          translation: (\n            x: -0.0000000000000017519841,\n            y: 1.4295447,\n            z: 0.0037496504,\n          ),\n        )),\n        \"studio::anim::InvBindPose\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: 0.00000007041772,\n              z: -0.00000007567771,\n            ),\n            y_axis: (\n              x: -0.00000007567748,\n              y: 0.997411,\n              z: -0.07191105,\n            ),\n            z_axis: (\n              x: 0.000000070417975,\n              y: 0.071911044,\n              z: 0.99741113,\n            ),\n          ),\n          translation: (\n            x: 0.00000010792029,\n            y: -1.4261132,\n            z: 0.09906012,\n          ),\n        )),\n      },\n    ),\n    22: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          1,\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -0.000000000000004718448,\n            y: 0.07935408,\n            z: -0.0000000037252907,\n          ),\n          rotation: (\n            x: -0.05250668,\n            y: 0.00000019664517,\n            z: 0.0000000696546,\n            w: 0.9986205,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0000001,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 14630683112409401510,\n          name: \"DEF-spine.002\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          23,\n        ]),\n        \"studio::anim::SkeletalJoint\": (Rgba(\n          red: 0.0,\n          green: 0.0,\n          blue: 0.0,\n          alpha: 1.0,\n        )),\n        \"studio::anim::BindPoseLocal\": ((\n          translation: (\n            x: -0.000000000000004718448,\n            y: 0.07935408,\n            z: -0.0000000037252907,\n          ),\n          rotation: (\n            x: -0.05250668,\n            y: 0.00000019664517,\n            z: 0.0000000696546,\n            w: 0.9986205,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0000001,\n          ),\n        )),\n        \"studio::anim::BindPoseGlobal\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: 0.00000007125139,\n              z: -0.00000032008967,\n            ),\n            y_axis: (\n              x: -0.00000008180174,\n              y: 0.9994527,\n              z: -0.033082463,\n            ),\n            z_axis: (\n              x: 0.00000031755735,\n              y: 0.033082478,\n              z: 0.9994527,\n            ),\n          ),\n          translation: (\n            x: 0.0000000055879275,\n            y: 1.5086935,\n            z: 0.009456081,\n          ),\n        )),\n        \"studio::anim::InvBindPose\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: -0.00000008180175,\n              z: 0.00000031755727,\n            ),\n            y_axis: (\n              x: 0.00000007125138,\n              y: 0.9994526,\n              z: 0.03308246,\n            ),\n            z_axis: (\n              x: -0.00000032008973,\n              y: -0.033082474,\n              z: 0.9994526,\n            ),\n          ),\n          translation: (\n            x: -0.00000011005763,\n            y: -1.5075548,\n            z: -0.059362195,\n          ),\n        )),\n      },\n    ),\n    23: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          1,\n          0,\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -0.0000000000000029976022,\n            y: 0.11385107,\n            z: 0.0000000009313214,\n          ),\n          rotation: (\n            x: -0.006840455,\n            y: -0.000000045082487,\n            z: -0.000000048790202,\n            w: 0.9999767,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 1672047257949964828,\n          name: \"DEF-spine.003\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          24,\n          26,\n          29,\n        ]),\n        \"studio::anim::SkeletalJoint\": (Rgba(\n          red: 0.0,\n          green: 0.0,\n          blue: 0.0,\n          alpha: 1.0,\n        )),\n        \"studio::anim::BindPoseLocal\": ((\n          translation: (\n            x: -0.0000000000000029976022,\n            y: 0.11385107,\n            z: 0.0000000009313214,\n          ),\n          rotation: (\n            x: -0.006840455,\n            y: -0.000000045082487,\n            z: -0.000000048790202,\n            w: 0.9999767,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        )),\n        \"studio::anim::BindPoseGlobal\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: -0.000000022652003,\n              z: -0.00000022610132,\n            ),\n            y_axis: (\n              x: 0.000000012056448,\n              y: 0.9989066,\n              z: -0.04675247,\n            ),\n            z_axis: (\n              x: 0.00000022691317,\n              y: 0.046752494,\n              z: 0.9989066,\n            ),\n          ),\n          translation: (\n            x: -0.000000003725292,\n            y: 1.6224821,\n            z: 0.0056896103,\n          ),\n        )),\n        \"studio::anim::InvBindPose\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: 0.000000012056432,\n              z: 0.00000022691309,\n            ),\n            y_axis: (\n              x: -0.000000022652012,\n              y: 0.9989064,\n              z: 0.04675246,\n            ),\n            z_axis: (\n              x: -0.00000022610133,\n              y: -0.046752483,\n              z: 0.9989064,\n            ),\n          ),\n          translation: (\n            x: 0.0000000417642,\n            y: -1.6204417,\n            z: -0.08153842,\n          ),\n        )),\n      },\n    ),\n    24: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          1,\n          0,\n          0,\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0000000000000013322676,\n            y: 0.33216262,\n            z: 0.0000000037252903,\n          ),\n          rotation: (\n            x: 0.11835184,\n            y: -0.00000007592711,\n            z: 0.000000057157614,\n            w: 0.9929718,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2382727264231059338,\n          name: \"DEF-spine.004\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          25,\n        ]),\n        \"studio::anim::SkeletalJoint\": (Rgba(\n          red: 0.0,\n          green: 0.0,\n          blue: 0.0,\n          alpha: 1.0,\n        )),\n        \"studio::anim::BindPoseLocal\": ((\n          translation: (\n            x: 0.0000000000000013322676,\n            y: 0.33216262,\n            z: 0.0000000037252903,\n          ),\n          rotation: (\n            x: 0.11835184,\n            y: -0.00000007592711,\n            z: 0.000000057157614,\n            w: 0.9929718,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        )),\n        \"studio::anim::BindPoseGlobal\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: 0.0000000804653,\n              z: -0.0000000664313,\n            ),\n            y_axis: (\n              x: -0.00000006643164,\n              y: 0.98191166,\n              z: 0.18934037,\n            ),\n            z_axis: (\n              x: 0.00000008046504,\n              y: -0.18934034,\n              z: 0.9819116,\n            ),\n          ),\n          translation: (\n            x: 0.00000000027940938,\n            y: 1.9542816,\n            z: -0.009839805,\n          ),\n        )),\n        \"studio::anim::InvBindPose\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: -0.00000006643167,\n              z: 0.00000008046497,\n            ),\n            y_axis: (\n              x: 0.000000080465256,\n              y: 0.98191136,\n              z: -0.18934032,\n            ),\n            z_axis: (\n              x: -0.00000006643136,\n              y: 0.1893403,\n              z: 0.9819114,\n            ),\n          ),\n          translation: (\n            x: -0.00000015818485,\n            y: -1.9170681,\n            z: 0.37968612,\n          ),\n        )),\n      },\n    ),\n    25: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          1,\n          0,\n          0,\n          0,\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -0.00000000000000036082248,\n            y: 0.078507915,\n            z: -0.0000000023283069,\n          ),\n          rotation: (\n            x: -0.06678496,\n            y: -0.0000000020318844,\n            z: -0.000000006195938,\n            w: 0.9977674,\n          ),\n          scale: (\n            x: 1.0,\n            y: 0.99999994,\n            z: 0.99999994,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 27449503429050499,\n          name: \"DEF-spine.005\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          11,\n        ]),\n        \"studio::anim::SkeletalJoint\": (Rgba(\n          red: 0.0,\n          green: 0.0,\n          blue: 0.0,\n          alpha: 1.0,\n        )),\n        \"studio::anim::BindPoseLocal\": ((\n          translation: (\n            x: -0.00000000000000036082248,\n            y: 0.078507915,\n            z: -0.0000000023283069,\n          ),\n          rotation: (\n            x: -0.06678496,\n            y: -0.0000000020318844,\n            z: -0.000000006195938,\n            w: 0.9977674,\n          ),\n          scale: (\n            x: 1.0,\n            y: 0.99999994,\n            z: 0.99999994,\n          ),\n        )),\n        \"studio::anim::BindPoseGlobal\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: 0.00000006766682,\n              z: -0.00000006392702,\n            ),\n            y_axis: (\n              x: -0.00000006392714,\n              y: 0.9983862,\n              z: 0.056790303,\n            ),\n            z_axis: (\n              x: 0.00000006766669,\n              y: -0.056790277,\n              z: 0.9983862,\n            ),\n          ),\n          translation: (\n            x: -0.0000000049359974,\n            y: 2.0313694,\n            z: 0.0050249086,\n          ),\n        )),\n        \"studio::anim::InvBindPose\": ((\n          matrix3: (\n            x_axis: (\n              x: 1.0,\n              y: -0.000000063927175,\n              z: 0.00000006766667,\n            ),\n            y_axis: (\n              x: 0.00000006766678,\n              y: 0.9983861,\n              z: -0.056790296,\n            ),\n            z_axis: (\n              x: -0.00000006392704,\n              y: 0.05679027,\n              z: 0.9983861,\n            ),\n          ),\n          translation: (\n            x: -0.00000013219902,\n            y: -2.0283763,\n            z: 0.110345274,\n          ),\n        )),\n      },\n    ),\n    38: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2641625536990733995,\n          name: \"Mannequin.0\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::anim::ProcessedSkinnedMesh\": (),\n      },\n    ),\n    39: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n          0,\n          1,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 3807248060729159681,\n          name: \"Mannequin.1\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::anim::ProcessedSkinnedMesh\": (),\n      },\n    ),\n  },\n)"),
+        "space_prefab::sub_scene::ChildPath": ([]),
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_core::name::Name": (
+          hash: 4651330846179949623,
+          name: "Mannequin.gltf",
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "space_prefab::component::GltfPrefab": (
+          path: "gltf/Mannequin.gltf",
+          scene: "Scene0",
+        ),
+      },
+    ),
+    67: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -1.6869695,
+            y: 4.214031,
+            z: 3.4296653,
+          ),
+          rotation: (
+            x: -0.323544,
+            y: -0.2166858,
+            z: -0.07637838,
+            w: 0.91789585,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: MainCamera,
+          time: 0.0,
+        ),
+      },
+    ),
+    68: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 1.5047787,
+            y: 3.9984386,
+            z: 3.9482107,
+          ),
+          rotation: (
+            x: -0.31489795,
+            y: 0.09083189,
+            z: 0.030290442,
+            w: 0.9442835,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: MainCamera,
+          time: 0.99502486,
+        ),
+      },
+    ),
+    69: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("ade422d0-7775-404c-a4a2-4d02ba693111"),
+          time: 0.986733,
+        ),
+      },
+    ),
+    70: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: -4.2479,
+            z: 0.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("ade422d0-7775-404c-a4a2-4d02ba693111"),
+          time: 0.0,
+        ),
+      },
+    ),
+  },
+)

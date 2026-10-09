@@ -1,0 +1,10 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # NB: This is potentially dangerous, but I don't think we have much other choice:
+    Access-Control-Allow-Origin = "*"
+
+    # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/frame-ancestors
+    # NB: The *.netlify.app is dangerous.
+    Content-Security-Policy = "frame-ancestors 'self' https://fakeyou.com https://*.fakeyou.com https://storyteller.ai https://*.storyteller.ai https://*.netlify.app http://*.fakeyou.com:7000 http://*.fakeyou.com:7001 http://*.fakeyou.com:7002 http://*.storyteller.ai:7000 http://*.storyteller.ai:7001 http://*.storyteller.ai:7002;"
+

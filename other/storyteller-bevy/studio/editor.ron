@@ -1,0 +1,7 @@
+{
+    "space_undo::ChangeChainSettings": "{\"space_undo::ChangeChainSettings\":(max_change_chain_size:200)}",
+    "space_editor_ui::settings::NewWindowSettings": "{\"space_editor_ui::settings::NewWindowSettings\":(new_tab:SameNode)}",
+    "space_editor_ui::settings::GameModeSettings": "{\"space_editor_ui::settings::GameModeSettings\":(mode:Game3D)}",
+    "space_persistence::PersistenceSettings": "{\"space_persistence::PersistenceSettings\":(load_on_startup:true,save_on_close:true)}",
+    "space_editor_ui::sizing::Sizing": "{\"space_editor_ui::sizing::Sizing\":(icon:Regular,gizmos:Gizmos,text:14.0)}",
+}

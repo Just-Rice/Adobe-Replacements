@@ -1,0 +1,8 @@
+:host {
+	display: flex;
+	gap: 0.25rem;
+}
+
+::slotted(*) {
+	border-radius: 0.5rem;
+}

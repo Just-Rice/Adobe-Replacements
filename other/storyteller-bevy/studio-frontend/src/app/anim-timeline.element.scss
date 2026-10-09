@@ -1,0 +1,161 @@
+:host {
+	position: relative;
+	overflow: hidden;
+	display: grid;
+	grid-template-rows: subgrid;
+	grid-row: 1 / span var(--row-count);
+	pointer-events: all;
+}
+
+*:focus-visible {
+	outline: none;
+}
+
+.wrapper {
+	position: relative;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: subgrid;
+	inset: 0;
+	grid-row: 1 / span var(--row-count);
+
+	background: linear-gradient(90deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.2) calc(var(--clip-start) - 1px), rgba(255,255,255,0.1) var(--clip-start), rgba(255,255,255,0.1) var(--clip-end), rgba(0,0,0,0.2) calc(var(--clip-end) + 1px));
+
+	&.panning {
+		cursor: grabbing;
+	}
+
+	.zoom-controls {
+		grid-row: var(--row-count);
+		background: rgba(0,0,0,1);
+		height: 10px;
+		width: 100%;
+		z-index: 1;
+	}
+
+	.timeline-nav-dragger {
+		grid-row: 1 / span 1;
+		grid-column: 1 / span 1;
+		background: #000;
+		opacity: 0.1;
+		height: 1.5em;
+	}
+}
+
+.hash {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 2px;
+	background: #FFF1;
+
+	&.strong {
+		background: #FFF3;
+	}
+}
+
+.timestamp {
+	position: absolute;
+	grid-row: 1;
+	color: #FFF6;
+	font: {
+		family: "Fira Sans", sans-serif;
+		size: 14px;
+	}
+	user-select: none;
+	pointer-events: none;
+
+	.frac {
+		color: #FFF3;
+	}
+}
+
+.playhead {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 8px;
+	transform: translateX(-3px);
+	cursor: ew-resize;
+	color: #7A2C34E3;
+	transition: color 66.667ms linear;
+
+	&:hover {
+		color: #90363F;
+	}
+
+	.head {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 8px;
+		height: 32px;
+		background: currentColor;
+
+		&::after {
+			content: "";
+			box-sizing: border-box;
+			position: absolute;
+			bottom: -12px;
+			display: block;
+			width: 8px;
+			height: 12px;
+			border: 4px solid transparent {
+				top: 8px solid currentColor;
+			}
+		}
+	}
+
+	.bar {
+		position: absolute;
+		top: 36px;
+		bottom: 0;
+		left: 3px;
+		right: 3px;
+		background: currentColor;
+	}
+}
+
+.keyframe {
+	position: absolute;
+	transform: translateX(-4.5px);
+
+	&::before {
+		content: "";
+		display: block;
+		width: 9px;
+		height: 9px;
+		background: #AAA;
+		transform: rotate(45deg) {
+			origin: center center;
+		}
+	}
+
+	&.selected::before {
+		background: #0FF; // TODO
+	}
+}
+
+.clip {
+	position: absolute;
+	transform: translateX(-4.5px);
+	--clip-name: "";
+	height: 12px;
+	
+	&::before {
+		content: var(--clip-name);
+		display: flex;
+		width: 100%;
+		height: 12px;
+		background: #AAA;
+		color: black;
+		font-size: 10px;
+		font-weight: bold;
+		justify-content: center;
+		align-items: center;
+	}
+
+	&.selected::before {
+		background: #0FF; // TODO
+	}
+}

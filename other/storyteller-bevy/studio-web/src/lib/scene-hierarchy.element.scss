@@ -1,0 +1,23 @@
+:host {
+	box-sizing: border-box;
+	padding: 0.5rem 1rem;
+	overflow: auto;
+
+	&::-webkit-scrollbar {
+		width: 0.5rem;
+		height: 0.5rem;
+
+		&-thumb {
+			border-radius: 2px;
+			background: #FFF2;
+
+			&:hover {
+				background: #FFF3;
+			}
+		}
+
+		&-corner {
+			background: transparent;
+		}
+	}
+}

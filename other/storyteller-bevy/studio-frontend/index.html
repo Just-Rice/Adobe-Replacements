@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Storyteller Studio</title>
+		<base href="/" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+		<link rel="stylesheet" href="/src/styles.scss" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+	</head>
+	<body data-sl="canvas-mq">
+		<app-root></app-root>
+		<script type="module" src="/src/main.ts"></script>
+		<!-- Smartlook recording -->
+		<script type='text/javascript'>
+			window.smartlook||(function(d) {
+				var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+				var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+				c.charset='utf-8';c.src='https://web-sdk.smartlook.com/recorder.js';h.appendChild(c);
+			})(document);
+			smartlook('init', '3d1ddaf51ab1fa28ffe0b2bd94aa0e233bb0fd9e', { region: 'eu' });
+		</script>
+	</body>
+</html>

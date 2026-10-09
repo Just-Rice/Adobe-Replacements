@@ -1,0 +1,57 @@
+@use "sass:math";
+
+:host {
+	// background: red;
+	display: flex;
+	gap: 0.6rem;
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+.bubble {
+	position: relative;
+	flex: 0 0 auto;
+	display: flex;
+	align-items: flex-end;
+	width: 80px;
+	height: 80px;
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+	background: {
+		size: cover;
+		position: center center;
+	}
+
+	outline: #FFF2 solid 2px;
+	color: rgba(#fff, 0.75);
+	transition: {
+		property: background-color, outline-color;
+		duration: 200ms;
+		timing-function: ease;
+	}
+	white-space: nowrap;
+
+	cursor: pointer;
+
+	&.selected {
+		outline-color: var(--color-accent);
+	}
+
+	.gradient {
+		position: absolute;
+		inset: 0;
+		background: linear-gradient(to top, #000B, #0000);
+		border-radius: 0.5rem;
+	}
+
+	.label {
+		position: relative;
+		font: {
+			size: math.div(12, 16) * 1rem;
+			weight: 500;
+		}
+	}
+}

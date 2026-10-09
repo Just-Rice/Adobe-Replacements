@@ -1,0 +1,936 @@
+(
+  resources: {},
+  entities: {
+    9: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+          ),
+          rotation: (
+            x: -0.27984813,
+            y: 0.36470518,
+            z: 0.11591689,
+            w: 0.88047624,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_core::name::Name": (
+          hash: 4042927597982576294,
+          name: "Directional Light",
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "bevy_pbr::light::DirectionalLight": (
+          color: Rgba(
+            red: 1.0,
+            green: 1.0,
+            blue: 1.0,
+            alpha: 1.0,
+          ),
+          illuminance: 20000.0,
+          shadows_enabled: false,
+          shadow_depth_bias: 0.02,
+          shadow_normal_bias: 1.8,
+        ),
+        "studio::anim::timeline_animation::AnimationTarget": Uuid("57217c56-d86b-441f-a0b6-a471dfe1d463"),
+      },
+    ),
+    10: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 23.715185,
+            z: 0.0000007320094,
+          ),
+          rotation: (
+            x: 0.70710677,
+            y: 0.0,
+            z: 0.0,
+            w: 0.7071067,
+          ),
+          scale: (
+            x: 0.01,
+            y: 0.010000001,
+            z: 0.010000001,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("2c3faa37-9320-4bc7-825f-75b745477901"),
+          time: 1.1854,
+        ),
+      },
+    ),
+    11: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 27.426285,
+            z: 0.00000051081065,
+          ),
+          rotation: (
+            x: 0.7071068,
+            y: 0.0,
+            z: 0.0,
+            w: 0.70710677,
+          ),
+          scale: (
+            x: 0.01,
+            y: 0.010000001,
+            z: 0.010000001,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("2c3faa37-9320-4bc7-825f-75b745477901"),
+          time: 3.0443585,
+        ),
+      },
+    ),
+    12: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -5.861992,
+            y: 16.39393,
+            z: -44.6979,
+          ),
+          rotation: (
+            x: 0.70710677,
+            y: 0.0,
+            z: 0.0,
+            w: 0.7071067,
+          ),
+          scale: (
+            x: 0.01,
+            y: 0.010000001,
+            z: 0.010000001,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("34f59412-5a7b-44e9-aaa3-3e74840121c9"),
+          time: 0.0,
+        ),
+      },
+    ),
+    13: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -1.6321859,
+            y: 16.393932,
+            z: -46.45551,
+          ),
+          rotation: (
+            x: 0.70710677,
+            y: 0.0,
+            z: 0.0,
+            w: 0.7071067,
+          ),
+          scale: (
+            x: 0.01,
+            y: 0.010000001,
+            z: 0.010000001,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("34f59412-5a7b-44e9-aaa3-3e74840121c9"),
+          time: 1.6179003,
+        ),
+      },
+    ),
+    14: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.90487814,
+            y: 19.255144,
+            z: -44.125862,
+          ),
+          rotation: (
+            x: 0.7071068,
+            y: 0.0,
+            z: 0.0,
+            w: 0.70710677,
+          ),
+          scale: (
+            x: 0.01,
+            y: 0.010000001,
+            z: 0.010000001,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("34f59412-5a7b-44e9-aaa3-3e74840121c9"),
+          time: 3.0603817,
+        ),
+      },
+    ),
+    15: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -9.611355,
+            y: 20.93744,
+            z: -28.69173,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("2b76e191-e079-417a-9369-2443f21f3ce5"),
+          time: 0.0,
+        ),
+      },
+    ),
+    16: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -9.611355,
+            y: 20.93744,
+            z: 19.342052,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("2b76e191-e079-417a-9369-2443f21f3ce5"),
+          time: 0.967,
+        ),
+      },
+    ),
+    17: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -9.611355,
+            y: 11.742281,
+            z: -28.69173,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("408b5d7e-9456-4d81-a08e-feebba2ce1c4"),
+          time: 0.0,
+        ),
+      },
+    ),
+    18: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -9.611355,
+            y: 11.742281,
+            z: 13.85043,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("408b5d7e-9456-4d81-a08e-feebba2ce1c4"),
+          time: 0.97205836,
+        ),
+      },
+    ),
+    19: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -2.1474366,
+            y: 20.93744,
+            z: -28.69173,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("38601448-b10c-43ec-91de-367e51c06daf"),
+          time: 0.0,
+        ),
+      },
+    ),
+    20: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -2.1474366,
+            y: 20.93744,
+            z: 18.621094,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("38601448-b10c-43ec-91de-367e51c06daf"),
+          time: 1.0002003,
+        ),
+      },
+    ),
+    21: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -2.1474366,
+            y: 11.742281,
+            z: -28.69173,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("8c5f79d4-6093-4372-9d2c-722353c76013"),
+          time: 0.0,
+        ),
+      },
+    ),
+    22: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -2.1474366,
+            y: 11.742281,
+            z: 22.233124,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("8c5f79d4-6093-4372-9d2c-722353c76013"),
+          time: 0.98274034,
+        ),
+      },
+    ),
+    23: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -6.1651826,
+            y: 28.684336,
+            z: 21.026539,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("b1db578c-b426-414c-bc95-f701f1b9ca41"),
+          time: 0.0,
+        ),
+      },
+    ),
+    24: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -6.1651826,
+            y: 28.684336,
+            z: 34.293587,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("b1db578c-b426-414c-bc95-f701f1b9ca41"),
+          time: 0.7156913,
+        ),
+      },
+    ),
+    25: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -6.1651826,
+            y: 26.61894,
+            z: 22.791157,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("f7567e27-bb0b-4ac7-a840-3c043b8d2ec2"),
+          time: 0.0,
+        ),
+      },
+    ),
+    26: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -6.1651826,
+            y: 26.61894,
+            z: 38.36416,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("f7567e27-bb0b-4ac7-a840-3c043b8d2ec2"),
+          time: 0.70500934,
+        ),
+      },
+    ),
+    27: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 6.205474,
+            y: 28.684336,
+            z: 21.026539,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("48006f09-9f10-477f-8308-02343f34a8c9"),
+          time: 0.0,
+        ),
+      },
+    ),
+    28: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 6.205474,
+            y: 26.61894,
+            z: 22.791157,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("5e2e70d9-5b6d-495b-998d-6a1f6dc2f964"),
+          time: 0.0,
+        ),
+      },
+    ),
+    29: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 6.205474,
+            y: 26.61894,
+            z: 37.461624,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("5e2e70d9-5b6d-495b-998d-6a1f6dc2f964"),
+          time: 0.71035033,
+        ),
+      },
+    ),
+    30: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 6.205474,
+            y: 28.684336,
+            z: 34.863163,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 0.122251,
+            y: 0.122251,
+            z: 8.75498,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("48006f09-9f10-477f-8308-02343f34a8c9"),
+          time: 0.71035033,
+        ),
+      },
+    ),
+    31: (
+      components: {
+        "space_prefab::sub_scene::CollapsedSubScene": ("(\n  resources: {},\n  entities: {\n    31: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 6313511421271274664,\n          name: \"Scene\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::component::GltfPrefab\": (\n          path: \"desync.glb\",\n          scene: \"Scene0\",\n        ),\n      },\n    ),\n    36: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          37,\n          38,\n          39,\n          40,\n          41,\n          42,\n          43,\n          44,\n          45,\n          46,\n          47,\n          48,\n          49,\n          50,\n          51,\n          52,\n          53,\n          54,\n        ]),\n      },\n    ),\n    37: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: -0.25713548,\n            z: -4.3361616,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 17930118900081507113,\n          name: \"empty.026\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n      },\n    ),\n    38: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          1,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: -0.45699087,\n            z: -4.3361616,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2932322132067973075,\n          name: \"empty.027\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n      },\n    ),\n    39: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          2,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 13395407226770374147,\n          name: \"empty.028\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n      },\n    ),\n    40: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          3,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 15213343571318681368,\n          name: \"empty.029\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n      },\n    ),\n    41: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          4,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: -0.55585074,\n            z: -4.3361616,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 6637236937475434455,\n          name: \"empty.030\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n      },\n    ),\n    42: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          5,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2359233632329934770,\n          name: \"empty.031\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n      },\n    ),\n    43: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          6,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 37.414967,\n            y: 61.1213,\n            z: 112.0113,\n          ),\n          rotation: (\n            x: -0.30626115,\n            y: 0.43745646,\n            z: -0.16405046,\n            w: 0.8294115,\n          ),\n          scale: (\n            x: 2.0169291,\n            y: 2.016929,\n            z: 2.016929,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 1734594374362272207,\n          name: \"Sun\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          55,\n        ]),\n      },\n    ),\n    44: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          7,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 27.426285,\n            z: 0.00000051081065,\n          ),\n          rotation: (\n            x: 0.7071068,\n            y: 0.0,\n            z: 0.0,\n            w: 0.70710677,\n          ),\n          scale: (\n            x: 0.01,\n            y: 0.010000001,\n            z: 0.010000001,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 5100648900209823736,\n          name: \"StarFighterA.001\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          56,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"2c3faa37-9320-4bc7-825f-75b745477901\"),\n      },\n    ),\n    45: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          8,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -6.1651826,\n            y: 28.684336,\n            z: 21.026539,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2356508911138325861,\n          name: \"LaserA\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          57,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"b1db578c-b426-414c-bc95-f701f1b9ca41\"),\n      },\n    ),\n    46: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          9,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -9.611355,\n            y: 20.93744,\n            z: -28.69173,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 3771605970233175782,\n          name: \"LaserA.001\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          58,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"2b76e191-e079-417a-9369-2443f21f3ce5\"),\n      },\n    ),\n    47: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          10,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -9.611355,\n            y: 11.742281,\n            z: -28.69173,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 9811213967899955357,\n          name: \"LaserA.002\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          59,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"408b5d7e-9456-4d81-a08e-feebba2ce1c4\"),\n      },\n    ),\n    48: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          11,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -2.1474366,\n            y: 20.93744,\n            z: -28.69173,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 4239528607526478068,\n          name: \"LaserA.003\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          60,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"38601448-b10c-43ec-91de-367e51c06daf\"),\n      },\n    ),\n    49: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          12,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -2.1474366,\n            y: 11.742281,\n            z: -28.69173,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 17360688022630626399,\n          name: \"LaserA.004\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          61,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"8c5f79d4-6093-4372-9d2c-722353c76013\"),\n      },\n    ),\n    50: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          13,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 6.205474,\n            y: 28.684336,\n            z: 34.863163,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2771954425045718751,\n          name: \"LaserA.005\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          62,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"48006f09-9f10-477f-8308-02343f34a8c9\"),\n      },\n    ),\n    51: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          14,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: -6.1651826,\n            y: 26.61894,\n            z: 22.791157,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 17690120629478967177,\n          name: \"LaserA.006\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          63,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"f7567e27-bb0b-4ac7-a840-3c043b8d2ec2\"),\n      },\n    ),\n    52: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          15,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 6.205474,\n            y: 26.61894,\n            z: 22.791157,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 0.122251,\n            y: 0.122251,\n            z: 8.75498,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 16845800620004850392,\n          name: \"LaserA.007\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          64,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"5e2e70d9-5b6d-495b-998d-6a1f6dc2f964\"),\n      },\n    ),\n    53: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          16,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 7.8028564,\n            z: -77.33632,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 4339032300311916617,\n          name: \"Trench_merged\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          65,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"4499fa6b-3ebd-410c-bee7-72d373e1aabb\"),\n      },\n    ),\n    54: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          17,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.90368176,\n            y: 19.253796,\n            z: -44.12696,\n          ),\n          rotation: (\n            x: 0.7071068,\n            y: 0.0,\n            z: 0.0,\n            w: 0.70710677,\n          ),\n          scale: (\n            x: 0.01,\n            y: 0.010000001,\n            z: 0.010000001,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 14408680411555793288,\n          name: \"StarFighterB\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"space_prefab::save::ChildrenPrefab\": ([\n          66,\n        ]),\n        \"studio::scene::SceneElement\": Mesh,\n        \"studio::anim::timeline_animation::AnimationTarget\": Uuid(\"34f59412-5a7b-44e9-aaa3-3e74840121c9\"),\n      },\n    ),\n    55: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          6,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 1734594374362272207,\n          name: \"Sun\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"bevy_pbr::light::DirectionalLight\": (\n          color: Rgba(\n            red: 1.0,\n            green: 1.0,\n            blue: 1.0,\n            alpha: 1.0,\n          ),\n          illuminance: 34150.0,\n          shadows_enabled: false,\n          shadow_depth_bias: 0.02,\n          shadow_normal_bias: 1.8,\n        ),\n      },\n    ),\n    56: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          7,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 9518542504113058593,\n          name: \"StarFighterA\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 1.0,\n            green: 1.0,\n            blue: 1.0,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.09210527,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    57: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          8,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 516045924745151091,\n          name: \"Cube.305\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 0.0,\n            green: 0.0,\n            blue: 0.0,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    58: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          9,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 11455141375658386197,\n          name: \"Cube.306\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 1.0,\n            green: 0.24252349,\n            blue: 0.26523626,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    59: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          10,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 7710930313815418106,\n          name: \"Cube.307\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 1.0,\n            green: 0.24252349,\n            blue: 0.26523626,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    60: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          11,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 2006570935111361085,\n          name: \"Cube.308\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 1.0,\n            green: 0.24252349,\n            blue: 0.26523626,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    61: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          12,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 18402460489604278594,\n          name: \"Cube.309\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 1.0,\n            green: 0.24252349,\n            blue: 0.26523626,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    62: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          13,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 11261500935898758914,\n          name: \"Cube.310\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 0.0,\n            green: 0.0,\n            blue: 0.0,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    63: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          14,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 12965872175589560571,\n          name: \"Cube.311\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 0.0,\n            green: 0.0,\n            blue: 0.0,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    64: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          15,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 12943195592201606100,\n          name: \"Cube.312\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 0.0,\n            green: 0.0,\n            blue: 0.0,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.5,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    65: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          16,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 14833676912841048273,\n          name: \"Cube.215\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 1.0,\n            green: 1.0,\n            blue: 1.0,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 0.46721607,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n    66: (\n      components: {\n        \"space_prefab::sub_scene::ChildPath\": ([\n          0,\n          17,\n          0,\n        ]),\n        \"bevy_transform::components::transform::Transform\": (\n          translation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n          ),\n          rotation: (\n            x: 0.0,\n            y: 0.0,\n            z: 0.0,\n            w: 1.0,\n          ),\n          scale: (\n            x: 1.0,\n            y: 1.0,\n            z: 1.0,\n          ),\n        ),\n        \"bevy_core::name::Name\": (\n          hash: 14408680411555793288,\n          name: \"StarFighterB\",\n        ),\n        \"bevy_render::view::visibility::Visibility\": Inherited,\n        \"studio::ui::inspector::ShortMaterial\": (\n          base_color: RgbaLinear(\n            red: 1.0,\n            green: 1.0,\n            blue: 1.0,\n            alpha: 1.0,\n          ),\n          perceptual_roughness: 1.0,\n          metallic: 0.0,\n          reflectance: 0.5,\n        ),\n      },\n    ),\n  },\n)"),
+        "space_prefab::sub_scene::ChildPath": ([]),
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_core::name::Name": (
+          hash: 6313511421271274664,
+          name: "Scene",
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "space_prefab::component::GltfPrefab": (
+          path: "desync.glb",
+          scene: "Scene0",
+        ),
+      },
+    ),
+    32: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 27.808878,
+            z: 0.0,
+          ),
+          rotation: (
+            x: 0.70710677,
+            y: 0.0,
+            z: 0.0,
+            w: 0.7071067,
+          ),
+          scale: (
+            x: 0.01,
+            y: 0.010000001,
+            z: 0.010000001,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("2c3faa37-9320-4bc7-825f-75b745477901"),
+          time: 0.0,
+        ),
+      },
+    ),
+    33: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -26.600437,
+            y: 57.639946,
+            z: 45.259254,
+          ),
+          rotation: (
+            x: -0.323544,
+            y: -0.2166858,
+            z: -0.07637838,
+            w: 0.91789585,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: MainCamera,
+          time: 0.0,
+        ),
+      },
+    ),
+    34: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 7.8028564,
+            z: -77.33632,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("4499fa6b-3ebd-410c-bee7-72d373e1aabb"),
+          time: 0.0,
+        ),
+      },
+    ),
+    35: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: 0.0,
+            y: 7.8028564,
+            z: -297.5813,
+          ),
+          rotation: (
+            x: 0.0,
+            y: 0.0,
+            z: 0.0,
+            w: 1.0,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: Uuid("4499fa6b-3ebd-410c-bee7-72d373e1aabb"),
+          time: 3.037852,
+        ),
+      },
+    ),
+    4294967303: (
+      components: {
+        "bevy_transform::components::transform::Transform": (
+          translation: (
+            x: -7.1710815,
+            y: 43.12783,
+            z: 30.99612,
+          ),
+          rotation: (
+            x: -0.29587442,
+            y: -0.08895508,
+            z: -0.02768518,
+            w: 0.9506726,
+          ),
+          scale: (
+            x: 1.0,
+            y: 1.0,
+            z: 1.0,
+          ),
+        ),
+        "bevy_render::view::visibility::Visibility": Inherited,
+        "studio::anim::timeline_animation::TransformKeyframe": (
+          incoming_easing: Linear,
+          affect_translation: true,
+          affect_rotation: true,
+          affect_scale: true,
+        ),
+        "studio::anim::timeline_animation::Keyframe": (
+          target: MainCamera,
+          time: 3.0597014,
+        ),
+      },
+    ),
+  },
+)

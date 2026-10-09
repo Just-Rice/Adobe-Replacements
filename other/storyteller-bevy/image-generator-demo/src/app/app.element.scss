@@ -1,0 +1,172 @@
+.app-root {
+	position: fixed;
+	inset: 0;
+	display: flex;
+	background: #242433;
+}
+
+sts-scene-data-provider {
+	display: contents;
+}
+
+// Layout utilities
+.v-start, .v-end, .h-start, .h-end, .h-center {
+	position: absolute;
+}
+.v-start { top: 1rem; }
+.v-end { bottom: 1rem; }
+.h-start { left: 1rem; }
+.h-end { right: 1rem; }
+.h-center {
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.hierarchy-wrapper {
+	display: flex;
+	flex: 0 0 auto;
+	height: 100vh;
+}
+.hierarchy {
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-inline-end: none;
+	background: transparent;
+}
+.hierarchy-resize-handle {
+	width: 0.5rem;
+	cursor: ew-resize;
+	background: transparent;
+	transition: background 66.666ms linear;
+
+	&:hover, &.resizing {
+		background: #39394c;
+	}
+}
+
+.split-screen {
+	display: flex;
+	flex: 1 0 0;
+	position: relative;
+}
+
+.studio-scene,
+.image-capture {
+	flex: 0 0 50%;
+}
+.studio-scene {
+	overflow: hidden;
+}
+.image-capture {
+	width: 0;
+	object-fit: cover;
+}
+
+.studio-scene.resizing::part(canvas) {
+	pointer-events: none;
+}
+
+.config {
+	padding: 1rem;
+	background: #0006;
+	backdrop-filter: blur(16px);
+	border-radius: 0.5rem;
+}
+
+.config-prompts {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.config-checkbox {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+
+	color: #FFFC;
+	transition: color 0.1s linear;
+	font: {
+		family: "Fira Sans", sans-serif;
+		size: 15px;
+		weight: 500;
+	}
+
+	&:hover {
+		color: #FFFF;
+	}
+}
+
+.config-field {
+	background: #0004;
+	border: 1px solid #FFF2;
+	color: #FFFC;
+	padding: 0.5rem 0.75rem;
+	border-radius: 0.25rem;
+	font: {
+		family: "Fira Sans", sans-serif;
+		size: 1rem;
+	}
+
+	&::placeholder {
+		color: #FFF6;
+	}
+
+	&:focus-visible {
+		outline: none !important;
+		border-color: #FFF4;
+		background: #0006;
+		color: #FFFF;
+	}
+
+	&.seed {
+		width: 96px;
+		appearance: textfield;
+
+		&::-webkit-outer-spin-button,
+		&::-webkit-inner-spin-button {
+			appearance: none;
+			margin: 0;
+		}
+	}
+}
+
+.prompt {
+	flex: 1 0 0;
+}
+
+.config-field-group {
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+	position: relative;
+
+	.pre-icon {
+		&.red {
+			color: rgb(220, 53, 69);
+			font-size: 1.333rem;
+		}
+		&.green {
+			color: rgb(25, 135, 84);
+			font-size: 1.15rem;
+		}
+	}
+}
+
+.config-row {
+	display: flex;
+	width: 768px;
+	gap: 0.5rem;
+}
+
+.seed-refresh {
+	position: absolute;
+	top: 0;
+	right: 0.5rem;
+	bottom: 0;
+	appearance: none;
+	border: none;
+	background: transparent;
+	color: #FFFC;
+}

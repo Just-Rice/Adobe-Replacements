@@ -1,0 +1,11 @@
+{
+	"rust-analyzer.showUnlinkedFileNotification": false,
+	"explorer.fileNesting.patterns": {
+		"*.element.ts": "${capture}.element.scss, ${capture}.element.spec.ts",
+		"*.tsx": "${capture}.module.scss, ${capture}.spec.tsx",
+	},
+	"rust-analyzer.cargo.features": ["wasm"],
+	"files.associations": {
+		"*.meta": "ron"
+	}
+}

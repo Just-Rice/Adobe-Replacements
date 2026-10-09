@@ -1,0 +1,30 @@
+{
+  "name": "studio-web",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "studio-web/src",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nx/vite:build",
+      "outputs": ["{options.outputPath}"],
+      "dependsOn": [
+        {
+          "projects": ["studio"],
+          "target": "build:web"
+        }
+      ],
+      "options": {
+        "outputPath": "dist/studio-web"
+      }
+    },
+    "test": {
+      "executor": "@nx/vite:test",
+      "outputs": ["{options.reportsDirectory}"],
+      "options": {
+        "passWithNoTests": true,
+        "reportsDirectory": "../coverage/studio-web"
+      }
+    }
+  },
+  "tags": []
+}

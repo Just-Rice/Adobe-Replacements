@@ -1,0 +1,99 @@
+[package]
+name = "studio"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "studio"
+crate-type = ["cdylib", "rlib"]
+path = "src/lib.rs"
+
+[[bin]]
+name = "studio-standalone"
+path = "src/main.rs"
+
+[[bin]]
+name = "studio-headless"
+required-features = ["headless"]
+path = "src/main-headless.rs"
+
+[dependencies]
+bevy-inspector-egui = "0.23.0"
+bevy_mod_raycast = "0.17.0"
+bevy_rapier3d = "0.25.0"
+bevy_mod_outline = "0.7.0"
+bevy_web_asset = "0.8.0"
+bitflags = "2.4.0"
+console_error_panic_hook = { version = "0.1.7", optional = true }
+itertools = "0.12.1"
+js-sys = { version = "0.3.65", optional = true }
+parking_lot = "0.12.1"
+serde = "1.0.192"
+serde-wasm-bindgen = { version = "0.6.1", optional = true }
+serde_json = "1.0.108"
+studio-bvh = { path = "../studio-bvh" }
+wasm-bindgen = "0.2"
+web-sys = { version = "0.3", optional = true, features = [
+	"CustomEvent",
+	"CustomEventInit",
+	"Document",
+	"HtmlElement",
+	"Window",
+	"Location",
+	"WorkerGlobalScope"
+] }
+clap = { version = "4.4.18", features = ["derive"] }
+futures-intrusive = "0.5.0"
+wgpu = "0.19.3"
+futures-lite = "2.2.0"
+futures = "0.3.30"
+image = "0.25.0"
+bytemuck = "1.14.1"
+
+space_editor = {git = "https://github.com/rewin123/space_editor", rev = "daeaef70e4eb3ce1f945e296383a9eb2f31900b3"}
+anyhow.workspace = true
+serde_repr = "0.1.18"
+
+async-compat = "0.2"
+uuid = { version = "1", features = ["v4", "serde"]}
+indexed_db_futures = { version = "0.4", optional = true}
+wasm-bindgen-futures = { version = "0.4", optional = true}
+dashmap = "5"
+once_cell = "1"
+bevy_tweening = "0.10.0"
+
+[dependencies.reqwest]
+version = "0.12.2"
+features = [
+	"default",
+	"json",
+	"stream",
+]
+
+[features]
+wasm = [
+	"dep:console_error_panic_hook",
+	"dep:js-sys",
+	"dep:serde-wasm-bindgen",
+	"dep:web-sys",
+	"dep:indexed_db_futures",
+	"dep:wasm-bindgen-futures",
+	"bevy_rapier3d/wasm-bindgen",
+]
+desktop = []
+headless = []
+
+[dependencies.bevy]
+workspace = true
+
+[dependencies.bevy_mod_picking]
+version = "0.18.0"
+default-features = false
+features = [
+	"backend_bevy_ui",
+	"backend_rapier",
+	"backend_raycast",
+	"backend_sprite",
+	"debug",
+	"selection",
+]

@@ -1,0 +1,126 @@
+@use "sass:math";
+
+$hierarchy-width: 290px;
+
+.app-root {
+	--sidebar-width: 300px;
+	--timeline-height: min-content;
+
+	&.editor-mode {
+		display: grid;
+		width: 100vw;
+		height: 100vh;
+		grid-template: {
+			areas:
+				"viewport sidebar"
+				"timeline timeline";
+			rows: minmax(0, 1fr) var(--timeline-height);
+			columns: minmax(0, 1fr) var(--sidebar-width);
+		}
+	}
+
+	.viewport { grid-area: viewport; }
+	.sidebar { grid-area: sidebar; }
+	.timeline { grid-area: timeline; }
+
+	.sidebar {
+		display: flex;
+		flex-direction: column;
+		background-color: var(--color-panel-background);
+
+		.sidebar-header {
+			display: flex;
+			flex-direction: row;
+			gap: 0;
+
+			.sidebar-tab {
+				border: none;
+				background: none;
+				border-bottom: 2px var(--color-toolbar-background) solid;
+				flex-grow: 1;
+				border-radius: 0;
+
+				&.current-tab {
+					color: var(--color-text-bright);
+					border-bottom-color: var(--color-accent);
+				}
+			}
+		}
+
+		.sidebar-view {
+			padding: 1rem;
+		}
+	}
+}
+
+.help {
+	grid-area: help;
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}
+
+.studio.block-pointer-events::part(canvas) {
+	pointer-events: none;
+}
+
+.inspector-header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 2rem;
+
+	padding: 0 {
+		inline-start: 0.75rem;
+	}
+
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+
+	background: #0004;
+
+	&__label {
+		margin: 0;
+		color: #FFF9;
+
+		font: {
+			family: "Fira Sans", sans-serif;
+			size: math.div(15, 16) * 1rem;
+			weight: 500;
+		}
+	}
+
+	&__minimize {
+		width: math.div(24, 16) * 1rem;
+		height: math.div(24, 16) * 1rem;
+		border-radius: math.div(12, 16) * 1rem;
+		margin: 0;
+		padding: 0;
+
+		appearance: none;
+		background: transparent;
+		border: none;
+		color: #FFFC;
+
+		transition: {
+			property: color, background-color;
+			duration: 66.666ms;
+			timing-function: linear;
+		}
+
+		font-size: 1rem;
+
+		&:hover {
+			background: #FFF1;
+			color: #FFFF;
+		}
+	}
+}
+
+// TODO: Move this
+.menu-button-icon {
+	font-size: 12px;
+	opacity: 0.75;
+}

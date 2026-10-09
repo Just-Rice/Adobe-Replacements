@@ -1,0 +1,57 @@
+@use "sass:math";
+
+:host {
+	box-sizing: border-box;
+	display: block;
+	padding: 0.5rem 0.75rem;
+	border-radius: 0.5rem;
+
+	background: var(--neutral-200);
+	border: 1px solid transparent;
+	color: #FFF;
+	outline: transparent 2px solid {
+		offset: -2px;
+	}
+
+	transition: {
+		property: background-color, outline-color;
+		duration: 100ms;
+		timing-function: linear;
+	}
+
+	font: {
+		family: "Fira Sans", sans-serif;
+		size: math.div(14, 16) * 1rem;
+		weight: 500;
+	}
+	line-height: 1;
+	white-space: nowrap;
+}
+
+:host(:focus-within) {
+	outline-color: var(--color-accent);
+	background: var(--neutral-100)
+}
+
+:host(:not(.editing)) {
+	cursor: ew-resize;
+}
+
+:host(:disabled) {
+	pointer-events: none !important;
+}
+
+.input {
+	width: 100%;
+	height: 100%;
+	border: none;
+	outline: none !important;
+
+	&:first-line {
+		display: inline-block;
+	}
+
+	&::selection {
+		background: var(--neutral-300);
+	}
+}

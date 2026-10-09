@@ -1,0 +1,23 @@
+[workspace]
+resolver = "2"
+members = [
+    "./studio",
+    "./studio-bvh",
+]
+
+[workspace.dependencies]
+anyhow = "1.0.75"
+
+[workspace.dependencies.bevy]
+version = "0.13.2"
+features = ["tonemapping_luts"]
+
+[profile.dev-custom]
+inherits = "dev"
+opt-level = 1
+
+[profile.dev-custom.package."*"]
+opt-level = 3
+
+[profile.release]
+opt-level = 3

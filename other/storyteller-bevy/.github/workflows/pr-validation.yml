@@ -1,0 +1,65 @@
+name: Run formatter and linter
+on:
+  pull_request:
+    branches:
+      - main
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  rustfmt:
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@1.76.0
+        with:
+          components: rustfmt
+      - name: Check Rust formatting
+        run: cargo fmt --all -- --check
+
+  lint:
+    timeout-minutes: 10
+    strategy:
+      max-parallel: 1
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            target/
+          key: ${{ runner.os }}-cargo-lint-and-test-${{ hashFiles('**/Cargo.toml') }}
+      - uses: dtolnay/rust-toolchain@1.76
+        with:
+          components: clippy
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+      - name: Install Linux dependencies
+        run: |
+              sudo apt-get update
+              sudo apt-get install -y --no-install-recommends \
+                libasound2-dev \
+                libudev-dev \
+                librust-wayland-commons-dev \
+                librust-wayland-sys-dev \
+                libwayland-client++0 \
+                libwayland-client0 \
+                git
+      - name: Install JS dependencies
+        run: npm ci
+      - name: Ensure unambiguous `main`
+        if: github.ref != 'refs/heads/main'
+        run: |
+              git remote set-branches origin main
+              git fetch --depth 1 origin main
+              git branch main origin/main
+      - name: Run Nx-configured `lint` targets
+        run: npx nx affected -t lint --base=main --head=HEAD

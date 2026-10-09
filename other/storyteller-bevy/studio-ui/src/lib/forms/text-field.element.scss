@@ -1,0 +1,55 @@
+@use "sass:math";
+
+:host {
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	padding: 0.5rem 0.75rem;
+	border-radius: 0.25rem;
+	gap: 0.75rem;
+
+	background: #0004;
+	border: 1px solid #FFF2;
+	color: #FFFC;
+	transition: {
+		property: background-color, border-color, color;
+		duration: 33.333ms;
+		timing-function: linear;
+	}
+
+	font: {
+		family: "Fira Sans", sans-serif;
+		size: math.div(15, 16) * 1rem;
+	}
+}
+
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+[part^="icon-"] {
+	color: #FFF6;
+}
+
+:host(:focus) {
+	outline: none;
+	border-color: #FFF4;
+	background: #0006;
+	color: #FFFF;
+}
+
+.input {
+	flex: 1 0 0;
+	appearance: none;
+	background: transparent;
+	border: none;
+	font: inherit;
+	color: inherit;
+	outline: none !important;
+
+	&::placeholder {
+		font: inherit;
+		color: #FFF6;
+	}
+}
